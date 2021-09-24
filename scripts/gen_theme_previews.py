@@ -76,7 +76,7 @@ def main():
         theme_svg_path = os.path.join(args.output_dir, f"{input_file}.svg")
         with open(theme_svg_path, 'w') as svg_out:
             svg_out.write(theme_svg)
-        cell += f"<img src='{input_file}.svg' width='200'>|"
+        cell += f"<img src='{input_file}.svg' width='300'>|"
         markdown.append(cell)
 
     output_str = "\n".join(markdown)
