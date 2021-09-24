@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 300 145" xmlns:xlink="http://www.w3.org/1999/xlink">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 300 145">
 <rect width="300" height="145" class="Dynamic" fill="{background}" rx="5" /> 
 
 <!-- first command -->
@@ -87,6 +87,5 @@ git(
 </text>
 <!-- cursor -->
 <line x1="15" y1="120" x2="15" y2="130" style="stroke-width:2" class="Dynamic" stroke="{accent}" />
-<script  xlink:href="https://raw.githubusercontent.com/warpdotdev/themes/readmes/scripts/query_params.js" />
 </svg>
 
