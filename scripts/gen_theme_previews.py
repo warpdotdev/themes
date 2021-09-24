@@ -59,6 +59,7 @@ def main():
     parser.add_argument('input_dir', type=str, help='Directory from which to read in all Warp themes.')
     parser.add_argument('output_dir', type=str, help='Where to save README.md')
     parser.add_argument("svg_path", type=str, help="Path to svg template file.")
+    parser.add_argument("intro_file", type=str, help="What should go on top of README.md.")
     args = parser.parse_args()
 
     ensure_output_dir(args.output_dir)
@@ -68,18 +69,23 @@ def main():
     markdown.append("|Theme name | Preview|")
     markdown.append("| --- | --- |")
     svg = open(args.svg_path, 'r').read()
+    svg_dir = os.path.join(args.output_dir, "previews")
+    os.makedirs(svg_dir, exist_ok = True)
+
+    intro = open(args.intro_file, 'r').read()
+
     for input_file in filenames:
         print(f"Generating for {input_file}")
         cell = f"|**{file_name_to_display(input_file)}**:|"
         color_dict = get_color_dict(args.input_dir, input_file)
         theme_svg = gen_svg_for_theme(color_dict, svg)
-        theme_svg_path = os.path.join(args.output_dir, f"{input_file}.svg")
+        theme_svg_path = os.path.join(svg_dir, f"{input_file}.svg")
         with open(theme_svg_path, 'w') as svg_out:
             svg_out.write(theme_svg)
         cell += f"<img src='{input_file}.svg' width='300'>|"
         markdown.append(cell)
 
-    output_str = "\n".join(markdown)
+    output_str = intro +  "\n".join(markdown)
     with open(os.path.join(args.output_dir,"README.md"), 'w') as output:
         output.write(output_str)
 
