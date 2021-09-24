@@ -74,7 +74,7 @@ def main():
 
     intro = open(args.intro_file, 'r').read()
 
-    for input_file in filenames:
+    for input_file in sorted(filenames):
         print(f"Generating for {input_file}")
         cell = f"|**{file_name_to_display(input_file)}**:|"
         color_dict = get_color_dict(args.input_dir, input_file)
