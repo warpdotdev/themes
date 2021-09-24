@@ -74,7 +74,7 @@ def main():
 
     for input_file in sorted(filenames):
         print(f"Generating for {input_file}")
-        cell = f"|**{file_name_to_display(input_file)}**:|"
+        cell = f"|**[{file_name_to_display(input_file)}]({input_file})**:|"
         color_dict = get_color_dict(args.input_dir, input_file)
         theme_svg = gen_svg_for_theme(color_dict, svg)
         theme_svg_path = os.path.join(svg_dir, f"{input_file}.svg")
