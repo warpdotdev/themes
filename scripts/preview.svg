@@ -87,6 +87,6 @@ git(
 </text>
 <!-- cursor -->
 <line x1="15" y1="120" x2="15" y2="130" style="stroke-width:2" class="Dynamic" stroke="{accent}" />
-<script  xlink:href="./query_params.js" />
+<script  xlink:href="/scripts/query_params.js" />
 </svg>
 
