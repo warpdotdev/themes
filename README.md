@@ -64,7 +64,8 @@ struct Colors {
 `Color` is an RGB color that's serialized to / deserialized from hexadecimal color representation. It starts with '#'.
 
 First elements, `background`, `foreground`, `accent` and `details` are Warp-specific. 
-Accent color is the one used for highlights in Warp's UI, while `details` describe what detailing options in our UI should we pick for the given theme. Options are `darker` (perfect for dark themes) or `lighter` (perfect for light-mode themes).
+Accent color is the one used for highlights in Warp's UI, while `details` describe what detailing options in our UI should we pick for the given theme. Options are `darker` (perfect for dark themes) or `lighter` (perfect for light-mode themes). 
+`TerminalColors` represents the collection of normal & bright colors (16 total) known from other terminal themes (ansi colors).
 
 `WarpTheme` is represented in yaml files.
 
