@@ -98,7 +98,7 @@ terminal_colors:
 ```
 
 ## 4. Contributing
-Feeling like your designer wants to share your own take on Warp theming? Any contributions to this repo are greatly appreciated - let us spread the ♥ of Warp!
+Feeling like your designer wants to share your own take on Warp theming? Any contributions to this repo are greatly appreciated - help us spread the ♥ of Warp!
 
 1. Fork the project
 2. Create your branch (`git checkout -b theme/AwesomeTheme`)
