@@ -1,7 +1,7 @@
 # Warp Themes
-This is a repository with themes for [Warp terminal](https://www.warp.dev/).
+This is a repository with themes for [Warp](https://www.warp.dev/).
 
-## 1. How to use a custom theme in Warp?
+## 1. How do I use a custom theme in Warp?
 To start, create a config directory in your home directory:
 ```
 mkdir -p ~/.warp/themes
@@ -14,69 +14,38 @@ Add your new custom theme yaml theme file to this directory:
 ```
 cp ~/Downloads/my_awesome_theme.yaml ~/.warp/themes
 ```
-and open your Settings panel (top right corner), and choose Select Theme. Your new theme should now be visible on the list of available themes. Click & confirm, and you're set!
+Open the Settings menu (top right corner or `⌘-,`), and choose Select Theme. Your new theme should now be visible on the list of available themes. Click & confirm, and you're set!
 
 
-## 2. How to use this repo?
-This repository is a collection of themes that you can use right away in your Warp terminal. 
+## 2. How do I use this repo?
+This repository is a collection of themes that you can use right away in Warp. 
 It's split into two parts:
 - [base16 themes](./base16/README.md)
 - [standard themes](./standard/README.md)
 
 You can select themes from either of those locations, depending on your preferences.
-You can find previews of each of the available themes in the directories' README.
+You can find previews of each of the available themes in the README of each directory.
 
-Main difference between "standard" and "base16" themes is that "standard" themes follow the typical color setup, while "base16" themes follow the framework suggested by [@chriskempson](https://github.com/chriskempson/base16).
+The main difference between "standard" and "base16" themes is that "standard" themes follow the typical color setup, while "base16" themes follow the framework suggested by [@chriskempson](https://github.com/chriskempson/base16).
 Some of the standard themes have their "base16" version available in the repo as well.
 
 To install a theme from this repo you can:
 - download just a single file and follow the steps from (1)
-- clone entire repo and run `mv <your_clone_location>standard/* ~/.warp/themes && mv <your_clone_location>base16/* ~/.warp/themes` to use all of the available themes
+- clone the entire repo and run `mv <your_clone_location>standard/* ~/.warp/themes && mv <your_clone_location>base16/* ~/.warp/themes` to use all of the available themes
 
-## 3. How to write your own custom theme?
-A custom theme can be described as the following structure:
+## 3. How do I write my own custom theme?
+A custom theme in Warp has the following yml structure:
+
 ```
-struct WarpTheme {
-  background: Color,
-  foreground: Color,
-  accent: Color,
-  details: "darker" | "lighter",
-  terminal_colors: TerminalColors,
-}
-
-struct TerminalColors {
-  normal: Colors,
-  bright: Colors,
-}
-
-struct Colors {
-  black: Color,
-  blue: Color,
-  cyan: Color,
-  green: Color,
-  magenta: Color,
-  red: Color,
-  white: Color,
-  yellow: Color,
-}
-```
-
-`Color` is an RGB color that's serialized to / deserialized from hexadecimal color representation. It starts with '#'.
-
-First elements, `background`, `foreground`, `accent` and `details` are Warp-specific. 
-Accent color is the one used for highlights in Warp's UI, while `details` describe what detailing options in our UI should we pick for the given theme. Options are `darker` (perfect for dark themes) or `lighter` (perfect for light-mode themes). 
-`TerminalColors` represents the collection of normal & bright colors (16 total) known from other terminal themes (ansi colors).
-
-`WarpTheme` is represented in yaml files.
-
-Example:
-```
-cat ~/.warp/themes/solarized_dark.yaml
-
+# Accent color for UI elements
 accent: '#268bd2'
+# Terminal background color
 background: '#002b36'
+# Whether the theme is lighter or darker.
 details: darker
+# The foreground color.
 foreground: '#839496'
+# Ansi escape colors.
 terminal_colors:
   bright:
     black: '#002b36'
@@ -97,6 +66,12 @@ terminal_colors:
     white: '#eee8d5'
     yellow: '#b58900'
 ```
+
+Each color is represented in hex and must start with with '#'.
+
+`background`, `foreground`, `accent` and `details` are Warp-specific. 
+The accent color is the one used for highlights in Warp's UI, while `details` describe what detailing options in our UI should we pick for the given theme. Options are `darker` (typically used for dark themes) or `lighter` (typically used for light-mode themes). 
+`terminal_theme` represents the collection of normal & bright colors (16 total) known from other terminal themes (ansi colors).
 
 ## 4. Contributing
 Feeling like your designer wants to share your own take on Warp theming? Any contributions to this repo are greatly appreciated - help us spread the ♥ of Warp!
@@ -125,5 +100,5 @@ Yes! We've already shared some more mocks with our community on Discord showcasi
 Stay tuned, as we continue iterating on those!
 
 ### Is this a final format for the configuration?
-The format itself will expand (background images, gradients) but we don't forsee any breaking changes to current themes.
+The format itself will expand (background images, gradients) but we don't forsee any breaking changes to current themes. We also plan on supporting sharing/creating custom themes directly within Warp.
 
