@@ -1,7 +1,7 @@
 # Warp Themes
 This is a repository with themes for [Warp](https://www.warp.dev/).
 
-## 1. How do I create a custom theme in Warp?
+## 1. How do I use a custom theme in Warp?
 To start, create a config directory in your home directory:
 ```
 mkdir -p ~/.warp/themes
