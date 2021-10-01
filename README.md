@@ -83,7 +83,7 @@ Feeling like your designer wants to share your own take on Warp theming? Any con
 # assuming you're adding the theme to `standard` directory:
 python3 ./scripts/gen_theme_previews.py standard/ standard/ ./scripts/preview.svg ./standard/README.md-intro
 ```
-4. Commit your changes (`git commit -m 'This theme is awesome`)
+4. Commit your changes (`git commit -m 'This theme is awesome'`)
 5. Push to the branch (`git push origin`)
 6. Open a pull request
 

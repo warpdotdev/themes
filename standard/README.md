@@ -27,6 +27,7 @@ Repo: https://github.com/eendroroy/alacritty-theme
 |**[High Contrast](high_contrast.yaml)**:|<img src='previews/high_contrast.yaml.svg' width='300'>|
 |**[Horizon Dark](horizon_dark.yaml)**:|<img src='previews/horizon_dark.yaml.svg' width='300'>|
 |**[Hyper](hyper.yaml)**:|<img src='previews/hyper.yaml.svg' width='300'>|
+|**[Iceberg](iceberg.yaml)**:|<img src='previews/iceberg.yaml.svg' width='300'>|
 |**[Iterm](iterm.yaml)**:|<img src='previews/iterm.yaml.svg' width='300'>|
 |**[Konsole Linux](konsole_linux.yaml)**:|<img src='previews/konsole_linux.yaml.svg' width='300'>|
 |**[Low Contrast](low_contrast.yaml)**:|<img src='previews/low_contrast.yaml.svg' width='300'>|
