@@ -14,6 +14,7 @@ Repo: https://github.com/eendroroy/alacritty-theme
 |**[Breeze](breeze.yaml)**:|<img src='previews/breeze.yaml.svg' width='300'>|
 |**[Campbell](campbell.yaml)**:|<img src='previews/campbell.yaml.svg' width='300'>|
 |**[Challenger Deep](challenger_deep.yaml)**:|<img src='previews/challenger_deep.yaml.svg' width='300'>|
+|**[Cobalt Next](cobalt_next.yaml)**:|<img src='previews/cobalt_next.yaml.svg' width='300'>|
 |**[Cyber Punk Neon](cyber_punk_neon.yaml)**:|<img src='previews/cyber_punk_neon.yaml.svg' width='300'>|
 |**[Darcula](darcula.yaml)**:|<img src='previews/darcula.yaml.svg' width='300'>|
 |**[Dark Pastels](dark_pastels.yaml)**:|<img src='previews/dark_pastels.yaml.svg' width='300'>|
