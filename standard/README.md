@@ -17,7 +17,7 @@ Repo: https://github.com/eendroroy/alacritty-theme
 |**[Cyber Punk Neon](cyber_punk_neon.yaml)**:|<img src='previews/cyber_punk_neon.yaml.svg' width='300'>|
 |**[Darcula](darcula.yaml)**:|<img src='previews/darcula.yaml.svg' width='300'>|
 |**[Dark Pastels](dark_pastels.yaml)**:|<img src='previews/dark_pastels.yaml.svg' width='300'>|
-|**[Default Dark](default_dark.yaml)**:|<img src='previews/base16_default_dark.yaml.svg' width='300'>|
+|**[Default Dark](default_dark.yaml)**:|<img src='previews/default_dark.yaml.svg' width='300'>|
 |**[Dracula](dracula.yaml)**:|<img src='previews/dracula.yaml.svg' width='300'>|
 |**[Falcon](falcon.yaml)**:|<img src='previews/falcon.yaml.svg' width='300'>|
 |**[Flat Remix](flat_remix.yaml)**:|<img src='previews/flat_remix.yaml.svg' width='300'>|
