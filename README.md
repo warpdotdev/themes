@@ -73,7 +73,111 @@ Each color is represented in hex and must start with with '#'.
 The accent color is the one used for highlights in Warp's UI, while `details` describe what detailing options in our UI should we pick for the given theme. Options are `darker` (typically used for dark themes) or `lighter` (typically used for light-mode themes). 
 `terminal_theme` represents the collection of normal & bright colors (16 total) known from other terminal themes (ansi colors).
 
-## 4. Contributing
+## 4. Background Images and Gradients
+You can now add a gradient or use a custom background in Warp.
+
+### Background Images YAML Config
+```
+# Accent color for UI elements
+accent: '#268bd2'
+# Terminal background color
+background: '#002b36'
+# Whether the theme is lighter or darker.
+details: darker
+# The foreground color.
+foreground: '#839496'
+# Ansi escape colors.
+
+############################################################### SEE BELOW
+# Background Images
+background_image:
+
+  # this is the path to the background img
+  # at the moment we only support .jpg extensions (2021 Nov)
+  path: warp.jpg 
+
+  # this is the opacity value
+  opacity: 60
+############################################################### SEE ABOVE 
+
+terminal_colors:
+  bright:
+    black: '#002b36'
+    blue: '#839496'
+    cyan: '#93a1a1'
+    green: '#586e75'
+    magenta: '#6c71c4'
+    red: '#cb4b16'
+    white: '#fdf6e3'
+    yellow: '#657b83'
+  normal:
+    black: '#073642'
+    blue: '#268bd2'
+    cyan: '#2aa198'
+    green: '#859900'
+    magenta: '#d33682'
+    red: '#dc322f'
+    white: '#eee8d5'
+    yellow: '#b58900'
+```
+### Gradients
+To set up a gradient, instead of using a single accent or background value ('#268bd2' in example above).
+You can create a sub-level (one indention) with two sub-values either "left" and "right" for horizontal gradients or "top" and "bottom" for vertical gradients.
+Like so:
+
+```
+accent:
+  top: #abcdef
+  bottom: #fedcba
+```
+
+```
+accent:
+   left: #abcdef
+   right: #fedcba
+```
+
+You can also do this for backgrounds.
+Here's a full yaml file with gradients set for both background and accent: 
+
+```
+################################ See below 
+# accent has a gradient
+accent:
+  left: '#474747'
+  right: '#ffffff'
+# background has a gradient
+background: 
+  top: '#474747'
+  bottom: '#ffffff'
+################################ See above
+# Whether the theme is lighter or darker.
+details: darker
+# The foreground color.
+foreground: '#839496'
+# Ansi escape colors.
+terminal_colors:
+  bright:
+    black: '#002b36'
+    blue: '#839496'
+    cyan: '#93a1a1'
+    green: '#586e75'
+    magenta: '#6c71c4'
+    red: '#cb4b16'
+    white: '#fdf6e3'
+    yellow: '#657b83'
+  normal:
+    black: '#073642'
+    blue: '#268bd2'
+    cyan: '#2aa198'
+    green: '#859900'
+    magenta: '#d33682'
+    red: '#dc322f'
+    white: '#eee8d5'
+    yellow: '#b58900'
+```
+
+## 5. Contributing
 Feeling like your designer wants to share your own take on Warp theming? Any contributions to this repo are greatly appreciated - help us spread the ♥ of Warp!
 
 1. Fork the project
@@ -92,15 +196,11 @@ Have feedback or suggestion for this repo? Please, file an issue.
 
 All other Warp-related things can be discussed in [Warp official repo](https://github.com/warpdotdev/warp) or our [Discord server](https://discord.gg/T2p5xFgpjr).
 
-
 ## 6. FAQ
-
-### Themes are cool, but will I be able to do more?
-Yes! We've already shared some more mocks with our community on Discord showcasing background images, gradients and other options for themes.
-Stay tuned, as we continue iterating on those!
+Frequently Asked Questions
 
 ### Is this a final format for the configuration?
-The format itself will expand (background images, gradients) but we don't forsee any breaking changes to current themes. We also plan on supporting sharing/creating custom themes directly within Warp.
+The format itself will expand but we don't forsee any breaking changes to current themes. We also plan on supporting sharing/creating custom themes directly within Warp.
 
 ## 7. Open source dependencies
 We'd like to call out a few of the open source themes and repositories that helped bootstrap the set of themes for Warp:
