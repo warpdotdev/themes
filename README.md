@@ -77,6 +77,10 @@ The accent color is the one used for highlights in Warp's UI, while `details` de
 You can now add a gradient or use a custom background in Warp.
 
 ### Background Images YAML Config
+To add a background image you can use this attribute: "background_image:" with the name of the image you want to use as the background.
+Note: Warp currently only supports images with the *.jpg* file format.
+Here is what the .yaml config looks like:
+
 ```
 # Accent color for UI elements
 accent: '#268bd2'
