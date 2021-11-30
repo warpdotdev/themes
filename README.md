@@ -95,10 +95,8 @@ foreground: '#839496'
 ############################################################### SEE BELOW
 # Background Images
 background_image:
-
-  # this is the path to the background img
-  # at the moment we only support .jpg extensions (2021 Nov)
-  path: warp.jpg 
+    # we currently (2021 Nov) only support jpg formats (.jpeg, .jpg, .JPEG)
+    path: warp.jpg 
 
   # this is the opacity value
   opacity: 60
