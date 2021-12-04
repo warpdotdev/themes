@@ -21,6 +21,8 @@ Repo: https://github.com/eendroroy/alacritty-theme
 |**[Dracula](dracula.yaml)**:|<img src='previews/dracula.yaml.svg' width='300'>|
 |**[Falcon](falcon.yaml)**:|<img src='previews/falcon.yaml.svg' width='300'>|
 |**[Flat Remix](flat_remix.yaml)**:|<img src='previews/flat_remix.yaml.svg' width='300'>|
+|**[Github Dark](github_dark.yaml)**:|<img src='previews/github_dark.yaml.svg' width='300'>|
+|**[Github Light](github_light.yaml)**:|<img src='previews/github_light.yaml.svg' width='300'>|
 |**[Gotham](gotham.yaml)**:|<img src='previews/gotham.yaml.svg' width='300'>|
 |**[Gruvbox Dark](gruvbox_dark.yaml)**:|<img src='previews/gruvbox_dark.yaml.svg' width='300'>|
 |**[Gruvbox Light](gruvbox_light.yaml)**:|<img src='previews/gruvbox_light.yaml.svg' width='300'>|
