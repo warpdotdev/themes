@@ -1,6 +1,5 @@
 In this directory you'll find themes popular among other tools, including Solarized, Dracula and others.
 
-
 Themes in this directory were sourced and auto-generated based on the Alacritty themes collected by @eendroroy.
 Repo: https://github.com/eendroroy/alacritty-theme
 |Theme name | Preview|
@@ -36,6 +35,7 @@ Repo: https://github.com/eendroroy/alacritty-theme
 |**[Low Contrast](low_contrast.yaml)**:|<img src='previews/low_contrast.yaml.svg' width='300'>|
 |**[Material Theme](material_theme.yaml)**:|<img src='previews/material_theme.yaml.svg' width='300'>|
 |**[Material Theme Mod](material_theme_mod.yaml)**:|<img src='previews/material_theme_mod.yaml.svg' width='300'>|
+|**[Night Owl](night_owl.yaml)**:|<img src='previews/night_owl.yaml.svg' width='300'>|
 |**[Nord](nord.yaml)**:|<img src='previews/nord.yaml.svg' width='300'>|
 |**[Oceanic Next](oceanic_next.yaml)**:|<img src='previews/oceanic_next.yaml.svg' width='300'>|
 |**[Omni](omni.yaml)**:|<img src='previews/omni.yaml.svg' width='300'>|
