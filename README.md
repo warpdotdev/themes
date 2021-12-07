@@ -95,8 +95,10 @@ foreground: '#839496'
 ############################################################### SEE BELOW
 # Background Images
 background_image:
-    # we currently (2021 Nov) only support jpg formats (.jpeg, .jpg, .JPEG)
-    path: warp.jpg 
+  # we currently (2021 Nov) only support jpg formats (.jpeg, .jpg, .JPEG)
+  # the path is relative to ~/.warp/themes/
+  # the full path to the picture is: ~/.warp/themes/warp.jpg
+  path: warp.jpg 
 
   # this is the opacity value
   opacity: 60
