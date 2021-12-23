@@ -1,0 +1,27 @@
+accent: '#6587bf'
+background: '#fafafa'
+background_image:
+  path: holiday_winter.jpg
+  opacity: 47
+
+details: lighter
+foreground: '#5e646f'
+terminal_colors:
+  bright:
+    black: '#5e646f'
+    blue: '#6587bf'
+    cyan: '#509c93'
+    green: '#7c9f4b'
+    magenta: '#b870ce'
+    red: '#db7070'
+    white: '#5e646f'
+    yellow: '#d69822'
+  normal:
+    black: '#fafafa'
+    blue: '#6587bf'
+    cyan: '#509c93'
+    green: '#7c9f4b'
+    magenta: '#b870ce'
+    red: '#db7070'
+    white: '#5e646f'
+    yellow: '#d69822'
