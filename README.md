@@ -1,23 +1,29 @@
 # Warp Themes
+
 This is a repository with themes for [Warp](https://www.warp.dev/).
 
 ## 1. How do I use a custom theme in Warp?
+
 To start, create a config directory in your home directory:
-```
+
+```sh
 mkdir -p ~/.warp/themes
 ```
+
 Note that it may take several minutes for Warp to initially discover the new config directory.
 You can either wait, or just restart the application.
 After that step, all future changes to `~/.warp/themes` directory will be reflected in Warp within seconds.
 
 Add your new custom theme yaml theme file to this directory:
-```
+
+```sh
 cp ~/Downloads/my_awesome_theme.yaml ~/.warp/themes
-```
+
+```sh
 Open the Settings menu (top right corner or `⌘-,`), and choose Select Theme. Your new theme should now be visible on the list of available themes. Click & confirm, and you're set!
 
-
 ## 2. How do I use this repo?
+
 This repository is a collection of themes that you can use right away in Warp. 
 It's split into two parts:
 - [base16 themes](./base16/README.md)
@@ -71,19 +77,21 @@ terminal_colors:
 
 Each color is represented in hex and must start with with '#'.
 
-`background`, `foreground`, `accent` and `details` are Warp-specific. 
-The accent color is the one used for highlights in Warp's UI, while `details` describe what detailing options in our UI should we pick for the given theme. Options are `darker` (typically used for dark themes) or `lighter` (typically used for light-mode themes). 
+`background`, `foreground`, `accent` and `details` are Warp-specific.
+The accent color is the one used for highlights in Warp's UI, while `details` describe what detailing options in our UI should we pick for the given theme. Options are `darker` (typically used for dark themes) or `lighter` (typically used for light-mode themes).
 `terminal_theme` represents the collection of normal & bright colors (16 total) known from other terminal themes (ansi colors).
 
 ## 4. Background Images and Gradients
+
 You can now add a gradient or use a custom background in Warp.
 
 ### Background Images YAML Config
+
 To add a background image you can use this attribute: "background_image:" with the name of the image you want to use as the background.
 Note: Warp currently only supports images with the *.jpg* file format.
 Here is what the .yaml config looks like:
 
-```
+```yaml
 # Accent color for UI elements
 accent: '#268bd2'
 # Terminal background color
