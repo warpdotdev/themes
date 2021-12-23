@@ -1,5 +1,5 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 300 145">
-<rect width="300" height="145" class="Dynamic" fill="#171c19" rx="5" /> 
+<rect width="300" height="145" class="Dynamic" fill="#171c19" rx="5" />
 
 <!-- first command -->
 <text x="15" y="15" fill="#87928a" font-size="0.6em" font-family="monospace" class="Dynamic">ls</text>
@@ -88,4 +88,3 @@ git(
 <!-- cursor -->
 <line x1="15" y1="120" x2="15" y2="130" style="stroke-width:2" class="Dynamic" stroke="#478c90" />
 </svg>
-

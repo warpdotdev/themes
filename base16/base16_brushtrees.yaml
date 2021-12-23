@@ -3,8 +3,8 @@ accent: '#868cb3'
 background: '#e3efef'
 details: darker
 foreground: '#6d828e'
-terminal_colors: 
-  bright: 
+terminal_colors:
+  bright:
     black: '#98afb5'
     blue: '#8299a1'
     cyan: '#b39f9f'
@@ -13,7 +13,7 @@ terminal_colors:
     red: '#d8bba2'
     white: '#485867'
     yellow: '#b0c5c8'
-  normal: 
+  normal:
     black: '#e3efef'
     blue: '#868cb3'
     cyan: '#86b3b3'
