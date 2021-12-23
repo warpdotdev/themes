@@ -24,7 +24,7 @@ Open the Settings menu (top right corner or `⌘-,`), and choose Select Theme. Y
 
 ## 2. How do I use this repo?
 
-This repository is a collection of themes that you can use right away in Warp. 
+This repository is a collection of themes that you can use right away in Warp.
 It's split into two parts:
 - [base16 themes](./base16/README.md)
 - [standard themes](./standard/README.md)
@@ -108,11 +108,11 @@ background_image:
   # we currently (2021 Nov) only support jpg formats (.jpeg, .jpg, .JPEG)
   # the path is relative to ~/.warp/themes/
   # the full path to the picture is: ~/.warp/themes/warp.jpg
-  path: warp.jpg 
+  path: warp.jpg
 
   # this is the opacity value
   opacity: 60
-############################################################### SEE ABOVE 
+############################################################### SEE ABOVE
 
 terminal_colors:
   bright:
@@ -157,13 +157,13 @@ You can also do this for backgrounds.
 Here's a full yaml file with gradients set for both background and accent:
 
 ```yaml
-################################ See below 
+################################ See below
 # accent has a gradient
 accent:
   left: '#474747'
   right: '#ffffff'
 # background has a gradient
-background: 
+background:
   top: '#474747'
   bottom: '#ffffff'
 ################################ See above
