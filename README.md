@@ -18,8 +18,8 @@ Add your new custom theme yaml theme file to this directory:
 
 ```sh
 cp ~/Downloads/my_awesome_theme.yaml ~/.warp/themes
+```
 
-```sh
 Open the Settings menu (top right corner or `⌘-,`), and choose Select Theme. Your new theme should now be visible on the list of available themes. Click & confirm, and you're set!
 
 ## 2. How do I use this repo?
