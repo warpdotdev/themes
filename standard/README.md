@@ -5,7 +5,6 @@ Themes in this directory were sourced and auto-generated based on the Alacritty 
 Repo: https://github.com/eendroroy/alacritty-theme
 |Theme name | Preview|
 | --- | --- |
-|**[Cobalt2](Cobalt2.yaml)**:|<img src='previews/Cobalt2.yaml.svg' width='300'>|
 |**[Afterglow](afterglow.yaml)**:|<img src='previews/afterglow.yaml.svg' width='300'>|
 |**[Argonaut](argonaut.yaml)**:|<img src='previews/argonaut.yaml.svg' width='300'>|
 |**[Ayu Dark](ayu_dark.yaml)**:|<img src='previews/ayu_dark.yaml.svg' width='300'>|
@@ -13,12 +12,14 @@ Repo: https://github.com/eendroroy/alacritty-theme
 |**[Breeze](breeze.yaml)**:|<img src='previews/breeze.yaml.svg' width='300'>|
 |**[Campbell](campbell.yaml)**:|<img src='previews/campbell.yaml.svg' width='300'>|
 |**[Challenger Deep](challenger_deep.yaml)**:|<img src='previews/challenger_deep.yaml.svg' width='300'>|
+|**[Cobalt2](cobalt2.yaml)**:|<img src='previews/cobalt2.yaml.svg' width='300'>|
 |**[Cobalt Next](cobalt_next.yaml)**:|<img src='previews/cobalt_next.yaml.svg' width='300'>|
 |**[Cyber Punk Neon](cyber_punk_neon.yaml)**:|<img src='previews/cyber_punk_neon.yaml.svg' width='300'>|
 |**[Darcula](darcula.yaml)**:|<img src='previews/darcula.yaml.svg' width='300'>|
 |**[Dark Pastels](dark_pastels.yaml)**:|<img src='previews/dark_pastels.yaml.svg' width='300'>|
 |**[Default Dark](default_dark.yaml)**:|<img src='previews/default_dark.yaml.svg' width='300'>|
 |**[Dracula](dracula.yaml)**:|<img src='previews/dracula.yaml.svg' width='300'>|
+|**[Faithful Argonaut](faithful_argonaut.yaml)**:|<img src='previews/faithful_argonaut.yaml.svg' width='300'>|
 |**[Falcon](falcon.yaml)**:|<img src='previews/falcon.yaml.svg' width='300'>|
 |**[Flat Remix](flat_remix.yaml)**:|<img src='previews/flat_remix.yaml.svg' width='300'>|
 |**[Github Dark](github_dark.yaml)**:|<img src='previews/github_dark.yaml.svg' width='300'>|
