@@ -5,6 +5,7 @@ Themes in this directory were sourced and auto-generated based on the Alacritty 
 Repo: https://github.com/eendroroy/alacritty-theme
 |Theme name | Preview|
 | --- | --- |
+|**[Cobalt2](Cobalt2.yaml)**:|<img src='previews/Cobalt2.yaml.svg' width='300'>|
 |**[Afterglow](afterglow.yaml)**:|<img src='previews/afterglow.yaml.svg' width='300'>|
 |**[Argonaut](argonaut.yaml)**:|<img src='previews/argonaut.yaml.svg' width='300'>|
 |**[Ayu Dark](ayu_dark.yaml)**:|<img src='previews/ayu_dark.yaml.svg' width='300'>|
@@ -12,7 +13,6 @@ Repo: https://github.com/eendroroy/alacritty-theme
 |**[Breeze](breeze.yaml)**:|<img src='previews/breeze.yaml.svg' width='300'>|
 |**[Campbell](campbell.yaml)**:|<img src='previews/campbell.yaml.svg' width='300'>|
 |**[Challenger Deep](challenger_deep.yaml)**:|<img src='previews/challenger_deep.yaml.svg' width='300'>|
-|**[Cobalt2](cobalt2.yaml)**:|<img src='previews/cobalt2.yaml.svg' width='300'>|
 |**[Cobalt Next](cobalt_next.yaml)**:|<img src='previews/cobalt_next.yaml.svg' width='300'>|
 |**[Cyber Punk Neon](cyber_punk_neon.yaml)**:|<img src='previews/cyber_punk_neon.yaml.svg' width='300'>|
 |**[Darcula](darcula.yaml)**:|<img src='previews/darcula.yaml.svg' width='300'>|
@@ -37,6 +37,12 @@ Repo: https://github.com/eendroroy/alacritty-theme
 |**[Low Contrast](low_contrast.yaml)**:|<img src='previews/low_contrast.yaml.svg' width='300'>|
 |**[Material Theme](material_theme.yaml)**:|<img src='previews/material_theme.yaml.svg' width='300'>|
 |**[Material Theme Mod](material_theme_mod.yaml)**:|<img src='previews/material_theme_mod.yaml.svg' width='300'>|
+|**[Monokai-pro Octagon](monokai-pro_octagon.yml)**:|<img src='previews/monokai-pro_octagon.yml.svg' width='300'>|
+|**[Monokai Pro](monokai_pro.yaml)**:|<img src='previews/monokai_pro.yaml.svg' width='300'>|
+|**[Monokai Pro Classic](monokai_pro_classic.yaml)**:|<img src='previews/monokai_pro_classic.yaml.svg' width='300'>|
+|**[Monokai Pro Machine](monokai_pro_machine.yaml)**:|<img src='previews/monokai_pro_machine.yaml.svg' width='300'>|
+|**[Monokai Pro Ristretto](monokai_pro_ristretto.yml)**:|<img src='previews/monokai_pro_ristretto.yml.svg' width='300'>|
+|**[Monokai Pro Spectrum](monokai_pro_spectrum.yml)**:|<img src='previews/monokai_pro_spectrum.yml.svg' width='300'>|
 |**[Night Owl](night_owl.yaml)**:|<img src='previews/night_owl.yaml.svg' width='300'>|
 |**[Nord](nord.yaml)**:|<img src='previews/nord.yaml.svg' width='300'>|
 |**[Oceanic Next](oceanic_next.yaml)**:|<img src='previews/oceanic_next.yaml.svg' width='300'>|
