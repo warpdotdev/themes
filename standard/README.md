@@ -37,7 +37,7 @@ Repo: https://github.com/eendroroy/alacritty-theme
 |**[Low Contrast](low_contrast.yaml)**:|<img src='previews/low_contrast.yaml.svg' width='300'>|
 |**[Material Theme](material_theme.yaml)**:|<img src='previews/material_theme.yaml.svg' width='300'>|
 |**[Material Theme Mod](material_theme_mod.yaml)**:|<img src='previews/material_theme_mod.yaml.svg' width='300'>|
-|**[Monokai-pro Octagon](monokai-pro_octagon.yml)**:|<img src='previews/monokai-pro_octagon.yml.svg' width='300'>|
+|**[Monokai Pro Octagon](monokai_pro_octagon.yml)**:|<img src='previews/monokai_pro_octagon.yml.svg' width='300'>|
 |**[Monokai Pro](monokai_pro.yaml)**:|<img src='previews/monokai_pro.yaml.svg' width='300'>|
 |**[Monokai Pro Classic](monokai_pro_classic.yaml)**:|<img src='previews/monokai_pro_classic.yaml.svg' width='300'>|
 |**[Monokai Pro Machine](monokai_pro_machine.yaml)**:|<img src='previews/monokai_pro_machine.yaml.svg' width='300'>|
