@@ -5,7 +5,6 @@ Themes in this directory were sourced and auto-generated based on the Alacritty 
 Repo: https://github.com/eendroroy/alacritty-theme
 |Theme name | Preview|
 | --- | --- |
-|**[Cobalt2](Cobalt2.yaml)**:|<img src='previews/Cobalt2.yaml.svg' width='300'>|
 |**[Afterglow](afterglow.yaml)**:|<img src='previews/afterglow.yaml.svg' width='300'>|
 |**[Argonaut](argonaut.yaml)**:|<img src='previews/argonaut.yaml.svg' width='300'>|
 |**[Ayu Dark](ayu_dark.yaml)**:|<img src='previews/ayu_dark.yaml.svg' width='300'>|
@@ -13,12 +12,14 @@ Repo: https://github.com/eendroroy/alacritty-theme
 |**[Breeze](breeze.yaml)**:|<img src='previews/breeze.yaml.svg' width='300'>|
 |**[Campbell](campbell.yaml)**:|<img src='previews/campbell.yaml.svg' width='300'>|
 |**[Challenger Deep](challenger_deep.yaml)**:|<img src='previews/challenger_deep.yaml.svg' width='300'>|
+|**[Cobalt2](cobalt2.yaml)**:|<img src='previews/cobalt2.yaml.svg' width='300'>|
 |**[Cobalt Next](cobalt_next.yaml)**:|<img src='previews/cobalt_next.yaml.svg' width='300'>|
 |**[Cyber Punk Neon](cyber_punk_neon.yaml)**:|<img src='previews/cyber_punk_neon.yaml.svg' width='300'>|
 |**[Darcula](darcula.yaml)**:|<img src='previews/darcula.yaml.svg' width='300'>|
 |**[Dark Pastels](dark_pastels.yaml)**:|<img src='previews/dark_pastels.yaml.svg' width='300'>|
 |**[Default Dark](default_dark.yaml)**:|<img src='previews/default_dark.yaml.svg' width='300'>|
 |**[Dracula](dracula.yaml)**:|<img src='previews/dracula.yaml.svg' width='300'>|
+|**[Fairyfloss](fairyfloss.yaml)**:|<img src='previews/fairyfloss.yaml.svg' width='300'>|
 |**[Faithful Argonaut](faithful_argonaut.yaml)**:|<img src='previews/faithful_argonaut.yaml.svg' width='300'>|
 |**[Falcon](falcon.yaml)**:|<img src='previews/falcon.yaml.svg' width='300'>|
 |**[Flat Remix](flat_remix.yaml)**:|<img src='previews/flat_remix.yaml.svg' width='300'>|
@@ -33,14 +34,15 @@ Repo: https://github.com/eendroroy/alacritty-theme
 |**[Hyper](hyper.yaml)**:|<img src='previews/hyper.yaml.svg' width='300'>|
 |**[Iceberg](iceberg.yaml)**:|<img src='previews/iceberg.yaml.svg' width='300'>|
 |**[Iterm](iterm.yaml)**:|<img src='previews/iterm.yaml.svg' width='300'>|
+|**[Jellybeans](jellybeans.yaml)**:|<img src='previews/jellybeans.yaml.svg' width='300'>|
 |**[Konsole Linux](konsole_linux.yaml)**:|<img src='previews/konsole_linux.yaml.svg' width='300'>|
 |**[Low Contrast](low_contrast.yaml)**:|<img src='previews/low_contrast.yaml.svg' width='300'>|
 |**[Material Theme](material_theme.yaml)**:|<img src='previews/material_theme.yaml.svg' width='300'>|
 |**[Material Theme Mod](material_theme_mod.yaml)**:|<img src='previews/material_theme_mod.yaml.svg' width='300'>|
 |**[Monokai Pro](monokai_pro.yaml)**:|<img src='previews/monokai_pro.yaml.svg' width='300'>|
-|**[Monokai Pro Octagon](monokai_pro_octagon.yml)**:|<img src='previews/monokai_pro_octagon.yml.svg' width='300'>|
 |**[Monokai Pro Classic](monokai_pro_classic.yaml)**:|<img src='previews/monokai_pro_classic.yaml.svg' width='300'>|
 |**[Monokai Pro Machine](monokai_pro_machine.yaml)**:|<img src='previews/monokai_pro_machine.yaml.svg' width='300'>|
+|**[Monokai Pro Octagon](monokai_pro_octagon.yml)**:|<img src='previews/monokai_pro_octagon.yml.svg' width='300'>|
 |**[Monokai Pro Ristretto](monokai_pro_ristretto.yml)**:|<img src='previews/monokai_pro_ristretto.yml.svg' width='300'>|
 |**[Monokai Pro Spectrum](monokai_pro_spectrum.yml)**:|<img src='previews/monokai_pro_spectrum.yml.svg' width='300'>|
 |**[Night Owl](night_owl.yaml)**:|<img src='previews/night_owl.yaml.svg' width='300'>|
