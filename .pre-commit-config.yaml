@@ -6,9 +6,6 @@ repos:
       - id: check-json
       - id: check-merge-conflict
       - id: end-of-file-fixer
-      - id: no-commit-to-branch
-        args:
-          - "--branch=main"
       - id: pretty-format-json
         args:
           - "--autofix"
