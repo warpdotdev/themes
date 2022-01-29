@@ -7,8 +7,8 @@ background_image:
   path: warp.jpg
   opacity: 60
 
-terminal_colors: 
-  bright: 
+terminal_colors:
+  bright:
     black: '#717885'
     blue: '#9a99a3'
     cyan: '#b08060'
@@ -17,7 +17,7 @@ terminal_colors:
     red: '#f0a000'
     white: '#ffffff'
     yellow: '#4d5666'
-  normal: 
+  normal:
     black: '#061229'
     blue: '#5299bf'
     cyan: '#72b9bf'
