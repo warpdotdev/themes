@@ -1,0 +1,31 @@
+# Jellybeans theme by qtdork,
+# Based off of the iTerm2 Jellybeans theme
+
+# Accent color for UI elements.
+accent: '#e1c0fa'
+# Terminal background color.
+background: '#121212'
+# Whether the theme is lighter or darker.
+details: darker
+# The foreground color.
+foreground: '#dedede'
+# Ansi escape colors.
+terminal_colors:
+  bright:
+    black: '#929292'
+    blue: '#97bedc'
+    cyan: '#00988e'
+    green: '#94b979'
+    magenta: '#e1c0fa'
+    red: '#ffa1a1'
+    white: '#ffffff'
+    yellow: '#ffdca0'
+  normal:
+    black: '#929292'
+    blue: '#97bedc'
+    cyan: '#00988e'
+    green: '#94b979'
+    magenta: '#e1c0fa'
+    red: '#e27373'
+    white: '#dedede'
+    yellow: '#ffba7b'

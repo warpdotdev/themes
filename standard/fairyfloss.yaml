@@ -1,0 +1,31 @@
+# FairyFloss theme by qtdork,
+# Based off of the @sailorhg's wonderful fairyfloss theme
+
+# Accent color for UI elements.
+accent: '#ff87b1'
+# Terminal background color.
+background: '#5A5475'
+# Whether the theme is lighter or darker.
+details: lighter
+# The foreground color.
+foreground: '#f8f8f2'
+# Ansi escape colors.
+terminal_colors:
+  bright:
+    black: '#685868'
+    blue: '#ffb8d1'
+    cyan: '#c2ffdf'
+    green: '#7bfa81'
+    magenta: '#e1c0fa'
+    red: '#ff9f9a'
+    white: '#ffefff'
+    yellow: '#ffea00'
+  normal:
+    black: '#3b3a32'
+    blue: '#a381ff'
+    cyan: '#7ef5b8'
+    green: '#6de874'
+    magenta: '#ff87b1'
+    red: '#f1756f'
+    white: '#c7b7c7'
+    yellow: '#ffea00'
