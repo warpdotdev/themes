@@ -5,6 +5,9 @@ We welcome and appreciate any contributions!
 
 We have [directions on how to use this repository in our documentation.](https://docs.warp.dev/features/themes)
 
+[Discord](https://discord.gg/warpdotdev)
+[Warp Repo](https://github.com/warpdotdev/Warp)
+
 ## Open source dependencies
 
 We'd like to call out a few of the open source themes and repositories that helped bootstrap the set of themes for Warp:
