@@ -26,8 +26,8 @@ We'd like to call out a few of the open source themes and repositories that help
 
 More on the details and structure here: [https://github.com/chriskempson/base16.](https://github.com/chriskempson/base16)
 
-Themes in this directory were sourced and auto-generated based on the Alacritty themes collected by @aarowill.
-Repo: https://github.com/aarowill/base16-alacritty
+Base16 themes were sourced and auto-generated based on the Alacritty themes collected by @aarowill.
+Repo: [https://github.com/aarowill/base16-alacritty](https://github.com/aarowill/base16-alacritty)
 
 ## What are standard themes?
 In this directory you'll find themes popular among other tools, including Solarized, Dracula and others.
@@ -35,14 +35,14 @@ In this directory you'll find themes popular among other tools, including Solari
 Themes in this directory were sourced and auto-generated based on the Alacritty themes collected by @eendroroy.
 Repo: [https://github.com/eendroroy/alacritty-theme](https://github.com/eendroroy/alacritty-theme)
 
-## Holiday Themes
+## What are holiday themes?
 
-This folder contains the themes we've made for various holidays.
+ We made holiday themes to celebrate various holidays during the calendar year.
 
 The [Thanksgiving Theme](https://twitter.com/warpdotdev/status/1463663176680157190?s=20) used [this background](https://unsplash.com/photos/ZwPuquZBnyM) taken by [
 Yannick Pulver](https://unsplash.com/@yanu).
 
-The [Winter Holiday Theme]() used [this background](https://unsplash.com/photos/TD8CbG9-sMk) taken by [Jeremy Kovac](https://unsplash.com/@jkovac).
+The [Winter Holiday Theme](https://twitter.com/warpdotdev/status/1474159550961840130?s=20&t=G8CKtGzU6kda5R3_gH9t4A) used [this background](https://unsplash.com/photos/TD8CbG9-sMk) taken by [Jeremy Kovac](https://unsplash.com/@jkovac).
 
 |Theme name | Preview|
 | --- | --- |
