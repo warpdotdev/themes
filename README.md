@@ -216,9 +216,7 @@ Have feedback or suggestion for this repo? Please, file an issue.
 
 All other Warp-related things can be discussed in [Warp official repo](https://github.com/warpdotdev/warp) or our [Discord server](https://discord.gg/T2p5xFgpjr).
 
-## 6. FAQ
-
-Frequently Asked Questions
+## 6. FAQ - Frequently Asked Questions
 
 ### Is this a final format for the configuration?
 
