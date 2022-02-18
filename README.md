@@ -243,6 +243,7 @@ The [Winter Holiday Theme](https://twitter.com/warpdotdev/status/147415955096184
 |**[Github Dark](github_dark.yaml)**:|<img src='previews/github_dark.yaml.svg' width='300'>|
 |**[Github Light](github_light.yaml)**:|<img src='previews/github_light.yaml.svg' width='300'>|
 |**[Gotham](gotham.yaml)**:|<img src='previews/gotham.yaml.svg' width='300'>|
+|**[Green Geeko](green_geeko.yaml)**:|<img src='previews/green_geeko.yaml.svg' width='300'>|
 |**[Gruvbox Dark](gruvbox_dark.yaml)**:|<img src='previews/gruvbox_dark.yaml.svg' width='300'>|
 |**[Gruvbox Light](gruvbox_light.yaml)**:|<img src='previews/gruvbox_light.yaml.svg' width='300'>|
 |**[Gruvbox Material](gruvbox_material.yaml)**:|<img src='previews/gruvbox_material.yaml.svg' width='300'>|
