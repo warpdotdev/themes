@@ -11,6 +11,8 @@ We welcome and appreciate any contributions!
 
 We have [directions on how to download and load custom themes into Warp in our documentation.](https://docs.warp.dev/features/themes)
 
+TLDR; clone this repo into a `~/.warp/themes/` directory.
+
 ## Open source dependencies
 
 We'd like to call out a few of the open source themes and repositories that helped bootstrap the set of themes for Warp:
