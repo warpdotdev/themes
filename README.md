@@ -3,11 +3,13 @@
 This is an open source repository with themes for [Warp](https://www.warp.dev/).
 We welcome and appreciate any contributions!
 
-We have [directions on how to use this repository in our documentation.](https://docs.warp.dev/features/themes)
-
 [Discord](https://discord.gg/warpdotdev)
 
 [Warp Repo](https://github.com/warpdotdev/Warp)
+
+## Installing Custom Themes
+
+We have [directions on how to download and load custom themes into Warp in our documentation.](https://docs.warp.dev/features/themes)
 
 ## Open source dependencies
 
