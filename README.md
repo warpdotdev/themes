@@ -3,15 +3,11 @@
 This is an open source repository with themes for [Warp](https://www.warp.dev/).
 We welcome and appreciate any contributions!
 
+We have [directions on how to use this repository in our documentation.](https://docs.warp.dev/features/themes)
+
 [Discord](https://discord.gg/warpdotdev)
 
 [Warp Repo](https://github.com/warpdotdev/Warp)
-
-## Installing Custom Themes
-
-We have [directions on how to download and load custom themes into Warp in our documentation.](https://docs.warp.dev/features/themes)
-
-TLDR; clone this repo into a `~/.warp/themes/` directory.
 
 ## Open source dependencies
 
@@ -240,6 +236,8 @@ The [Winter Holiday Theme](https://twitter.com/warpdotdev/status/147415955096184
 |**[Dark Pastels](dark_pastels.yaml)**:|<img src='previews/dark_pastels.yaml.svg' width='300'>|
 |**[Default Dark](default_dark.yaml)**:|<img src='previews/default_dark.yaml.svg' width='300'>|
 |**[Dracula](dracula.yaml)**:|<img src='previews/dracula.yaml.svg' width='300'>|
+|**[Everforest Hard](everforest_hard.yaml)**:|<img src='previews/everforest_hard.yaml.svg' width='300'>|
+|**[Everforest Light](everforest_light.yaml)**:|<img src='previews/everforest_light.yaml.svg' width='300'>|
 |**[Fairyfloss](fairyfloss.yaml)**:|<img src='previews/fairyfloss.yaml.svg' width='300'>|
 |**[Faithful Argonaut](faithful_argonaut.yaml)**:|<img src='previews/faithful_argonaut.yaml.svg' width='300'>|
 |**[Falcon](falcon.yaml)**:|<img src='previews/falcon.yaml.svg' width='300'>|
