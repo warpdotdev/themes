@@ -43,7 +43,6 @@ The [Thanksgiving Theme](https://twitter.com/warpdotdev/status/14636631766801571
 Yannick Pulver](https://unsplash.com/@yanu).
 
 The [Winter Holiday Theme](https://twitter.com/warpdotdev/status/1474159550961840130?s=20&t=G8CKtGzU6kda5R3_gH9t4A) used [this background](https://unsplash.com/photos/TD8CbG9-sMk) taken by [Jeremy Kovac](https://unsplash.com/@jkovac).
-
 |Theme name | Preview|
 | --- | --- |
 |**[Afterglow](afterglow.yaml)**:|<img src='previews/afterglow.yaml.svg' width='300'>|
@@ -245,6 +244,7 @@ The [Winter Holiday Theme](https://twitter.com/warpdotdev/status/147415955096184
 |**[Falcon](falcon.yaml)**:|<img src='previews/falcon.yaml.svg' width='300'>|
 |**[Flat Remix](flat_remix.yaml)**:|<img src='previews/flat_remix.yaml.svg' width='300'>|
 |**[Github Dark](github_dark.yaml)**:|<img src='previews/github_dark.yaml.svg' width='300'>|
+|**[Github Dark Dimmed](github_dark_dimmed.yaml)**:|<img src='previews/github_dark_dimmed.yaml.svg' width='300'>|
 |**[Github Light](github_light.yaml)**:|<img src='previews/github_light.yaml.svg' width='300'>|
 |**[Gotham](gotham.yaml)**:|<img src='previews/gotham.yaml.svg' width='300'>|
 |**[Green Geeko](green_geeko.yaml)**:|<img src='previews/green_geeko.yaml.svg' width='300'>|
@@ -261,7 +261,7 @@ The [Winter Holiday Theme](https://twitter.com/warpdotdev/status/147415955096184
 |**[Jellybeans](jellybeans.yaml)**:|<img src='previews/jellybeans.yaml.svg' width='300'>|
 |**[Konsole Linux](konsole_linux.yaml)**:|<img src='previews/konsole_linux.yaml.svg' width='300'>|
 |**[Low Contrast](low_contrast.yaml)**:|<img src='previews/low_contrast.yaml.svg' width='300'>|
-|**[Lucario](lucario.yaml)**:|<img src='previews/lucario.yaml.svg' width='300'>|%
+|**[Lucario](lucario.yaml)**:|<img src='previews/lucario.yaml.svg' width='300'>|
 |**[Material Theme](material_theme.yaml)**:|<img src='previews/material_theme.yaml.svg' width='300'>|
 |**[Material Theme Mod](material_theme_mod.yaml)**:|<img src='previews/material_theme_mod.yaml.svg' width='300'>|
 |**[Monokai Pro](monokai_pro.yaml)**:|<img src='previews/monokai_pro.yaml.svg' width='300'>|
