@@ -43,7 +43,6 @@ The [Thanksgiving Theme](https://twitter.com/warpdotdev/status/14636631766801571
 Yannick Pulver](https://unsplash.com/@yanu).
 
 The [Winter Holiday Theme](https://twitter.com/warpdotdev/status/1474159550961840130?s=20&t=G8CKtGzU6kda5R3_gH9t4A) used [this background](https://unsplash.com/photos/TD8CbG9-sMk) taken by [Jeremy Kovac](https://unsplash.com/@jkovac).
-
 |Theme name | Preview|
 | --- | --- |
 |**[Afterglow](afterglow.yaml)**:|<img src='previews/afterglow.yaml.svg' width='300'>|
@@ -282,6 +281,7 @@ The [Winter Holiday Theme](https://twitter.com/warpdotdev/status/147415955096184
 |**[Pencil Light](pencil_light.yaml)**:|<img src='previews/pencil_light.yaml.svg' width='300'>|
 |**[Remedy Dark](remedy_dark.yaml)**:|<img src='previews/remedy_dark.yaml.svg' width='300'>|
 |**[Seashells](seashells.yaml)**:|<img src='previews/seashells.yaml.svg' width='300'>|
+|**[Simply Dark](simply_dark.yaml)**:|<img src='previews/simply_dark.yaml.svg' width='300'>|
 |**[Snazzy](snazzy.yaml)**:|<img src='previews/snazzy.yaml.svg' width='300'>|
 |**[Solarized Dark](solarized_dark.yaml)**:|<img src='previews/solarized_dark.yaml.svg' width='300'>|
 |**[Solarized Light](solarized_light.yaml)**:|<img src='previews/solarized_light.yaml.svg' width='300'>|
