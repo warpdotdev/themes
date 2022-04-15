@@ -22,7 +22,6 @@ We'd like to call out a few of the open source themes and repositories that help
 - [Gruvbox](https://github.com/morhetz/gruvbox)
 
 ## What are base16 themes?
-
 > An architecture for building themes based on carefully chosen syntax highlighting using a base of sixteen colors. Base16 provides a set of guidelines detailing how to style syntax and how to code a builder for compiling Base16 schemes and templates.
 
 More on the details and structure here: [https://github.com/chriskempson/base16.](https://github.com/chriskempson/base16)
@@ -31,7 +30,6 @@ Base16 themes were sourced and auto-generated based on the Alacritty themes coll
 Repo: [https://github.com/aarowill/base16-alacritty](https://github.com/aarowill/base16-alacritty)
 
 ## What are standard themes?
-
 In this directory you'll find themes popular among other tools, including Solarized, Dracula and others.
 
 Themes in this directory were sourced and auto-generated based on the Alacritty themes collected by @eendroroy.
@@ -45,3 +43,7 @@ The [Thanksgiving Theme](https://twitter.com/warpdotdev/status/14636631766801571
 Yannick Pulver](https://unsplash.com/@yanu).
 
 The [Winter Holiday Theme](https://twitter.com/warpdotdev/status/1474159550961840130?s=20&t=G8CKtGzU6kda5R3_gH9t4A) used [this background](https://unsplash.com/photos/TD8CbG9-sMk) taken by [Jeremy Kovac](https://unsplash.com/@jkovac).
+|Theme name | Preview|
+| --- | --- |
+|**[Holiday Thanksgiving](holiday_thanksgiving.yaml)**:|<img src='previews/holiday_thanksgiving.yaml.svg' width='300'>|
+|**[Holiday Winter](holiday_winter.yaml)**:|<img src='previews/holiday_winter.yaml.svg' width='300'>|

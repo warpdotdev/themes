@@ -1,0 +1,90 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 300 145">
+<rect width="300" height="145" class="Dynamic" fill="#2e3440" rx="5" />
+
+<!-- first command -->
+<text x="15" y="15" fill="#e5e9f0" font-size="0.6em" font-family="monospace" class="Dynamic">ls</text>
+<text x="15" y="30" fill="#81a1c1" font-size="0.6em" font-family="monospace" class="Dynamic">
+dir
+</text>
+<text x="65" y="30" fill="#bf616a" font-size="0.6em" font-family="monospace" class="Dynamic">
+executable
+</text>
+<text x="175" y="30" fill="#e5e9f0" font-size="0.6em" font-family="monospace" class="Dynamic">
+file
+</text>
+<line x1="0" y1="40" x2="300" y2="40" style="stroke-width:0.2"  class="Dynamic" stroke="#e5e9f0"/>
+
+<!-- second command -->
+<text x="15" y="55" fill="#e5e9f0" font-size="0.6em" font-family="monospace" class="Dynamic">bash ~/colors.sh</text>
+<text x="15" y="70" fill="#e5e9f0" font-size="0.6em" font-family="monospace" class="Dynamic">
+normal:
+</text>
+<text x="55" y="70" fill="#2e3440" font-size="0.6em" font-family="monospace" class="Dynamic">
+black
+</text>
+<text x="85" y="70" fill="#bf616a" font-size="0.6em" font-family="monospace" class="Dynamic">
+red
+</text>
+<text x="105" y="70" fill="#a3be8c" font-size="0.6em" font-family="monospace" class="Dynamic">
+green
+</text>
+<text x="135" y="70" fill="#ebcb8b" font-size="0.6em" font-family="monospace" class="Dynamic">
+yellow
+</text>
+<text x="170" y="70" fill="#81a1c1" font-size="0.6em" font-family="monospace" class="Dynamic">
+blue
+</text>
+<text x="195" y="70" fill="#b48ead" font-size="0.6em" font-family="monospace" class="Dynamic">
+magenta
+</text>
+<text x="235" y="70" fill="#88c0d0" font-size="0.6em" font-family="monospace" class="Dynamic">
+cyan
+</text>
+<text x="260" y="70" fill="#e5e9f0" font-size="0.6em" font-family="monospace" class="Dynamic">
+white
+</text>
+<text x="15" y="85" fill="#e5e9f0" font-size="0.6em" font-family="monospace" class='Dynamic'>
+bright:
+</text>
+<text x="55" y="85" fill="#4c566a" font-size="0.6em" font-family="monospace" class="Dynamic">
+black
+</text>
+<text x="85" y="85" fill="#d08770" font-size="0.6em" font-family="monospace" class="Dynamic">
+red
+</text>
+<text x="105" y="85" fill="#3b4252" font-size="0.6em" font-family="monospace" class="Dynamic">
+green
+</text>
+<text x="135" y="85" fill="#434c5e" font-size="0.6em" font-family="monospace" class="Dynamic">
+yellow
+</text>
+<text x="170" y="85" fill="#d8dee9" font-size="0.6em" font-family="monospace" class="Dynamic">
+blue
+</text>
+<text x="195" y="85" fill="#eceff4" font-size="0.6em" font-family="monospace" class="Dynamic">
+magenta
+</text>
+<text x="235" y="85" fill="#5e81ac" font-size="0.6em" font-family="monospace" class="Dynamic">
+cyan
+</text>
+<text x="260" y="85" fill="#8fbcbb" font-size="0.6em" font-family="monospace" class="Dynamic">
+white
+</text>
+<line x1="0" y1="95" x2="300" y2="95" style="stroke-width:0.2" class="Dynamic" stroke="#e5e9f0" />
+
+<!-- prompt -->
+<text x="15" y="110" fill="#b48ead" font-size="0.6em" font-family="monospace" class="Dynamic">
+~/project
+</text>
+<text x="65" y="110" fill="#a3be8c" font-size="0.6em" font-family="monospace" class="Dynamic">
+git(
+    </text>
+    <text x="85" y="110" fill="#ebcb8b" font-size="0.6em" font-family="monospace" class="Dynamic">
+      main
+    </text>
+    <text x="113" y="110" fill="#a3be8c" font-size="0.6em" font-family="monospace" class="Dynamic">
+      )
+</text>
+<!-- cursor -->
+<line x1="15" y1="120" x2="15" y2="130" style="stroke-width:2" class="Dynamic" stroke="#81a1c1" />
+</svg>
