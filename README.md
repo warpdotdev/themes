@@ -5,7 +5,7 @@ We welcome and appreciate any contributions!
 
 We have [directions on how to use this repository in our documentation.](https://docs.warp.dev/features/themes)
 
-tldr; After adding your theme run the python script for generating theme previews (`./scripts/gen_theme_previews.py`) like so:
+tldr; After adding your theme run the python script for generating theme previews `./scripts/gen_theme_previews.py` like so:
 
 `python3 ./scripts/gen_theme_previews.py standard`
 
