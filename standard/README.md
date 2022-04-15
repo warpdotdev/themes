@@ -43,10 +43,12 @@ The [Thanksgiving Theme](https://twitter.com/warpdotdev/status/14636631766801571
 Yannick Pulver](https://unsplash.com/@yanu).
 
 The [Winter Holiday Theme](https://twitter.com/warpdotdev/status/1474159550961840130?s=20&t=G8CKtGzU6kda5R3_gH9t4A) used [this background](https://unsplash.com/photos/TD8CbG9-sMk) taken by [Jeremy Kovac](https://unsplash.com/@jkovac).
+
 |Theme name | Preview|
 | --- | --- |
 |**[Afterglow](afterglow.yaml)**:|<img src='previews/afterglow.yaml.svg' width='300'>|
 |**[Argonaut](argonaut.yaml)**:|<img src='previews/argonaut.yaml.svg' width='300'>|
+|**[Avirage](avirage.yaml)**:|<img src='previews/avirage.yaml.svg' width='300'>|
 |**[Ayu Dark](ayu_dark.yaml)**:|<img src='previews/ayu_dark.yaml.svg' width='300'>|
 |**[Blood Moon](blood_moon.yaml)**:|<img src='previews/blood_moon.yaml.svg' width='300'>|
 |**[Breeze](breeze.yaml)**:|<img src='previews/breeze.yaml.svg' width='300'>|

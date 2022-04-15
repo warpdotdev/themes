@@ -49,5 +49,3 @@ Repo: [https://github.com/eendroroy/alacritty-theme](https://github.com/eendroro
 
 The [Thanksgiving Theme](https://twitter.com/warpdotdev/status/1463663176680157190?s=20) used [this background](https://unsplash.com/photos/ZwPuquZBnyM) taken by [
 Yannick Pulver](https://unsplash.com/@yanu).
-
-The [Winter Holiday Theme](https://twitter.com/warpdotdev/status/1474159550961840130?s=20&t=G8CKtGzU6kda5R3_gH9t4A) used [this background](https://unsplash.com/photos/TD8CbG9-sMk) taken by [Jeremy Kovac](https://unsplash.com/@jkovac).
