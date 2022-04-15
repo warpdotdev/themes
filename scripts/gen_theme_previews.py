@@ -1,8 +1,12 @@
-import yaml
-from typing import Dict, List, Optional
 import argparse
 import os
 from pathlib import Path
+from typing import Dict
+from typing import List
+from typing import Optional
+from typing import Tuple
+
+import yaml
 
 
 def get_all_input_files(input_dir: str) -> List[str]:
@@ -27,7 +31,7 @@ def add_color_to_dict(
 def get_color_dict(input_dir: str, file_name: str) -> Dict[str, str]:
     file = open(os.path.join(input_dir, file_name), "r")
     loaded_theme = yaml.safe_load(file)
-    output = {}
+    output: Dict[str, str] = {}
     add_color_to_dict(output, loaded_theme, "accent")
     add_color_to_dict(output, loaded_theme, "foreground")
     add_color_to_dict(output, loaded_theme, "background")
@@ -66,23 +70,40 @@ def main():
         description="Generate README.md with embedded SVG previews."
     )
     parser.add_argument(
-        "input_dir", type=str, help="Directory from which to read in all Warp themes."
+        "input_dir",
+        type=str,
+        help="Directory from which to read in all Warp themes.",
     )
-    parser.add_argument("output_dir", type=str, help="Where to save README.md")
-    parser.add_argument("svg_path", type=str, help="Path to svg template file.")
     parser.add_argument(
-        "intro_file", type=str, help="What should go on top of README.md."
+        "--output_dir", type=str, help="Where to save README.md", default=""
+    )
+    parser.add_argument(
+        "--svg_path",
+        type=str,
+        help="Path to svg template file.",
+        default="scripts/preview.svg",
+    )
+    parser.add_argument(
+        "--intro_file",
+        type=str,
+        help="What should go on top of README.md.",
+        default="README-intro.md",
     )
     args = parser.parse_args()
 
-    ensure_output_dir(args.output_dir)
+    input_dir: str = args.input_dir
+    output_dir: str
+    if output_dir := args.output_dir:
+        ensure_output_dir(output_dir=output_dir)
+    else:
+        output_dir = input_dir
 
-    filenames = get_all_input_files(args.input_dir)
+    filenames = get_all_input_files(input_dir=input_dir)
     markdown = []
     markdown.append("|Theme name | Preview|")
     markdown.append("| --- | --- |")
     svg = open(args.svg_path, "r").read()
-    svg_dir = os.path.join(args.output_dir, "previews")
+    svg_dir = os.path.join(output_dir, "previews")
     os.makedirs(svg_dir, exist_ok=True)
 
     intro = open(args.intro_file, "r").read()
@@ -90,7 +111,7 @@ def main():
     for input_file in sorted(filenames):
         print(f"Generating for {input_file}")
         cell = f"|**[{file_name_to_display(input_file)}]({input_file})**:|"
-        color_dict = get_color_dict(args.input_dir, input_file)
+        color_dict = get_color_dict(output_dir, input_file)
         theme_svg = gen_svg_for_theme(color_dict, svg)
         theme_svg_path = os.path.join(svg_dir, f"{input_file}.svg")
         with open(theme_svg_path, "w") as svg_out:
@@ -99,7 +120,7 @@ def main():
         markdown.append(cell)
 
     output_str = intro + "\n".join(markdown)
-    with open(os.path.join(args.output_dir, "README.md"), "w") as output:
+    with open(os.path.join(output_dir, "README.md"), "w") as output:
         output.write(output_str)
 
 

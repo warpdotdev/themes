@@ -43,6 +43,7 @@ The [Thanksgiving Theme](https://twitter.com/warpdotdev/status/14636631766801571
 Yannick Pulver](https://unsplash.com/@yanu).
 
 The [Winter Holiday Theme](https://twitter.com/warpdotdev/status/1474159550961840130?s=20&t=G8CKtGzU6kda5R3_gH9t4A) used [this background](https://unsplash.com/photos/TD8CbG9-sMk) taken by [Jeremy Kovac](https://unsplash.com/@jkovac).
+
 |Theme name | Preview|
 | --- | --- |
 |**[Afterglow](afterglow.yaml)**:|<img src='previews/afterglow.yaml.svg' width='300'>|
