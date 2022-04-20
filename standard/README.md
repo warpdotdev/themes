@@ -62,6 +62,7 @@ The [Winter Holiday Theme](https://twitter.com/warpdotdev/status/147415955096184
 |**[Darcula](darcula.yaml)**:|<img src='previews/darcula.yaml.svg' width='300'>|
 |**[Dark Pastels](dark_pastels.yaml)**:|<img src='previews/dark_pastels.yaml.svg' width='300'>|
 |**[Default Dark](default_dark.yaml)**:|<img src='previews/default_dark.yaml.svg' width='300'>|
+|**[Dmilith](dmilith.yaml)**:|<img src='previews/dmilith.yaml.svg' width='300'>|
 |**[Dracula](dracula.yaml)**:|<img src='previews/dracula.yaml.svg' width='300'>|
 |**[Everforest Hard](everforest_hard.yaml)**:|<img src='previews/everforest_hard.yaml.svg' width='300'>|
 |**[Everforest Light](everforest_light.yaml)**:|<img src='previews/everforest_light.yaml.svg' width='300'>|
