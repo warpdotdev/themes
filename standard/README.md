@@ -118,5 +118,6 @@ The [Winter Holiday Theme](https://twitter.com/warpdotdev/status/147415955096184
 |**[Tokyo Night Storm](tokyo_night_storm.yaml)**:|<img src='previews/tokyo_night_storm.yaml.svg' width='300'>|
 |**[Tomorrow Night](tomorrow_night.yaml)**:|<img src='previews/tomorrow_night.yaml.svg' width='300'>|
 |**[Tomorrow Night Bright](tomorrow_night_bright.yaml)**:|<img src='previews/tomorrow_night_bright.yaml.svg' width='300'>|
+|**[Vuesion](vuesion.yaml)**:|<img src='previews/vuesion.yaml.svg' width='300'>|
 |**[Wombat](wombat.yaml)**:|<img src='previews/wombat.yaml.svg' width='300'>|
 |**[Xterm](xterm.yaml)**:|<img src='previews/xterm.yaml.svg' width='300'>|
