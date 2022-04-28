@@ -53,6 +53,8 @@ The [Winter Holiday Theme](https://twitter.com/warpdotdev/status/147415955096184
 |**[Argonaut](argonaut.yaml)**:|<img src='previews/argonaut.yaml.svg' width='300'>|
 |**[Avirage](avirage.yaml)**:|<img src='previews/avirage.yaml.svg' width='300'>|
 |**[Ayu Dark](ayu_dark.yaml)**:|<img src='previews/ayu_dark.yaml.svg' width='300'>|
+|**[Ayu Light](ayu_light.yaml)**:|<img src='previews/ayu_light.yaml.svg' width='300'>|
+|**[Ayu Mirage](ayu_mirage.yaml)**:|<img src='previews/ayu_mirage.yaml.svg' width='300'>|
 |**[Blood Moon](blood_moon.yaml)**:|<img src='previews/blood_moon.yaml.svg' width='300'>|
 |**[Breeze](breeze.yaml)**:|<img src='previews/breeze.yaml.svg' width='300'>|
 |**[Campbell](campbell.yaml)**:|<img src='previews/campbell.yaml.svg' width='300'>|
