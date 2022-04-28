@@ -86,6 +86,7 @@ The [Winter Holiday Theme](https://twitter.com/warpdotdev/status/147415955096184
 |**[Iterm](iterm.yaml)**:|<img src='previews/iterm.yaml.svg' width='300'>|
 |**[Jellybeans](jellybeans.yaml)**:|<img src='previews/jellybeans.yaml.svg' width='300'>|
 |**[Konsole Linux](konsole_linux.yaml)**:|<img src='previews/konsole_linux.yaml.svg' width='300'>|
+|**[Laser](laser.yaml)**:|<img src='previews/laser.yaml.svg' width='300'>|
 |**[Low Contrast](low_contrast.yaml)**:|<img src='previews/low_contrast.yaml.svg' width='300'>|
 |**[Lucario](lucario.yaml)**:|<img src='previews/lucario.yaml.svg' width='300'>|
 |**[Material Theme](material_theme.yaml)**:|<img src='previews/material_theme.yaml.svg' width='300'>|
