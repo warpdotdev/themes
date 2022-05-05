@@ -61,7 +61,8 @@ def gen_svg_for_theme(color_dict: Dict[str, str], svg_template: str) -> str:
     output = svg_template
 
     for key, value in color_dict.items():
-        output = output.replace(f"{{{key}}}", value)
+        if isinstance(value, str):
+            output = output.replace(f"{{{key}}}", value)
     return output
 
 
