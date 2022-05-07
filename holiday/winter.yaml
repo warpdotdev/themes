@@ -1,7 +1,8 @@
 accent: '#6587bf'
 background: '#fafafa'
 background_image:
-  path: holiday_winter.jpg
+  # background image credit: https://unsplash.com/photos/TD8CbG9-sMk
+  path: holiday/winter_bg.jpg
   opacity: 47
 
 details: lighter
