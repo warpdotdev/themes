@@ -2,8 +2,25 @@
 
 This is an open source repository with themes for [Warp](https://www.warp.dev/).
 We welcome and appreciate any contributions!
+Join our [Discord](https://discord.gg/warpdotdev), we have a channel dedicated to discussing custom themes.
 
 We have [directions on how to use this repository in our documentation.](https://docs.warp.dev/features/themes)
+
+## Custom Background Images
+
+If want to use a custom background image, Warp supports either:
+* a relative path to `~/.warp/themes`
+* the absolute path to the background image
+
+If your background image was under `~/.warp/themes/level_one/level_two/background_image.jpg` then the filepath in the yaml should be:
+
+```yaml
+background_image:
+  # background image credit: https://unsplash.com/photos/0eKCOZ11gfk
+  path: level_one/level_two/background_image.jpg
+```
+
+## Contributing
 
 tldr; After adding your theme run the python script for generating theme previews `./scripts/gen_theme_previews.py` like so:
 
@@ -11,9 +28,7 @@ tldr; After adding your theme run the python script for generating theme preview
 
 for a newly added theme that's in the standard folder / directory. If you get the error that yaml is missing make sure you `pip install PyYAML`
 
-[Discord](https://discord.gg/warpdotdev)
-
-[Warp Repo](https://github.com/warpdotdev/Warp)
+There are more [directions on how to use this repository in our documentation.](https://docs.warp.dev/features/themes).
 
 ## Open source dependencies
 
