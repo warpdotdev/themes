@@ -9,7 +9,7 @@ tldr; After adding your theme run the python script for generating theme preview
 
 `python3 ./scripts/gen_theme_previews.py standard`
 
-for a newly added theme that's in the standard folder / directory.
+for a newly added theme that's in the standard folder / directory. If you get the error that yaml is missing make sure you `pip install PyYAML`
 
 [Discord](https://discord.gg/warpdotdev)
 
