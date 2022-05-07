@@ -60,7 +60,8 @@ Repo: [https://github.com/eendroroy/alacritty-theme](https://github.com/eendroro
 
 ## What are holiday themes?
 
- We made holiday themes to celebrate various holidays during the calendar year.
+We made holiday themes to celebrate various holidays during the calendar year.
 
-The [Thanksgiving Theme](https://twitter.com/warpdotdev/status/1463663176680157190?s=20) used [this background](https://unsplash.com/photos/ZwPuquZBnyM) taken by [
-Yannick Pulver](https://unsplash.com/@yanu).
+## What are warp_bundled themes?
+
+These are the themes that ship directly with Warp.
