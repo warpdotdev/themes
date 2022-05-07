@@ -9,7 +9,11 @@ We have [directions on how to use this repository in our documentation.](https:/
 
 [Warp Repo](https://github.com/warpdotdev/Warp)
 
-## Open source dependencies
+## Credits
+
+If a theme has a custom background image included, we include the author and site that the image was originally hosted in the yaml associated with the image, e.g. the dark_city_bg.jpg credits the author in the dark_city.yaml (a comment next to background image).
+
+### Open source dependencies
 
 We'd like to call out a few of the open source themes and repositories that helped bootstrap the set of themes for Warp:
 
@@ -30,6 +34,10 @@ More on the details and structure here: [https://github.com/chriskempson/base16.
 Base16 themes were sourced and auto-generated based on the Alacritty themes collected by @aarowill.
 Repo: [https://github.com/aarowill/base16-alacritty](https://github.com/aarowill/base16-alacritty)
 
+## What are holiday themes?
+
+ We made holiday themes to celebrate various holidays during the calendar year.
+
 ## What are standard themes?
 
 In this directory you'll find themes popular among other tools, including Solarized, Dracula and others.
@@ -37,14 +45,12 @@ In this directory you'll find themes popular among other tools, including Solari
 Themes in this directory were sourced and auto-generated based on the Alacritty themes collected by @eendroroy.
 Repo: [https://github.com/eendroroy/alacritty-theme](https://github.com/eendroroy/alacritty-theme)
 
-## What are holiday themes?
+## What are warp_bundled themes?
 
- We made holiday themes to celebrate various holidays during the calendar year.
+In this directory you'll find the themes that Warp ships with by default, including their custom backgrounds.
 
-The [Thanksgiving Theme](https://twitter.com/warpdotdev/status/1463663176680157190?s=20) used [this background](https://unsplash.com/photos/ZwPuquZBnyM) taken by [
-Yannick Pulver](https://unsplash.com/@yanu).
-
-The [Winter Holiday Theme](https://twitter.com/warpdotdev/status/1474159550961840130?s=20&t=G8CKtGzU6kda5R3_gH9t4A) used [this background](https://unsplash.com/photos/TD8CbG9-sMk) taken by [Jeremy Kovac](https://unsplash.com/@jkovac).
+Themes in this directory were sourced and auto-generated based on the Alacritty themes collected by @eendroroy.
+Repo: [https://github.com/eendroroy/alacritty-theme](https://github.com/eendroroy/alacritty-theme)
 |Theme name | Preview|
 | --- | --- |
 |**[Cyber Wave](cyber_wave.yaml)**:|<img src='previews/cyber_wave.yaml.svg' width='300'>|
