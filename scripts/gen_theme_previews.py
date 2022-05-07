@@ -120,7 +120,7 @@ def main():
         cell += f"<img src='previews/{input_file}.svg' width='300'>|"
         markdown.append(cell)
 
-    output_str = intro + "\n".join(markdown)
+    output_str = "\n".join(markdown)
     with open(os.path.join(output_dir, "README.md"), "w") as output:
         output.write(output_str)
 
