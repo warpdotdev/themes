@@ -13,7 +13,7 @@ Please include the name of the theme.
 
 ## How Has This Been Tested?
 
-Have your run the python script? `python3 ./scripts/gen_theme_previews.py <folder-name-eg-standard>`
+Have you run the python script? `python3 ./scripts/gen_theme_previews.py <folder-name-eg-standard>`
 
 ## Notes
 
