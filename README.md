@@ -17,7 +17,7 @@ If your background image was under `~/.warp/themes/level_one/level_two/backgroun
 ```yaml
 background_image:
   # background image credit: https://unsplash.com/photos/0eKCOZ11gfk
-  path: level_one/level_two/background_image.jpg
+  path: "level_one/level_two/background_image.jpg"
 ```
 
 ## Contributing
