@@ -1,4 +1,5 @@
 background_image:
+  # background image author: Shikhiu Ing, Warp.dev
   path: holiday/pride_bg.jpg
   opacity: 47
 accent: "#ffffff"
