@@ -68,6 +68,9 @@
 |**[Seashells](seashells.yaml)**:|<img src='previews/seashells.yaml.svg' width='300'>|
 |**[Simply Dark](simply_dark.yaml)**:|<img src='previews/simply_dark.yaml.svg' width='300'>|
 |**[Snazzy](snazzy.yaml)**:|<img src='previews/snazzy.yaml.svg' width='300'>|
+|**[Snazzy Blue](snazzy_blue.yaml)**:|<img src='previews/snazzy_blue.yaml.svg' width='300'>|
+|**[Snazzy Green](snazzy_green.yaml)**:|<img src='previews/snazzy_green.yaml.svg' width='300'>|
+|**[Snazzy Red](snazzy_red.yaml)**:|<img src='previews/snazzy_red.yaml.svg' width='300'>|
 |**[Solarized Dark](solarized_dark.yaml)**:|<img src='previews/solarized_dark.yaml.svg' width='300'>|
 |**[Solarized Light](solarized_light.yaml)**:|<img src='previews/solarized_light.yaml.svg' width='300'>|
 |**[Taerminal](taerminal.yaml)**:|<img src='previews/taerminal.yaml.svg' width='300'>|
