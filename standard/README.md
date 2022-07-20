@@ -13,6 +13,7 @@
 |**[Campbell](campbell.yaml)**:|<img src='previews/campbell.yaml.svg' width='300'>|
 |**[Catppuccin](catppuccin.yaml)**:|<img src='previews/catppuccin.yaml.svg' width='300'>|
 |**[Challenger Deep](challenger_deep.yaml)**:|<img src='previews/challenger_deep.yaml.svg' width='300'>|
+|**[Classic Vivid](classic_vivid.yaml)**:|<img src='previews/classic_vivid.yaml.svg' width='300'>|
 |**[Cobalt 2](cobalt_2.yaml)**:|<img src='previews/cobalt_2.yaml.svg' width='300'>|
 |**[Cobalt Next](cobalt_next.yaml)**:|<img src='previews/cobalt_next.yaml.svg' width='300'>|
 |**[Cyber Punk Neon](cyber_punk_neon.yaml)**:|<img src='previews/cyber_punk_neon.yaml.svg' width='300'>|
