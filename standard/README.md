@@ -65,6 +65,7 @@
 |**[Pencil Dark](pencil_dark.yaml)**:|<img src='previews/pencil_dark.yaml.svg' width='300'>|
 |**[Pencil Light](pencil_light.yaml)**:|<img src='previews/pencil_light.yaml.svg' width='300'>|
 |**[Plastic](plastic.yaml)**:|<img src='previews/plastic.yaml.svg' width='300'>|
+|**[Poimandres](poimandres.yaml)**:|<img src='previews/poimandres.yaml.svg' width='300'>|
 |**[Remedy Dark](remedy_dark.yaml)**:|<img src='previews/remedy_dark.yaml.svg' width='300'>|
 |**[Seashells](seashells.yaml)**:|<img src='previews/seashells.yaml.svg' width='300'>|
 |**[Simply Dark](simply_dark.yaml)**:|<img src='previews/simply_dark.yaml.svg' width='300'>|
