@@ -8,17 +8,14 @@ from typing import Tuple
 
 import yaml
 
-
 def get_all_input_files(input_dir: str) -> List[str]:
     filenames = next(os.walk(input_dir), (None, None, []))[2]
     files = filter(lambda f: (f.endswith("yaml") or f.endswith("yml")), filenames)
     return list(files)
 
-
 def ensure_output_dir(output_dir: str):
     if not os.path.exists(output_dir):
         os.makedirs(output_dir)
-
 
 def add_color_to_dict(
     output: Dict[str, str], obj: Dict[str, str], key: str, prefix: Optional[str] = None
@@ -26,7 +23,6 @@ def add_color_to_dict(
     if not prefix:
         prefix = ""
     output[f"{prefix}{key}"] = obj[key]
-
 
 def get_color_dict(input_dir: str, file_name: str) -> Dict[str, str]:
     file = open(os.path.join(input_dir, file_name), "r")
@@ -46,7 +42,6 @@ def get_color_dict(input_dir: str, file_name: str) -> Dict[str, str]:
 
     return output
 
-
 def file_name_to_display(file_name: str) -> str:
     file_name = Path(file_name).with_suffix("").name
 
@@ -56,7 +51,6 @@ def file_name_to_display(file_name: str) -> str:
         output.append(s.capitalize())
     return " ".join(output)
 
-
 def gen_svg_for_theme(color_dict: Dict[str, str], svg_template: str) -> str:
     output = svg_template
 
@@ -64,7 +58,6 @@ def gen_svg_for_theme(color_dict: Dict[str, str], svg_template: str) -> str:
         if isinstance(value, str):
             output = output.replace(f"{{{key}}}", value)
     return output
-
 
 def main():
     parser = argparse.ArgumentParser(
@@ -123,7 +116,6 @@ def main():
     output_str = "\n".join(markdown)
     with open(os.path.join(output_dir, "README.md"), "w") as output:
         output.write(output_str)
-
 
 if __name__ == "__main__":
     main()
