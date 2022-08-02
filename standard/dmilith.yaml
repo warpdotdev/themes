@@ -1,0 +1,28 @@
+accent: '#52ad70' # Accent color for UI elements
+details: darker # Whether the theme is lighter or darker.
+foreground: '#bbbbbb' # The foreground color.
+background: '#001000' # Terminal background color
+
+background_image:
+  path: dmilith_bg.jpg
+  opacity: 26
+
+terminal_colors: # Ansi escape colors.
+  bright:
+    black: '#676767'
+    blue: '#6871ff'
+    cyan: '#5ffdff'
+    green: '#5ff967'
+    magenta: '#ff76ff'
+    red: '#ff6d67'
+    white: '#fffefe'
+    yellow: '#fefb67'
+  normal:
+    black: '#272727'
+    blue: '#4069e9'
+    cyan: '#00c5c7'
+    green: '#00c200'
+    magenta: '#c930c7'
+    red: '#c91b00'
+    white: '#c7c7c7'
+    yellow: '#ffaa00'
