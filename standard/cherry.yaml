@@ -1,0 +1,25 @@
+# This is a port of the VSCode "Cherry" theme, extension id: nullxception.cherry-theme
+# Cherry theme is licensed under the MIT License (https://github.com/nullxception/cherry-vscode/blob/20d6b36e11c5666b674081fc9076d1ebdc6b3c56/LICENSE) and Copyright (c) 2020 Nauval Rizky
+accent: '#ff568e'
+background: '#23232f'
+details: darker
+foreground: '#bdc3c7'
+terminal_colors:
+  bright:
+    black: '#474756'
+    blue: '#94b9ff'
+    cyan: '#7cd7d5'
+    green: '#8be39e'
+    magenta: '#aa91f8'
+    red: '#ff84a6'
+    white: '#eaf0f4'
+    yellow: '#f1ff94'
+  normal:
+    black: '#3f3f4f'
+    blue: '#73a9ff'
+    cyan: '#46cfcc'
+    green: '#64de83'
+    magenta: '#946ff7'
+    red: '#ff568e'
+    white: '#dee5e9'
+    yellow: '#efff73'
