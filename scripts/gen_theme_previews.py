@@ -10,8 +10,8 @@ import yaml
 
 
 def get_all_input_files(input_dir: str) -> List[str]:
-    filenames = next(os.walk(input_dir), (None, None, []))[2]
-    files = filter(lambda f: (f.endswith("yaml") or f.endswith("yml")), filenames)
+    filenames: Any = next(os.walk(input_dir), (None, None, []))[2]
+    files: Any = filter(lambda f: (f.endswith("yaml") or f.endswith("yml")), filenames)
     return list(files)
 
 
