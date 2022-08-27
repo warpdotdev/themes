@@ -12,8 +12,7 @@ import yaml
 
 def get_all_input_files(input_dir: str) -> List[str]:
     filenames: Any = next(os.walk(input_dir), (None, None, []))[2]
-    files: Any = filter(lambda f: (f.endswith("yaml") or f.endswith("yml")), filenames)
-    return list(files)
+    return list(filter(lambda f: (f.endswith("yaml") or f.endswith("yml")), filenames))
 
 
 def ensure_output_dir(output_dir: str):
@@ -22,7 +21,10 @@ def ensure_output_dir(output_dir: str):
 
 
 def add_color_to_dict(
-    output: Dict[str, str], obj: Dict[str, str], key: str, prefix: Optional[str] = None
+    output: Dict[str, str],
+    obj: Dict[str, str],
+    key: str,
+    prefix: Optional[str] = None,
 ):
     if not prefix:
         prefix = ""
