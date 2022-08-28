@@ -5,7 +5,6 @@ from typing import Any
 from typing import Dict
 from typing import List
 from typing import Optional
-from typing import Tuple
 
 import yaml
 
@@ -109,8 +108,6 @@ def main():
     svg = open(args.svg_path, "r").read()
     svg_dir = os.path.join(output_dir, "previews")
     os.makedirs(svg_dir, exist_ok=True)
-
-    intro = open(args.intro_file, "r").read()
 
     for input_file in sorted(filenames):
         print(f"Generating for {input_file}")
