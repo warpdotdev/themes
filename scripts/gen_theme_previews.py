@@ -14,7 +14,7 @@ def get_all_input_files(input_dir: str) -> List[str]:
     return list(filter(lambda f: (f.endswith("yaml") or f.endswith("yml")), filenames))
 
 
-def ensure_output_dir(output_dir: str):
+def ensure_output_dir(output_dir: str) -> None:
     if not os.path.exists(output_dir):
         os.makedirs(output_dir)
 
@@ -24,7 +24,7 @@ def add_color_to_dict(
     obj: Dict[str, str],
     key: str,
     prefix: Optional[str] = None,
-):
+) -> None:
     if not prefix:
         prefix = ""
     output[f"{prefix}{key}"] = obj[key]
@@ -68,7 +68,7 @@ def gen_svg_for_theme(color_dict: Dict[str, str], svg_template: str) -> str:
     return output
 
 
-def main():
+def main() -> None:
     parser = argparse.ArgumentParser(
         description="Generate README.md with embedded SVG previews."
     )
