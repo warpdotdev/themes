@@ -49,6 +49,8 @@
 |**[Lucario](lucario.yaml)**:|<img src='previews/lucario.yaml.svg' width='300'>|
 |**[Material Theme](material_theme.yaml)**:|<img src='previews/material_theme.yaml.svg' width='300'>|
 |**[Material Theme Mod](material_theme_mod.yaml)**:|<img src='previews/material_theme_mod.yaml.svg' width='300'>|
+|**[Matrix Dracula](matrix_dracula.yaml)**:|<img src='previews/matrix_dracula.yaml.svg' width='300'>|
+|**[Matrix Dracula Switcheroo](matrix_dracula_switcheroo.yaml)**:|<img src='previews/matrix_dracula_switcheroo.yaml.svg' width='300'>|
 |**[Monokai Pro](monokai_pro.yaml)**:|<img src='previews/monokai_pro.yaml.svg' width='300'>|
 |**[Monokai Pro Classic](monokai_pro_classic.yaml)**:|<img src='previews/monokai_pro_classic.yaml.svg' width='300'>|
 |**[Monokai Pro Machine](monokai_pro_machine.yaml)**:|<img src='previews/monokai_pro_machine.yaml.svg' width='300'>|
