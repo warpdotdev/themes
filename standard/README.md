@@ -18,6 +18,7 @@
 |**[Cobalt 2](cobalt_2.yaml)**:|<img src='previews/cobalt_2.yaml.svg' width='300'>|
 |**[Cobalt Next](cobalt_next.yaml)**:|<img src='previews/cobalt_next.yaml.svg' width='300'>|
 |**[Cyber Punk Neon](cyber_punk_neon.yaml)**:|<img src='previews/cyber_punk_neon.yaml.svg' width='300'>|
+|**[Daobeam](daobeam.yaml)**:|<img src='previews/daobeam.yaml.svg' width='300'>|
 |**[Darcula](darcula.yaml)**:|<img src='previews/darcula.yaml.svg' width='300'>|
 |**[Dark Pastels](dark_pastels.yaml)**:|<img src='previews/dark_pastels.yaml.svg' width='300'>|
 |**[Default Dark](default_dark.yaml)**:|<img src='previews/default_dark.yaml.svg' width='300'>|
