@@ -1,6 +1,6 @@
 # Warp Themes
 
-This is an open source repository with themes for [Warp](https://www.warp.dev/).
+This is an open-source repository with themes for [Warp](https://www.warp.dev/).
 We welcome and appreciate any contributions!
 Join our [Discord](https://discord.gg/warpdotdev), we have a channel dedicated to discussing custom themes.
 
@@ -9,10 +9,10 @@ We have [directions on how to use this repository in our documentation.](https:/
 ## Custom Background Images
 
 If want to use a custom background image, Warp supports either:
-* a relative path to `~/.warp/themes`
-* the absolute path to the background image
+* A relative path to `~/.warp/themes/background.jpg`
+* The absolute path to the background image `/Users/my_user/Documents/background.jpg`
 
-If your background image was under `~/.warp/themes/level_one/level_two/background_image.jpg` then the filepath in the yaml should be:
+If your background image was under `~/.warp/themes/level_one/level_two/background_image.jpg` then the file path in the yaml should be:
 
 ```yaml
 background_image:
@@ -22,11 +22,11 @@ background_image:
 
 ## Contributing
 
-tldr; After adding your theme run the python script for generating theme previews `./scripts/gen_theme_previews.py` like so:
+TLDR; After adding your theme run the python script for generating theme previews `./scripts/gen_theme_previews.py` like so:
 
 `python3 ./scripts/gen_theme_previews.py standard`
 
-for a newly added theme that's in the standard folder / directory. If you get the error that yaml is missing make sure you `pip install PyYAML`
+for a newly added theme that's in the standard folder/directory. If you get the error that yaml is missing make sure you `pip install PyYAML`
 
 There are more [directions on how to use this repository in our documentation.](https://docs.warp.dev/features/themes).
 
@@ -53,7 +53,7 @@ Repo: [https://github.com/aarowill/base16-alacritty](https://github.com/aarowill
 
 ## What are standard themes?
 
-In this directory you'll find themes popular among other tools, including Solarized, Dracula and others.
+In this directory, you'll find themes popular among other tools, including Solarized, Dracula, and others.
 
 Themes in this directory were sourced and auto-generated based on the Alacritty themes collected by @eendroroy.
 Repo: [https://github.com/eendroroy/alacritty-theme](https://github.com/eendroroy/alacritty-theme)
@@ -65,3 +65,7 @@ We made holiday themes to celebrate various holidays during the calendar year.
 ## What are warp_bundled themes?
 
 These are the themes that ship directly with Warp.
+
+## Create your own theme with Warp-Themes.com
+ 
+[Warp-Themes.com](https://warp-themes.com/) is a web app built entirely by community member [Torben Haack](https://twitter.com/torben_haack). The tool allows you to visually customize your own terminal theme with a few simple color selections, then download that theme file and have Warp load it into its theme picker. Please see more on how to use the app in our [Warp-Themes blog post](https://www.warp.dev/blog/create-custom-terminal-theme).
