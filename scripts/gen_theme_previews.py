@@ -102,9 +102,7 @@ def main() -> None:
         output_dir = input_dir
 
     filenames = get_all_input_files(input_dir=input_dir)
-    markdown = []
-    markdown.append("|Theme name | Preview|")
-    markdown.append("| --- | --- |")
+    markdown = ["|Theme name | Preview|", "| --- | --- |"]
     svg = open(args.svg_path, "r").read()
     svg_dir = os.path.join(output_dir, "previews")
     os.makedirs(svg_dir, exist_ok=True)
