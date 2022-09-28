@@ -8,7 +8,8 @@ We have [directions on how to use this repository in our documentation.](https:/
 
 ## Custom Background Images
 
-If want to use a custom background image, Warp supports either:
+Warp supports setting background images, set the path to your background image in your themes `.yaml` file:
+
 * A relative path to `~/.warp/themes/background.jpg`
 * The absolute path to the background image `/Users/my_user/Documents/background.jpg`
 
