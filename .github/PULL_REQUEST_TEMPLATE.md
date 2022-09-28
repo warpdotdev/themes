@@ -2,7 +2,7 @@
 
 ## Discord username (optional)
 
-If you're in our Discord server, we'd like to give you the Contributor Discord Role, pleaes include your username.
+If you're in our Discord server, we'd like to give you the Contributor Discord Role, please include your username.
 Note: It must be labelled like so: username#4747 (make sure to include the #XXXX).
 
 ## Name of theme
