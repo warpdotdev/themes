@@ -10,11 +10,27 @@ import yaml
 
 
 def get_all_input_files(input_dir: str) -> List[str]:
+    """
+
+    Parameters
+    ----------
+    input_dir :
+
+    Returns
+    -------
+
+    """
     filenames: Any = next(os.walk(input_dir), (None, None, []))[2]
     return list(filter(lambda f: (f.endswith("yaml") or f.endswith("yml")), filenames))
 
 
 def ensure_output_dir(output_dir: str) -> None:
+    """
+
+    Parameters
+    ----------
+    output_dir :
+    """
     if not os.path.exists(output_dir):
         os.makedirs(output_dir)
 
@@ -25,12 +41,32 @@ def add_color_to_dict(
     key: str,
     prefix: Optional[str] = None,
 ) -> None:
+    """
+
+    Parameters
+    ----------
+    output :
+    obj :
+    key :
+    prefix :
+    """
     if not prefix:
         prefix = ""
     output[f"{prefix}{key}"] = obj[key]
 
 
 def get_color_dict(input_dir: str, file_name: str) -> Dict[str, str]:
+    """
+
+    Parameters
+    ----------
+    input_dir :
+    file_name :
+
+    Returns
+    -------
+
+    """
     file = open(os.path.join(input_dir, file_name), "r")
     loaded_theme = yaml.safe_load(file)
     output: Dict[str, str] = {}
@@ -50,6 +86,16 @@ def get_color_dict(input_dir: str, file_name: str) -> Dict[str, str]:
 
 
 def file_name_to_display(file_name: str) -> str:
+    """
+
+    Parameters
+    ----------
+    file_name :
+
+    Returns
+    -------
+
+    """
     file_name = Path(file_name).with_suffix("").name
 
     split = file_name.split("_")
@@ -60,6 +106,17 @@ def file_name_to_display(file_name: str) -> str:
 
 
 def gen_svg_for_theme(color_dict: Dict[str, str], svg_template: str) -> str:
+    """
+
+    Parameters
+    ----------
+    color_dict :
+    svg_template :
+
+    Returns
+    -------
+
+    """
     output = svg_template
 
     for key, value in color_dict.items():
@@ -69,6 +126,7 @@ def gen_svg_for_theme(color_dict: Dict[str, str], svg_template: str) -> str:
 
 
 def main() -> None:
+    """ """
     parser = argparse.ArgumentParser(
         description="Generate README.md with embedded SVG previews."
     )
