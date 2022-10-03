@@ -1,0 +1,27 @@
+background_image:
+  # background image author: Shikhiu Ing, Warp.dev
+  path: holiday/pride_bg.jpg
+  opacity: 47
+accent: "#ffffff"
+background: "#000000"
+details: darker
+foreground: "#ffffff"
+terminal_colors:
+  bright:
+    black: "#1d1d1d"
+    blue: "#b8b8b8"
+    cyan: "#a16946"
+    green: "#383838"
+    magenta: "#e8e8e8"
+    red: "#dc9656"
+    white: "#ffffff"
+    yellow: "#484848"
+  normal:
+    black: "#282828"
+    blue: "#b3deef"
+    cyan: "#73cef4"
+    green: "#c9d05c"
+    magenta: "#d3b987"
+    red: "#f43753"
+    white: "#eeeeee"
+    yellow: "#ffc24b"

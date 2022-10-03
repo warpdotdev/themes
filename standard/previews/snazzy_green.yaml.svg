@@ -67,7 +67,7 @@ magenta
 <text x="235" y="85" fill="#9aedfe" font-size="0.6em" font-family="monospace" class="Dynamic">
 cyan
 </text>
-<text x="260" y="85" fill="#eff0eb" font-size="0.6em" font-family="monospace" class="Dynamic">
+<text x="260" y="85" fill="#f1f1f0" font-size="0.6em" font-family="monospace" class="Dynamic">
 white
 </text>
 <line x1="0" y1="95" x2="300" y2="95" style="stroke-width:0.2" class="Dynamic" stroke="#eff0eb" />
@@ -86,5 +86,5 @@ git(
       )
 </text>
 <!-- cursor -->
-<line x1="15" y1="120" x2="15" y2="130" style="stroke-width:2" class="Dynamic" stroke="#ff6ac1" />
+<line x1="15" y1="120" x2="15" y2="130" style="stroke-width:2" class="Dynamic" stroke="#5af78e" />
 </svg>

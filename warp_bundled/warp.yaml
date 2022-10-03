@@ -4,7 +4,7 @@ background: '#061229'
 details: darker
 foreground: '#b8bbc2'
 background_image:
-  path: warp.jpg
+  path: warp_bundled/warp.jpg
   opacity: 60
 
 terminal_colors:

@@ -1,5 +1,6 @@
-background_image:
-  path: holiday_thanksgiving.jpg
+background_image: 
+  # background image credit: https://unsplash.com/photos/ZwPuquZBnyM
+  path: holiday/thanksgiving_bg.jpg
   opacity: 47
 accent: '#b3deef'
 background: '#282828'

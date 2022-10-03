@@ -1,0 +1,24 @@
+# Colors from Vuesion IDEA theme https://plugins.jetbrains.com/plugin/12226-vuesion-theme
+accent: '#4A9BFD'
+background: '#202831'
+details: darker
+foreground: '#FFFFFF'
+terminal_colors:
+  bright:
+    black: '#282828'
+    blue: '#8DC3F9'
+    cyan: '#33CCCC'
+    green: '#3D8BEB'
+    magenta: '#33CCCC'
+    red: '#E84606'
+    white: '#FFFFFF'
+    yellow: '#F43B6C'
+  normal:
+    black: '#282828'
+    blue: '#8DC3F9'
+    cyan: '#33CCCC'
+    green: '#3D8BEB'
+    magenta: '#33CCCC'
+    red: '#E84606'
+    white: '#FFFFFF'
+    yellow: '#F43B6C'
