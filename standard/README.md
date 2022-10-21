@@ -73,6 +73,8 @@
 |**[Poimandres](poimandres.yaml)**:|<img src='previews/poimandres.yaml.svg' width='300'>|
 |**[Remedy Dark](remedy_dark.yaml)**:|<img src='previews/remedy_dark.yaml.svg' width='300'>|
 |**[Seashells](seashells.yaml)**:|<img src='previews/seashells.yaml.svg' width='300'>|
+|**[Shades Of Purple](shades_of_purple.yaml)**:|<img src='previews/shades_of_purple.yaml.svg' width='300'>|
+|**[Shades Of Purple Super Dark](shades_of_purple_super_dark.yaml)**:|<img src='previews/shades_of_purple_super_dark.yaml.svg' width='300'>|
 |**[Simply Dark](simply_dark.yaml)**:|<img src='previews/simply_dark.yaml.svg' width='300'>|
 |**[Snazzy](snazzy.yaml)**:|<img src='previews/snazzy.yaml.svg' width='300'>|
 |**[Snazzy Blue](snazzy_blue.yaml)**:|<img src='previews/snazzy_blue.yaml.svg' width='300'>|
