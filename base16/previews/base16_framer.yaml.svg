@@ -1,90 +1,51 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 300 145">
-<rect width="300" height="145" class="Dynamic" fill="#181818" rx="5" />
-
-<!-- first command -->
-<text x="15" y="15" fill="#d0d0d0" font-size="0.6em" font-family="monospace" class="Dynamic">ls</text>
-<text x="15" y="30" fill="#20bcfc" font-size="0.6em" font-family="monospace" class="Dynamic">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 300 145"><rect width="300" height="145" fill="#181818" class="Dynamic" rx="5"/><text x="15" y="15" fill="#d0d0d0" class="Dynamic" font-family="monospace" font-size=".6em">ls</text><text x="15" y="30" fill="#20bcfc" class="Dynamic" font-family="monospace" font-size=".6em">
 dir
-</text>
-<text x="65" y="30" fill="#fd886b" font-size="0.6em" font-family="monospace" class="Dynamic">
+</text><text x="65" y="30" fill="#fd886b" class="Dynamic" font-family="monospace" font-size=".6em">
 executable
-</text>
-<text x="175" y="30" fill="#d0d0d0" font-size="0.6em" font-family="monospace" class="Dynamic">
+</text><text x="175" y="30" fill="#d0d0d0" class="Dynamic" font-family="monospace" font-size=".6em">
 file
-</text>
-<line x1="0" y1="40" x2="300" y2="40" style="stroke-width:0.2"  class="Dynamic" stroke="#d0d0d0"/>
-
-<!-- second command -->
-<text x="15" y="55" fill="#d0d0d0" font-size="0.6em" font-family="monospace" class="Dynamic">bash ~/colors.sh</text>
-<text x="15" y="70" fill="#d0d0d0" font-size="0.6em" font-family="monospace" class="Dynamic">
+</text><path stroke="#d0d0d0" d="M0 40h300" class="Dynamic" style="stroke-width:.2"/><text x="15" y="55" fill="#d0d0d0" class="Dynamic" font-family="monospace" font-size=".6em">bash ~/colors.sh</text><text x="15" y="70" fill="#d0d0d0" class="Dynamic" font-family="monospace" font-size=".6em">
 normal:
-</text>
-<text x="55" y="70" fill="#181818" font-size="0.6em" font-family="monospace" class="Dynamic">
+</text><text x="55" y="70" fill="#181818" class="Dynamic" font-family="monospace" font-size=".6em">
 black
-</text>
-<text x="85" y="70" fill="#fd886b" font-size="0.6em" font-family="monospace" class="Dynamic">
+</text><text x="85" y="70" fill="#fd886b" class="Dynamic" font-family="monospace" font-size=".6em">
 red
-</text>
-<text x="105" y="70" fill="#32ccdc" font-size="0.6em" font-family="monospace" class="Dynamic">
+</text><text x="105" y="70" fill="#32ccdc" class="Dynamic" font-family="monospace" font-size=".6em">
 green
-</text>
-<text x="135" y="70" fill="#fecb6e" font-size="0.6em" font-family="monospace" class="Dynamic">
+</text><text x="135" y="70" fill="#fecb6e" class="Dynamic" font-family="monospace" font-size=".6em">
 yellow
-</text>
-<text x="170" y="70" fill="#20bcfc" font-size="0.6em" font-family="monospace" class="Dynamic">
+</text><text x="170" y="70" fill="#20bcfc" class="Dynamic" font-family="monospace" font-size=".6em">
 blue
-</text>
-<text x="195" y="70" fill="#ba8cfc" font-size="0.6em" font-family="monospace" class="Dynamic">
+</text><text x="195" y="70" fill="#ba8cfc" class="Dynamic" font-family="monospace" font-size=".6em">
 magenta
-</text>
-<text x="235" y="70" fill="#acddfd" font-size="0.6em" font-family="monospace" class="Dynamic">
+</text><text x="235" y="70" fill="#acddfd" class="Dynamic" font-family="monospace" font-size=".6em">
 cyan
-</text>
-<text x="260" y="70" fill="#d0d0d0" font-size="0.6em" font-family="monospace" class="Dynamic">
+</text><text x="260" y="70" fill="#d0d0d0" class="Dynamic" font-family="monospace" font-size=".6em">
 white
-</text>
-<text x="15" y="85" fill="#d0d0d0" font-size="0.6em" font-family="monospace" class='Dynamic'>
+</text><text x="15" y="85" fill="#d0d0d0" class="Dynamic" font-family="monospace" font-size=".6em">
 bright:
-</text>
-<text x="55" y="85" fill="#747474" font-size="0.6em" font-family="monospace" class="Dynamic">
+</text><text x="55" y="85" fill="#747474" class="Dynamic" font-family="monospace" font-size=".6em">
 black
-</text>
-<text x="85" y="85" fill="#fc4769" font-size="0.6em" font-family="monospace" class="Dynamic">
+</text><text x="85" y="85" fill="#fc4769" class="Dynamic" font-family="monospace" font-size=".6em">
 red
-</text>
-<text x="105" y="85" fill="#151515" font-size="0.6em" font-family="monospace" class="Dynamic">
+</text><text x="105" y="85" fill="#151515" class="Dynamic" font-family="monospace" font-size=".6em">
 green
-</text>
-<text x="135" y="85" fill="#464646" font-size="0.6em" font-family="monospace" class="Dynamic">
+</text><text x="135" y="85" fill="#464646" class="Dynamic" font-family="monospace" font-size=".6em">
 yellow
-</text>
-<text x="170" y="85" fill="#b9b9b9" font-size="0.6em" font-family="monospace" class="Dynamic">
+</text><text x="170" y="85" fill="#b9b9b9" class="Dynamic" font-family="monospace" font-size=".6em">
 blue
-</text>
-<text x="195" y="85" fill="#e8e8e8" font-size="0.6em" font-family="monospace" class="Dynamic">
+</text><text x="195" y="85" fill="#e8e8e8" class="Dynamic" font-family="monospace" font-size=".6em">
 magenta
-</text>
-<text x="235" y="85" fill="#b15f4a" font-size="0.6em" font-family="monospace" class="Dynamic">
+</text><text x="235" y="85" fill="#b15f4a" class="Dynamic" font-family="monospace" font-size=".6em">
 cyan
-</text>
-<text x="260" y="85" fill="#eeeeee" font-size="0.6em" font-family="monospace" class="Dynamic">
+</text><text x="260" y="85" fill="#eee" class="Dynamic" font-family="monospace" font-size=".6em">
 white
-</text>
-<line x1="0" y1="95" x2="300" y2="95" style="stroke-width:0.2" class="Dynamic" stroke="#d0d0d0" />
-
-<!-- prompt -->
-<text x="15" y="110" fill="#ba8cfc" font-size="0.6em" font-family="monospace" class="Dynamic">
+</text><path stroke="#d0d0d0" d="M0 95h300" class="Dynamic" style="stroke-width:.2"/><text x="15" y="110" fill="#ba8cfc" class="Dynamic" font-family="monospace" font-size=".6em">
 ~/project
-</text>
-<text x="65" y="110" fill="#32ccdc" font-size="0.6em" font-family="monospace" class="Dynamic">
+</text><text x="65" y="110" fill="#32ccdc" class="Dynamic" font-family="monospace" font-size=".6em">
 git(
-    </text>
-    <text x="85" y="110" fill="#fecb6e" font-size="0.6em" font-family="monospace" class="Dynamic">
+    </text><text x="85" y="110" fill="#fecb6e" class="Dynamic" font-family="monospace" font-size=".6em">
       main
-    </text>
-    <text x="113" y="110" fill="#32ccdc" font-size="0.6em" font-family="monospace" class="Dynamic">
+    </text><text x="113" y="110" fill="#32ccdc" class="Dynamic" font-family="monospace" font-size=".6em">
       )
-</text>
-<!-- cursor -->
-<line x1="15" y1="120" x2="15" y2="130" style="stroke-width:2" class="Dynamic" stroke="#20bcfc" />
-</svg>
+</text><path stroke="#20bcfc" d="M15 120v10" class="Dynamic" style="stroke-width:2"/></svg>
