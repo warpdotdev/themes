@@ -1,3 +1,5 @@
+# Bundled Warp Themes
+
 | Theme name                                   | Preview                                                   |
 | -------------------------------------------- | --------------------------------------------------------- |
 | **[Cyber Wave](cyber_wave.yaml)**:           | <img src='previews/cyber_wave.yaml.svg' width='300'>      |

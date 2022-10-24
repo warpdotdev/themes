@@ -1,3 +1,5 @@
+# Standard Warp Themes
+
 | Theme name                                                            | Preview                                                               |
 | --------------------------------------------------------------------- | --------------------------------------------------------------------- |
 | **[Afterglow](afterglow.yaml)**:                                      | <img src='previews/afterglow.yaml.svg' width='300'>                   |

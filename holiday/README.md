@@ -1,3 +1,5 @@
+# Holiday Warp Themes
+
 | Theme name                             | Preview                                                |
 | -------------------------------------- | ------------------------------------------------------ |
 | **[Pride](pride.yaml)**:               | <img src='previews/pride.yaml.svg' width='300'>        |
