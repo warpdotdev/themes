@@ -1,6 +1,6 @@
-background_image:
-  # background image source: hhttps://www.insider.com/cyberpunk-2077-gameplay-demo-e3-details-release-date-2018-6
-  path: Cyberpunk/2077/Images/V.jpg
+# background_image:
+#   # background image source: hhttps://www.insider.com/cyberpunk-2077-gameplay-demo-e3-details-release-date-2018-6
+#   path: Cyberpunk/2077/Images/V.jpg
   opacity: 25
 accent: "#ffdb00"
 background: "#000000"
