@@ -1,7 +1,7 @@
 # background_image:
 #   # background image source: https://wallpapersden.com/cyberpunk-netflix-2022-wallpaper/
 #   path: Cyberpunk/Edgerunners/Images/David.jpg
-  opacity: 25
+#  opacity: 25
 accent: "#ffdb00"
 background: "#000000"
 details: darker
