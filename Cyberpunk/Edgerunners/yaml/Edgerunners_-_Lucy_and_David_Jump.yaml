@@ -1,7 +1,7 @@
 # background_image:
 #   # background image source: https://store.steampowered.com/news/group/38496645/view/3368143418771095467?l=schinese
 #   path: Cyberpunk/Edgerunners/Images/Lucy_and_David_Jump.jpg
-  opacity: 25
+#  opacity: 25
 accent: "#ffdb00"
 background: "#000000"
 details: darker
