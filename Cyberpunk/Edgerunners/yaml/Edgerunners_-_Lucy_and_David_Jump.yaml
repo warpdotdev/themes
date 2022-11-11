@@ -1,0 +1,27 @@
+# background_image:
+#   # background image source: https://store.steampowered.com/news/group/38496645/view/3368143418771095467?l=schinese
+#   path: Cyberpunk/Edgerunners/Images/Lucy_and_David_Jump.jpg
+#  opacity: 25
+accent: "#ffdb00"
+background: "#000000"
+details: darker
+foreground: "#ffffff"
+terminal_colors:
+  bright:
+    black: "#1d1d1d"
+    blue: "#b8b8b8"
+    cyan: "#a16946"
+    green: "#383838"
+    magenta: "#e8e8e8"
+    red: "#dc9656"
+    white: "#ffffff"
+    yellow: "#484848"
+  normal:
+    black: "#282828"
+    blue: "#0088ff"
+    cyan: "#259386"
+    green: "#56c662"
+    magenta: "#ff8ffd"
+    red: "#f52e4f"
+    white: "#eeeeee"
+    yellow: "#ffdb00"

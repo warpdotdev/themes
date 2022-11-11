@@ -1,0 +1,27 @@
+# background_image:
+#   # background image source: hhttps://www.insider.com/cyberpunk-2077-gameplay-demo-e3-details-release-date-2018-6
+#   path: Cyberpunk/2077/Images/V.jpg
+#  opacity: 25
+accent: "#ffdb00"
+background: "#000000"
+details: darker
+foreground: "#ffffff"
+terminal_colors:
+  bright:
+    black: "#1d1d1d"
+    blue: "#b8b8b8"
+    cyan: "#a16946"
+    green: "#383838"
+    magenta: "#e8e8e8"
+    red: "#dc9656"
+    white: "#ffffff"
+    yellow: "#484848"
+  normal:
+    black: "#282828"
+    blue: "#0088ff"
+    cyan: "#259386"
+    green: "#56c662"
+    magenta: "#ff8ffd"
+    red: "#f52e4f"
+    white: "#eeeeee"
+    yellow: "#ffdb00"
