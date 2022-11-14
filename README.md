@@ -5,7 +5,7 @@ appreciate any contributions! Join our [Discord](https://discord.gg/warpdotdev),
 dedicated to discussing custom themes.
 
 We have
-[directions on how to use this repository in our documentation.](https://docs.warp.dev/features/themes)
+[directions on how to use this repository in our documentation.](https://docs.warp.dev/features/themes/custom-themes)
 
 ## Custom Background Images
 
