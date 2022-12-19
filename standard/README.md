@@ -84,6 +84,7 @@
 | **[Snazzy Red](snazzy_red.yaml)**:                                    | <img src='previews/snazzy_red.yaml.svg' width='300'>                  |
 | **[Solarized Dark](solarized_dark.yaml)**:                            | <img src='previews/solarized_dark.yaml.svg' width='300'>              |
 | **[Solarized Light](solarized_light.yaml)**:                          | <img src='previews/solarized_light.yaml.svg' width='300'>             |
+| **[Spaceduck](spaceduck.yaml)**:                                      | <img src='previews/spaceduck.yaml.svg' width='300'>                   |
 | **[Taerminal](taerminal.yaml)**:                                      | <img src='previews/taerminal.yaml.svg' width='300'>                   |
 | **[Tango Dark](tango_dark.yaml)**:                                    | <img src='previews/tango_dark.yaml.svg' width='300'>                  |
 | **[Tender](tender.yaml)**:                                            | <img src='previews/tender.yaml.svg' width='300'>                      |
