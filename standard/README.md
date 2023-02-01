@@ -97,6 +97,11 @@
 |**[Tokyo Night Storm](tokyo_night_storm.yaml)**:|<img src='previews/tokyo_night_storm.yaml.svg' width='300'>|
 |**[Tomorrow Night](tomorrow_night.yaml)**:|<img src='previews/tomorrow_night.yaml.svg' width='300'>|
 |**[Tomorrow Night Bright](tomorrow_night_bright.yaml)**:|<img src='previews/tomorrow_night_bright.yaml.svg' width='300'>|
+|**[Vitesse Black](vitesse_black.yaml)**:|<img src='previews/vitesse_black.yaml.svg' width='300'>|
+|**[Vitesse Dark](vitesse_dark.yaml)**:|<img src='previews/vitesse_dark.yaml.svg' width='300'>|
+|**[Vitesse Dark Soft](vitesse_dark_soft.yaml)**:|<img src='previews/vitesse_dark_soft.yaml.svg' width='300'>|
+|**[Vitesse Light](vitesse_light.yaml)**:|<img src='previews/vitesse_light.yaml.svg' width='300'>|
+|**[Vitesse Light Soft](vitesse_light_soft.yaml)**:|<img src='previews/vitesse_light_soft.yaml.svg' width='300'>|
 |**[Vscode Default Dark Material](vscode_default_dark_material.yml)**:|<img src='previews/vscode_default_dark_material.yml.svg' width='300'>|
 |**[Vuesion](vuesion.yaml)**:|<img src='previews/vuesion.yaml.svg' width='300'>|
 |**[Wombat](wombat.yaml)**:|<img src='previews/wombat.yaml.svg' width='300'>|
