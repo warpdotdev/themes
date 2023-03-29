@@ -10,6 +10,7 @@
 |**[Ayu Light](ayu_light.yaml)**:|<img src='previews/ayu_light.yaml.svg' width='300'>|
 |**[Ayu Mirage](ayu_mirage.yaml)**:|<img src='previews/ayu_mirage.yaml.svg' width='300'>|
 |**[Blood Moon](blood_moon.yaml)**:|<img src='previews/blood_moon.yaml.svg' width='300'>|
+|**[Blue Monday](blue_monday.yaml)**:|<img src='previews/blue_monday.yaml.svg' width='300'>|
 |**[Breeze](breeze.yaml)**:|<img src='previews/breeze.yaml.svg' width='300'>|
 |**[Campbell](campbell.yaml)**:|<img src='previews/campbell.yaml.svg' width='300'>|
 |**[Catppuccin](catppuccin.yaml)**:|<img src='previews/catppuccin.yaml.svg' width='300'>|
