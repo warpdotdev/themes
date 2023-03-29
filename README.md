@@ -51,7 +51,7 @@ We'd like to call out a few of the open source themes and repositories that help
 of themes for Warp:
 
 - [iTerm colors pencil](https://github.com/mattly/iterm-colors-pencil)
-- [Alacritty-theme](https://github.com/eendroroy/alacritty-theme)
+- [Alacritty-theme](https://github.com/alacritty/alacritty-theme)
 - [base16-Alacritty](https://github.com/aarowill/base16-alacritty)
 - [base16](https://github.com/chriskempson/base16)
 - [Solarized](https://ethanschoonover.com/solarized/)
