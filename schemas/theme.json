@@ -86,9 +86,9 @@
                         },
                         {
                             "properties": {
-                                "up": {
-                                    "title": "up",
-                                    "description": "A up color",
+                                "top": {
+                                    "title": "top",
+                                    "description": "A top color",
                                     "$ref": "#/definitions/color"
                                 },
                                 "bottom": {
