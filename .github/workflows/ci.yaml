@@ -12,6 +12,6 @@ jobs:
       - uses: actions/checkout@v3
       - run: pip3 install jsonschema-cli
       - run: |
-          for directory in base16 holiday standard; do
+          for directory in base16 holiday standard warp_bundled; do
             env -C "$directory" jsonschema-cli validate "../schemas/theme.json" *.yaml
           done
