@@ -2,7 +2,8 @@
     "yaml.schemas": {
         "schemas/theme.json": [
             "base16/*.yaml",
-            "holiday/*.yaml"
+            "holiday/*.yaml",
+            "standard/*.yaml"
         ]
     }
 }
