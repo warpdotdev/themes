@@ -1,0 +1,179 @@
+{
+    "$schema": "http://json-schema.org/draft-07/schema",
+    "definitions": {
+        "color": {
+            "type": "string",
+            "pattern": "^#[0-9a-fA-F]{6}$",
+            "examples": [
+                "#000000",
+                "#ff0000",
+                "#00ff00",
+                "#0000ff",
+                "#ffff00",
+                "#ff00ff",
+                "#00ffff",
+                "#ffffff"
+            ]
+        },
+        "colors": {
+            "type": "object",
+            "properties": {
+                "black": {
+                    "title": "black",
+                    "description": "A black color",
+                    "$ref": "#/definitions/color"
+                },
+                "blue": {
+                    "title": "blue",
+                    "description": "A blue color",
+                    "$ref": "#/definitions/color"
+                },
+                "cyan": {
+                    "title": "cyan",
+                    "description": "A cyan color",
+                    "$ref": "#/definitions/color"
+                },
+                "green": {
+                    "title": "green",
+                    "description": "A green color",
+                    "$ref": "#/definitions/color"
+                },
+                "magenta": {
+                    "title": "magenta",
+                    "description": "A magenta color",
+                    "$ref": "#/definitions/color"
+                },
+                "red": {
+                    "title": "red",
+                    "description": "A red color",
+                    "$ref": "#/definitions/color"
+                },
+                "white": {
+                    "title": "white",
+                    "description": "A white color",
+                    "$ref": "#/definitions/color"
+                },
+                "yellow": {
+                    "title": "yellow",
+                    "description": "A yellow color",
+                    "$ref": "#/definitions/color"
+                }
+            },
+            "additionalProperties": false
+        },
+        "color-or-gradient": {
+            "oneOf": [
+                {
+                    "$ref": "#/definitions/color"
+                },
+                {
+                    "type": "object",
+                    "oneOf": [
+                        {
+                            "properties": {
+                                "left": {
+                                    "title": "left",
+                                    "description": "A left color",
+                                    "$ref": "#/definitions/color"
+                                },
+                                "right": {
+                                    "title": "right",
+                                    "description": "A right color",
+                                    "$ref": "#/definitions/color"
+                                }
+                            },
+                            "additionalProperties": false
+                        },
+                        {
+                            "properties": {
+                                "up": {
+                                    "title": "up",
+                                    "description": "A up color",
+                                    "$ref": "#/definitions/color"
+                                },
+                                "bottom": {
+                                    "title": "bottom",
+                                    "description": "A bottom color",
+                                    "$ref": "#/definitions/color"
+                                }
+                            },
+                            "additionalProperties": false
+                        }
+                    ]
+                }
+            ]
+        }
+    },
+    "title": "theme",
+    "description": "A theme",
+    "type": "object",
+    "properties": {
+        "accent": {
+            "title": "accent",
+            "description": "An accent color",
+            "$ref": "#/definitions/color-or-gradient"
+        },
+        "background": {
+            "title": "background",
+            "description": "A background color",
+            "$ref": "#/definitions/color-or-gradient"
+        },
+        "details": {
+            "title": "details",
+            "description": "Whether lighter or darker colors are used",
+            "type": "string",
+            "enum": [
+                "lighter",
+                "darker"
+            ]
+        },
+        "foreground": {
+            "title": "foreground",
+            "description": "A foreground color",
+            "$ref": "#/definitions/color"
+        },
+        "terminal_colors": {
+            "title": "terminal colors",
+            "description": "Terminal colors",
+            "type": "object",
+            "properties": {
+                "bright": {
+                    "title": "bright",
+                    "description": "Bright colors",
+                    "$ref": "#/definitions/colors"
+                },
+                "normal": {
+                    "title": "normal",
+                    "description": "Normal colors",
+                    "$ref": "#/definitions/colors"
+                }
+            },
+            "additionalProperties": false
+        },
+        "background_image": {
+            "title": "background image",
+            "description": "A background image",
+            "type": "object",
+            "properties": {
+                "path": {
+                    "title": "path",
+                    "description": "A path of the current image",
+                    "type": "string",
+                    "minLength": 1,
+                    "examples": [
+                        "warp.jpg"
+                    ]
+                },
+                "opacity": {
+                    "title": "opacity",
+                    "description": "An opacity of the current image",
+                    "type": "integer",
+                    "minimum": 0,
+                    "maximum": 100
+                }
+            },
+            "additionalProperties": false
+        }
+    },
+    "additionalProperties": false
+}
