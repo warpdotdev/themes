@@ -3,7 +3,8 @@
         "schemas/theme.json": [
             "base16/*.yaml",
             "holiday/*.yaml",
-            "standard/*.yaml"
+            "standard/*.yaml",
+            "warp_bundled/*.yaml"
         ]
     }
 }
