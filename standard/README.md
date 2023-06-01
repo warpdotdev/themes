@@ -87,6 +87,7 @@
 |**[Snazzy Blue](snazzy_blue.yaml)**:|<img src='previews/snazzy_blue.yaml.svg' width='300'>|
 |**[Snazzy Green](snazzy_green.yaml)**:|<img src='previews/snazzy_green.yaml.svg' width='300'>|
 |**[Snazzy Red](snazzy_red.yaml)**:|<img src='previews/snazzy_red.yaml.svg' width='300'>|
+|**[Soft One Dark](soft_one_dark.yaml)**:|<img src='previews/soft_one_dark.yaml.svg' width='300'>|
 |**[Solarized Dark](solarized_dark.yaml)**:|<img src='previews/solarized_dark.yaml.svg' width='300'>|
 |**[Solarized Light](solarized_light.yaml)**:|<img src='previews/solarized_light.yaml.svg' width='300'>|
 |**[Spaceduck](spaceduck.yaml)**:|<img src='previews/spaceduck.yaml.svg' width='300'>|
