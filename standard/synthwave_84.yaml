@@ -1,7 +1,7 @@
 # Synthwave '84
 accent:
-    left: "#f92aad"
-    right: "#848bbd"
+  left: "#f92aad"
+  right: "#848bbd"
 background:
   top: "#241b2f"
   bottom: "#191621"

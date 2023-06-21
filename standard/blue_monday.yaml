@@ -1,9 +1,9 @@
 accent: "#4136d9"
 background:
-  top: '#000000'
-  bottom: '#00081e'
-  left: '#000000'
-  right: '#00081e'
+  top: "#000000"
+  bottom: "#00081e"
+  left: "#000000"
+  right: "#00081e"
 details: darker
 foreground: "#80c0ff"
 terminal_colors:

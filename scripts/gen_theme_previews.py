@@ -2,17 +2,14 @@ import argparse
 import os
 from pathlib import Path
 from typing import Any
-from typing import Dict
-from typing import List
-from typing import Optional
 
 import yaml
 
 
-def get_all_input_files(input_dir: str) -> List[str]:
-    """
-
-    Parameters
+def get_all_input_files(
+    input_dir: str,
+) -> list[str]:
+    """Parameters
     ----------
     input_dir :
 
@@ -21,13 +18,13 @@ def get_all_input_files(input_dir: str) -> List[str]:
 
     """
     filenames: Any = next(os.walk(input_dir), (None, None, []))[2]
-    return list(filter(lambda f: (f.endswith("yaml") or f.endswith("yml")), filenames))
+    return list(filter(lambda f: (f.endswith(("yaml", "yml"))), filenames))
 
 
-def ensure_output_dir(output_dir: str) -> None:
-    """
-
-    Parameters
+def ensure_output_dir(
+    output_dir: str,
+) -> None:
+    """Parameters
     ----------
     output_dir :
     """
@@ -36,14 +33,12 @@ def ensure_output_dir(output_dir: str) -> None:
 
 
 def add_color_to_dict(
-    output: Dict[str, str],
-    obj: Dict[str, str],
+    output: dict[str, str],
+    obj: dict[str, str],
     key: str,
-    prefix: Optional[str] = None,
+    prefix: str | None = None,
 ) -> None:
-    """
-
-    Parameters
+    """Parameters
     ----------
     output :
     obj :
@@ -55,10 +50,11 @@ def add_color_to_dict(
     output[f"{prefix}{key}"] = obj[key]
 
 
-def get_color_dict(input_dir: str, file_name: str) -> Dict[str, str]:
-    """
-
-    Parameters
+def get_color_dict(
+    input_dir: str,
+    file_name: str,
+) -> dict[str, str]:
+    """Parameters
     ----------
     input_dir :
     file_name :
@@ -67,28 +63,28 @@ def get_color_dict(input_dir: str, file_name: str) -> Dict[str, str]:
     -------
 
     """
-    file = open(os.path.join(input_dir, file_name), "r")
+    file = open(os.path.join(input_dir, file_name))
     loaded_theme = yaml.safe_load(file)
-    output: Dict[str, str] = {}
+    output: dict[str, str] = {}
     add_color_to_dict(output, loaded_theme, "accent")
     add_color_to_dict(output, loaded_theme, "foreground")
     add_color_to_dict(output, loaded_theme, "background")
 
     normal_colors = loaded_theme["terminal_colors"]["normal"]
-    for color in normal_colors.keys():
+    for color in normal_colors:
         add_color_to_dict(output, normal_colors, color)
 
     bright_colors = loaded_theme["terminal_colors"]["bright"]
-    for color in bright_colors.keys():
+    for color in bright_colors:
         add_color_to_dict(output, bright_colors, color, "br")
 
     return output
 
 
-def file_name_to_display(file_name: str) -> str:
-    """
-
-    Parameters
+def file_name_to_display(
+    file_name: str,
+) -> str:
+    """Parameters
     ----------
     file_name :
 
@@ -105,10 +101,11 @@ def file_name_to_display(file_name: str) -> str:
     return " ".join(output)
 
 
-def gen_svg_for_theme(color_dict: Dict[str, str], svg_template: str) -> str:
-    """
-
-    Parameters
+def gen_svg_for_theme(
+    color_dict: dict[str, str],
+    svg_template: str,
+) -> str:
+    """Parameters
     ----------
     color_dict :
     svg_template :
@@ -128,7 +125,7 @@ def gen_svg_for_theme(color_dict: Dict[str, str], svg_template: str) -> str:
 def main() -> None:
     """ """
     parser = argparse.ArgumentParser(
-        description="Generate README.md with embedded SVG previews."
+        description="Generate README.md with embedded SVG previews.",
     )
     parser.add_argument(
         "input_dir",
@@ -136,7 +133,10 @@ def main() -> None:
         help="Directory from which to read in all Warp themes.",
     )
     parser.add_argument(
-        "--output_dir", type=str, help="Where to save README.md", default=""
+        "--output_dir",
+        type=str,
+        help="Where to save README.md",
+        default="",
     )
     parser.add_argument(
         "--svg_path",
@@ -161,7 +161,7 @@ def main() -> None:
 
     filenames = get_all_input_files(input_dir=input_dir)
     markdown = ["|Theme name | Preview|", "| --- | --- |"]
-    svg = open(args.svg_path, "r").read()
+    svg = open(args.svg_path).read()
     svg_dir = os.path.join(output_dir, "previews")
     os.makedirs(svg_dir, exist_ok=True)
 
