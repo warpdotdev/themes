@@ -9,8 +9,7 @@ import yaml
 def get_all_input_files(
     input_dir: str,
 ) -> list[str]:
-    """
-    Parameters
+    """Parameters
     ----------
     input_dir :
 
@@ -25,8 +24,7 @@ def get_all_input_files(
 def ensure_output_dir(
     output_dir: str,
 ) -> None:
-    """
-    Parameters
+    """Parameters
     ----------
     output_dir :
     """
@@ -40,8 +38,7 @@ def add_color_to_dict(
     key: str,
     prefix: str | None = None,
 ) -> None:
-    """
-    Parameters
+    """Parameters
     ----------
     output :
     obj :
@@ -57,8 +54,7 @@ def get_color_dict(
     input_dir: str,
     file_name: str,
 ) -> dict[str, str]:
-    """
-    Parameters
+    """Parameters
     ----------
     input_dir :
     file_name :
@@ -88,8 +84,7 @@ def get_color_dict(
 def file_name_to_display(
     file_name: str,
 ) -> str:
-    """
-    Parameters
+    """Parameters
     ----------
     file_name :
 
@@ -110,8 +105,7 @@ def gen_svg_for_theme(
     color_dict: dict[str, str],
     svg_template: str,
 ) -> str:
-    """
-    Parameters
+    """Parameters
     ----------
     color_dict :
     svg_template :
