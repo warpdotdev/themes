@@ -1,4 +1,4 @@
-# Holiday Warp Themes
+# Special Edition Warp Themes
 
 | Theme name                             | Preview                                                |
 | -------------------------------------- | ------------------------------------------------------ |
@@ -6,3 +6,5 @@
 | **[Thanksgiving](thanksgiving.yaml)**: | <img src='previews/thanksgiving.yaml.svg' width='300'> |
 | **[Winter](winter.yaml)**:             | <img src='previews/winter.yaml.svg' width='300'>       |
 | **[Grafbase](grafbase.yaml)**:         | <img src='previews/grafbase.yaml.svg' width='300'>     |
+| **[Barbie](barbie.yaml)**:             | <img src='previews/barbie.yaml.svg' width='300'>.      |
+| **[Oppenheimer](oppenheimer.yaml)**:   | <img src='previews/oppenheimer.yaml.svg' width='300'>. |
