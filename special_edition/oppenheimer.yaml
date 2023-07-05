@@ -1,0 +1,26 @@
+accent: "#bababa"
+background: "#000000"
+background_image:
+  # background image credit: https://unsplash.com/photos/d8AgCj2epJc
+  path: special_edition/oppenheimer_bg.jpg
+details: darker
+foreground: "#FFFFFF"
+terminal_colors:
+  bright:
+    black: "#212121"
+    blue: "#e7c547"
+    cyan: "#dc322f"
+    green: "#ffc24b"
+    magenta: "#000000"
+    red: "#db7070"
+    white: "#f19162"
+    yellow: "#1C1C1E"
+  normal:
+    black: "#212121"
+    blue: "#e7c547"
+    cyan: "#dc322f"
+    green: "#ffc24b"
+    magenta: "#000000"
+    red: "#ff5c57"
+    white: "#f19162"
+    yellow: "#1C1C1E"
