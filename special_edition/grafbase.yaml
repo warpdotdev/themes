@@ -1,6 +1,6 @@
 background: "#131313"
 background_image:
-  path: special_edition/grafbase.jpg
+  path: special_edition/grafbase_bg.jpg
 terminal_colors:
   normal:
     magenta: "#45b192"
