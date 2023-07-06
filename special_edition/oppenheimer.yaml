@@ -1,5 +1,5 @@
-accent: "#bababa"
-background: "#000000"
+accent: "#EAEAEA"
+background: "#4C0E0E"
 background_image:
   # background image credit: https://unsplash.com/photos/d8AgCj2epJc
   path: special_edition/oppenheimer_bg.jpg
@@ -11,16 +11,16 @@ terminal_colors:
     blue: "#e7c547"
     cyan: "#dc322f"
     green: "#ffc24b"
-    magenta: "#000000"
-    red: "#db7070"
+    magenta: "#FFFFFF"
+    red: "#2C0603"
     white: "#f19162"
-    yellow: "#1C1C1E"
+    yellow: "#FFBFBF"
   normal:
     black: "#212121"
     blue: "#e7c547"
     cyan: "#dc322f"
     green: "#ffc24b"
-    magenta: "#000000"
-    red: "#ff5c57"
+    magenta: "#FFFFFF"
+    red: "#2C0603"
     white: "#f19162"
-    yellow: "#1C1C1E"
+    yellow: "#FFBFBF"
