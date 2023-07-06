@@ -1,0 +1,26 @@
+accent: "#3d91ff"
+background: "#FFD4FD"
+details: "darker"
+foreground: "#930170"
+background_image:
+  # background image credit: https://unsplash.com/photos/2PN18U8CKi0
+  path: special_edition/barbie_bg.jpg
+terminal_colors:
+  normal:
+    black: "#616161"
+    red: "#c200ff"
+    green: "#ff3d99"
+    yellow: "#86baff"
+    blue: "#00aaff"
+    magenta: "#e628e3"
+    cyan: "#9496ff"
+    white: "#66c273"
+  bright:
+    black: "#616161"
+    red: "#c200ff"
+    green: "#ff3d99"
+    yellow: "#86baff"
+    blue: "#00aaff"
+    magenta: "#e628e3"
+    cyan: "#9496ff"
+    white: "#66c273"
