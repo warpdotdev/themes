@@ -2,16 +2,12 @@ accent: '#D83E1C'
 background: '#c4f4f1'
 details: darker
 foreground: '#22211a'
-
-############################################################### SEE BELOW
 background_image:
   # the path is relative to ~/.warp/themes/
   # the full path to the picture is: ~/.warp/themes/warp.jpg
   path: special_edition/asteroid_city_wallpaper.jpg
   # the opacity value is required and can range from 0-100
   opacity: 30
-############################################################### SEE ABOVE
-
 terminal_colors:
   normal:
     black: '#22211a'
