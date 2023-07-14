@@ -3,8 +3,10 @@ background: '#c4f4f1'
 details: darker
 foreground: '#22211a'
 background_image:
-  # background image credit: https://wall.alphacoders.com/big.php?i=1308697
+  # the path is relative to ~/.warp/themes/
+  # the full path to the picture is: ~/.warp/themes/warp.jpg
   path: special_edition/asteroid_city_wallpaper.jpg
+  # the opacity value is required and can range from 0-100
   opacity: 30
 terminal_colors:
   normal:
