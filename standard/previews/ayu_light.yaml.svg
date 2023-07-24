@@ -6,7 +6,7 @@ executable
 file
 </text><path stroke="#5c6166" d="M0 40h300" class="Dynamic" style="stroke-width:.2"/><text x="15" y="55" fill="#5c6166" class="Dynamic" font-family="monospace" font-size=".6em">bash ~/colors.sh</text><text x="15" y="70" fill="#5c6166" class="Dynamic" font-family="monospace" font-size=".6em">
 normal:
-</text><text x="55" y="70" class="Dynamic" font-family="monospace" font-size=".6em">
+</text><text x="55" y="70" fill="#000000" class="Dynamic" font-family="monospace" font-size=".6em">
 black
 </text><text x="85" y="70" fill="#ea6c6d" class="Dynamic" font-family="monospace" font-size=".6em">
 red
@@ -48,4 +48,4 @@ git(
       main
     </text><text x="113" y="110" fill="#6cbf43" class="Dynamic" font-family="monospace" font-size=".6em">
       )
-</text><path stroke="#fa3" d="M15 120v10" class="Dynamic" style="stroke-width:2"/></svg>
+</text><path stroke="#ffaa33" d="M15 120v10" class="Dynamic" style="stroke-width:2"/></svg>

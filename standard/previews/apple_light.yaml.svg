@@ -12,7 +12,7 @@ black
 red
 </text><text x="105" y="70" fill="#34C759" class="Dynamic" font-family="monospace" font-size=".6em">
 green
-</text><text x="135" y="70" fill="#FC0" class="Dynamic" font-family="monospace" font-size=".6em">
+</text><text x="135" y="70" fill="#FFCC00" class="Dynamic" font-family="monospace" font-size=".6em">
 yellow
 </text><text x="170" y="70" fill="#007AFF" class="Dynamic" font-family="monospace" font-size=".6em">
 blue
@@ -44,7 +44,7 @@ white
 ~/project
 </text><text x="65" y="110" fill="#34C759" class="Dynamic" font-family="monospace" font-size=".6em">
 git(
-    </text><text x="85" y="110" fill="#FC0" class="Dynamic" font-family="monospace" font-size=".6em">
+    </text><text x="85" y="110" fill="#FFCC00" class="Dynamic" font-family="monospace" font-size=".6em">
       main
     </text><text x="113" y="110" fill="#34C759" class="Dynamic" font-family="monospace" font-size=".6em">
       )
