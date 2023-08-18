@@ -109,3 +109,5 @@
 | **[Vuesion](vuesion.yaml)**:                                                 | <img src='previews/vuesion.yaml.svg' width='300'>                         |
 | **[Wombat](wombat.yaml)**:                                                   | <img src='previews/wombat.yaml.svg' width='300'>                          |
 | **[Xterm](xterm.yaml)**:                                                     | <img src='previews/xterm.yaml.svg' width='300'>                           |
+|**[Penumbra Dark](penumbra_dark.yaml)**:|<img src='previews/penumbra_dark.yaml.svg' width='300'>|
+|**[Penumbra Light](penumbra_light.yaml)**:|<img src='previews/penumbra_light.yaml.svg' width='300'>|
