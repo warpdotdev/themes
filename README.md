@@ -4,10 +4,6 @@ This is an open-source repository with themes for [Warp](https://www.warp.dev/).
 
 We have [directions on how to use this repository in our documentation.](https://docs.warp.dev/features/themes/custom-themes)
 
-## Create your own theme with Warp-Themes.com
-
-[Warp-Themes.com](https://warp-themes.com/) is a web app built entirely by community member [Torben Haack](https://twitter.com/torben_haack). The tool allows you to visually customize your own terminal theme with a few simple color selections, then download that theme file and have Warp load it into its theme picker. Please see more on how to use the app in our [Warp-Themes blog post](https://www.warp.dev/blog/create-custom-terminal-theme).
-
 ## Custom Background Images
 
 Warp supports setting background images, set the path to your background image in your themes `.yaml` file:
