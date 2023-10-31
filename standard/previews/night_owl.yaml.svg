@@ -20,7 +20,7 @@ blue
 magenta
 </text><text x="235" y="70" fill="#21c7a8" class="Dynamic" font-family="monospace" font-size=".6em">
 cyan
-</text><text x="260" y="70" fill="#fff" class="Dynamic" font-family="monospace" font-size=".6em">
+</text><text x="260" y="70" fill="#ffffff" class="Dynamic" font-family="monospace" font-size=".6em">
 white
 </text><text x="15" y="85" fill="#d6deeb" class="Dynamic" font-family="monospace" font-size=".6em">
 bright:
@@ -38,7 +38,7 @@ blue
 magenta
 </text><text x="235" y="85" fill="#7fdbca" class="Dynamic" font-family="monospace" font-size=".6em">
 cyan
-</text><text x="260" y="85" fill="#fff" class="Dynamic" font-family="monospace" font-size=".6em">
+</text><text x="260" y="85" fill="#ffffff" class="Dynamic" font-family="monospace" font-size=".6em">
 white
 </text><path stroke="#d6deeb" d="M0 95h300" class="Dynamic" style="stroke-width:.2"/><text x="15" y="110" fill="#c792ea" class="Dynamic" font-family="monospace" font-size=".6em">
 ~/project
