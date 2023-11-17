@@ -71,6 +71,7 @@
 | **[Omni](omni.yaml)**:                                                       | <img src='previews/omni.yaml.svg' width='300'>                            |
 | **[One Dark](one_dark.yaml)**:                                               | <img src='previews/one_dark.yaml.svg' width='300'>                        |
 | **[One Monokai](one_monokai.yaml)**:                                         | <img src='previews/one_monokai.yaml.svg' width='300'>                     |
+| **[Outrun](outrun.yaml)**:                                                   | <img src='previews/outrun.yaml.svg' width='300'>                          |
 | **[Palenight](palenight.yaml)**:                                             | <img src='previews/palenight.yaml.svg' width='300'>                       |
 | **[Panda Syntax](panda_syntax.yaml)**:                                       | <img src='previews/panda_syntax.yaml.svg' width='300'>                    |
 | **[Papercolor Light](papercolor_light.yaml)**:                               | <img src='previews/papercolor_light.yaml.svg' width='300'>                |
