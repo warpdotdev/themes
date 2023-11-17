@@ -44,6 +44,7 @@
 |**[Gruvbox Dark](gruvbox_dark.yaml)**:|<img src='previews/gruvbox_dark.yaml.svg' width='300'>|
 |**[Gruvbox Light](gruvbox_light.yaml)**:|<img src='previews/gruvbox_light.yaml.svg' width='300'>|
 |**[Gruvbox Material](gruvbox_material.yaml)**:|<img src='previews/gruvbox_material.yaml.svg' width='300'>|
+|**[Hackthebox](hackthebox.yaml)**:|<img src='previews/hackthebox.yaml.svg' width='300'>|
 |**[Halcyon](halcyon.yaml)**:|<img src='previews/halcyon.yaml.svg' width='300'>|
 |**[High Contrast](high_contrast.yaml)**:|<img src='previews/high_contrast.yaml.svg' width='300'>|
 |**[Horizon Dark](horizon_dark.yaml)**:|<img src='previews/horizon_dark.yaml.svg' width='300'>|

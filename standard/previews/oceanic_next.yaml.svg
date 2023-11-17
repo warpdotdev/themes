@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 300 145"><rect width="300" height="145" fill="#1b2b34" class="Dynamic" rx="5"/><text x="15" y="15" fill="#d8dee9" class="Dynamic" font-family="monospace" font-size=".6em">ls</text><text x="15" y="30" fill="#69c" class="Dynamic" font-family="monospace" font-size=".6em">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 300 145"><rect width="300" height="145" fill="#1b2b34" class="Dynamic" rx="5"/><text x="15" y="15" fill="#d8dee9" class="Dynamic" font-family="monospace" font-size=".6em">ls</text><text x="15" y="30" fill="#6699cc" class="Dynamic" font-family="monospace" font-size=".6em">
 dir
 </text><text x="65" y="30" fill="#ec5f67" class="Dynamic" font-family="monospace" font-size=".6em">
 executable
@@ -14,7 +14,7 @@ red
 green
 </text><text x="135" y="70" fill="#fac863" class="Dynamic" font-family="monospace" font-size=".6em">
 yellow
-</text><text x="170" y="70" fill="#69c" class="Dynamic" font-family="monospace" font-size=".6em">
+</text><text x="170" y="70" fill="#6699cc" class="Dynamic" font-family="monospace" font-size=".6em">
 blue
 </text><text x="195" y="70" fill="#c594c5" class="Dynamic" font-family="monospace" font-size=".6em">
 magenta
@@ -32,7 +32,7 @@ red
 green
 </text><text x="135" y="85" fill="#fac863" class="Dynamic" font-family="monospace" font-size=".6em">
 yellow
-</text><text x="170" y="85" fill="#69c" class="Dynamic" font-family="monospace" font-size=".6em">
+</text><text x="170" y="85" fill="#6699cc" class="Dynamic" font-family="monospace" font-size=".6em">
 blue
 </text><text x="195" y="85" fill="#c594c5" class="Dynamic" font-family="monospace" font-size=".6em">
 magenta
@@ -48,4 +48,4 @@ git(
       main
     </text><text x="113" y="110" fill="#99c794" class="Dynamic" font-family="monospace" font-size=".6em">
       )
-</text><path stroke="#69c" d="M15 120v10" class="Dynamic" style="stroke-width:2"/></svg>
+</text><path stroke="#6699cc" d="M15 120v10" class="Dynamic" style="stroke-width:2"/></svg>
