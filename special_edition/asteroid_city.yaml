@@ -1,0 +1,27 @@
+accent: '#D83E1C'
+background: '#c4f4f1'
+details: darker
+foreground: '#22211a'
+background_image:
+  # background image credit: https://wall.alphacoders.com/big.php?i=1308697
+  path: special_edition/asteroid_city_wallpaper.jpg
+  opacity: 30
+terminal_colors:
+  normal:
+    black: '#22211a'
+    blue: '#0088db'
+    cyan: '#1F4E45'
+    green: '#076706'
+    magenta: '#c5218e'
+    red: '#d0392b'
+    white: '#f1f1f1'
+    yellow: '#d88900'
+  bright:
+    black: '#8e8e8e'
+    blue: '#c1e3fe'
+    cyan: '#e5e6fe'
+    green: '#d6fcb9'
+    magenta: '#ffb1fe'
+    red: '#ffc4bd'
+    white: '#feffff'
+    yellow: '#fefdd5'

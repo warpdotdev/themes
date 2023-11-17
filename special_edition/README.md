@@ -8,3 +8,4 @@
 | **[Grafbase](grafbase.yaml)**:         | <img src='previews/grafbase.yaml.svg' width='300'>     |
 | **[Barbie](barbie.yaml)**:             | <img src='previews/barbie.yaml.svg' width='300'>.      |
 | **[Oppenheimer](oppenheimer.yaml)**:   | <img src='previews/oppenheimer.yaml.svg' width='300'>. |
+| **[Asteroid City](asteroid_city.yaml)**:   | <img src='previews/asteroid_city.yaml.svg' width='300'>. |
