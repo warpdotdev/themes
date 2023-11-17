@@ -1,0 +1,26 @@
+background: "#131313"
+background_image:
+  path: special_edition/grafbase_bg.jpg
+terminal_colors:
+  normal:
+    magenta: "#45b192"
+    white: "#f1f1f1"
+    cyan: "#9496ff"
+    black: "#8e8e8e"
+    yellow: "#fefdc2"
+    green: "#b4fa72"
+    red: "#acebff"
+    blue: "#358dde"
+  bright:
+    blue: "#c1e3fe"
+    black: "#8e8e8e"
+    magenta: "#ffb1fe"
+    cyan: "#e5e6fe"
+    green: "#d6fcb9"
+    yellow: "#fefdd5"
+    red: "#ffc4bd"
+    white: "#feffff"
+details: "darker"
+foreground: "#ffffff"
+accent: "#0d5961"
+
