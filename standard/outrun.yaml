@@ -1,0 +1,49 @@
+# Retrowave Outrun Aesthetics
+# Author: Andrew Jo (dev@andrewjo.com)
+#
+# Adapted from Visual Studio Code theme by Sam Rapaport:
+# https://marketplace.visualstudio.com/items?itemName=samrapdev.outrun
+#
+# Background image by LogicWavelength:
+# https://www.reddit.com/r/outrun/comments/a2oo1r/retro_wave_pyramids_2_4k_wallpaper/
+#
+# To enable the background image, follow these steps:
+# 1. Download the image from: https://i.redd.it/p1sgcfnmf2221.png
+# 2. Copy the image to: ./warp_bundled/retrowave-pyramids.png
+# 3. Uncomment the background_image section below.
+#
+# Alternatively, you can run this command in Warp:
+# curl -sSL https://i.redd.it/p1sgcfnmf2221.png -o ~/.warp/themes/warp_bundled/retrowave-pyramids.png
+
+accent:
+  left: "#fc28a8"
+  right: "#f5e949"
+
+details: "darker"
+background: "#0c0a20"
+foreground: "#7984D1"
+
+# Uncomment the following section to enable the background image.
+# background_image:
+#   path: ./warp_bundled/retrowave-pyramids.png
+#   opacity: 30
+
+terminal_colors:
+  bright:
+    blue: "#42c6ff"
+    green: "#cbfc44"
+    magenta: "#ff2afc"
+    black: "#435056"
+    red: "#ff2e97"
+    yellow: "#ffd400"
+    cyan: "#39fff6"
+    white: "#ffffff"
+  normal:
+    blue: "#1ea8fc"
+    yellow: "#f7b83d"
+    black: "#283034"
+    magenta: "#A875FF"
+    green: "#a7da1e"
+    red: "#ff0081"
+    cyan: "#16f1fc"
+    white: "#f9faff"
