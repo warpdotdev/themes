@@ -1,10 +1,10 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 300 145"><rect width="300" height="145" fill="#272a34" class="Dynamic" rx="5"/><text x="15" y="15" fill="#FFF" class="Dynamic" font-family="monospace" font-size=".6em">ls</text><text x="15" y="30" fill="#277FFF" class="Dynamic" font-family="monospace" font-size=".6em">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 300 145"><rect width="300" height="145" fill="#272a34" class="Dynamic" rx="5"/><text x="15" y="15" fill="#FFFFFF" class="Dynamic" font-family="monospace" font-size=".6em">ls</text><text x="15" y="30" fill="#277FFF" class="Dynamic" font-family="monospace" font-size=".6em">
 dir
 </text><text x="65" y="30" fill="#EC0101" class="Dynamic" font-family="monospace" font-size=".6em">
 executable
-</text><text x="175" y="30" fill="#FFF" class="Dynamic" font-family="monospace" font-size=".6em">
+</text><text x="175" y="30" fill="#FFFFFF" class="Dynamic" font-family="monospace" font-size=".6em">
 file
-</text><path stroke="#FFF" d="M0 40h300" class="Dynamic" style="stroke-width:.2"/><text x="15" y="55" fill="#FFF" class="Dynamic" font-family="monospace" font-size=".6em">bash ~/colors.sh</text><text x="15" y="70" fill="#FFF" class="Dynamic" font-family="monospace" font-size=".6em">
+</text><path stroke="#FFFFFF" d="M0 40h300" class="Dynamic" style="stroke-width:.2"/><text x="15" y="55" fill="#FFFFFF" class="Dynamic" font-family="monospace" font-size=".6em">bash ~/colors.sh</text><text x="15" y="70" fill="#FFFFFF" class="Dynamic" font-family="monospace" font-size=".6em">
 normal:
 </text><text x="55" y="70" fill="#1F2229" class="Dynamic" font-family="monospace" font-size=".6em">
 black
@@ -20,9 +20,9 @@ blue
 magenta
 </text><text x="235" y="70" fill="#05A1F7" class="Dynamic" font-family="monospace" font-size=".6em">
 cyan
-</text><text x="260" y="70" fill="#FFF" class="Dynamic" font-family="monospace" font-size=".6em">
+</text><text x="260" y="70" fill="#FFFFFF" class="Dynamic" font-family="monospace" font-size=".6em">
 white
-</text><text x="15" y="85" fill="#FFF" class="Dynamic" font-family="monospace" font-size=".6em">
+</text><text x="15" y="85" fill="#FFFFFF" class="Dynamic" font-family="monospace" font-size=".6em">
 bright:
 </text><text x="55" y="85" fill="#1F2229" class="Dynamic" font-family="monospace" font-size=".6em">
 black
@@ -38,9 +38,9 @@ blue
 magenta
 </text><text x="235" y="85" fill="#49AEE6" class="Dynamic" font-family="monospace" font-size=".6em">
 cyan
-</text><text x="260" y="85" fill="#FFF" class="Dynamic" font-family="monospace" font-size=".6em">
+</text><text x="260" y="85" fill="#FFFFFF" class="Dynamic" font-family="monospace" font-size=".6em">
 white
-</text><path stroke="#FFF" d="M0 95h300" class="Dynamic" style="stroke-width:.2"/><text x="15" y="110" fill="#D71655" class="Dynamic" font-family="monospace" font-size=".6em">
+</text><path stroke="#FFFFFF" d="M0 95h300" class="Dynamic" style="stroke-width:.2"/><text x="15" y="110" fill="#D71655" class="Dynamic" font-family="monospace" font-size=".6em">
 ~/project
 </text><text x="65" y="110" fill="#47D4B9" class="Dynamic" font-family="monospace" font-size=".6em">
 git(
