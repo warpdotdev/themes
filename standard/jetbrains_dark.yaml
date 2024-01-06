@@ -1,0 +1,23 @@
+accent: "#4a88c7"
+background: "#1e1f22"
+details: darker
+foreground: "#f0f1f2"
+terminal_colors:
+  bright:
+    black: "#1e1f22"
+    blue: "#57aaf7"
+    cyan: "#2aacb8"
+    green: "#6aab73"
+    magenta: "#c77dbb"
+    red: "#f75464"
+    white: "#f0f1f2"
+    yellow: "#b3ae60"
+  normal:
+    black: "#1e1f22"
+    blue: "#57aaf7"
+    cyan: "#2aacb8"
+    green: "#6aab73"
+    magenta: "#c77dbb"
+    red: "#f75464"
+    white: "#f0f1f2"
+    yellow: "#b3ae60"
