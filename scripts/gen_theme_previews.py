@@ -36,7 +36,7 @@ def add_color_to_dict(
     output: dict[str, str],
     obj: dict[str, str],
     key: str,
-    prefix: str | None = None,
+    prefix: dict[str] = None,
 ) -> None:
     """Parameters
     ----------
