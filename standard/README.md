@@ -27,6 +27,7 @@
 |**[Cyberpunk-v](cyberpunk-v.yaml)**:|<img src='previews/cyberpunk-v.yaml.svg' width='300'>|
 |**[Daobeam](daobeam.yaml)**:|<img src='previews/daobeam.yaml.svg' width='300'>|
 |**[Darcula](darcula.yaml)**:|<img src='previews/darcula.yaml.svg' width='300'>|
+|**[Dark-pinkish](dark-pinkish.yaml)**:|<img src='previews/dark-pinkish.yaml.svg' width='300'>|
 |**[Dark Pastels](dark_pastels.yaml)**:|<img src='previews/dark_pastels.yaml.svg' width='300'>|
 |**[Default Dark](default_dark.yaml)**:|<img src='previews/default_dark.yaml.svg' width='300'>|
 |**[Dracula](dracula.yaml)**:|<img src='previews/dracula.yaml.svg' width='300'>|
@@ -56,6 +57,7 @@
 |**[Jellybeans](jellybeans.yaml)**:|<img src='previews/jellybeans.yaml.svg' width='300'>|
 |**[Konsole Linux](konsole_linux.yaml)**:|<img src='previews/konsole_linux.yaml.svg' width='300'>|
 |**[Laser](laser.yaml)**:|<img src='previews/laser.yaml.svg' width='300'>|
+|**[Light-pinkish](light-pinkish.yaml)**:|<img src='previews/light-pinkish.yaml.svg' width='300'>|
 |**[Low Contrast](low_contrast.yaml)**:|<img src='previews/low_contrast.yaml.svg' width='300'>|
 |**[Lucario](lucario.yaml)**:|<img src='previews/lucario.yaml.svg' width='300'>|
 |**[Material Theme](material_theme.yaml)**:|<img src='previews/material_theme.yaml.svg' width='300'>|
