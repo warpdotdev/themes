@@ -56,6 +56,7 @@
 |**[Iceberg](iceberg.yaml)**:|<img src='previews/iceberg.yaml.svg' width='300'>|
 |**[Iterm](iterm.yaml)**:|<img src='previews/iterm.yaml.svg' width='300'>|
 |**[Jellybeans](jellybeans.yaml)**:|<img src='previews/jellybeans.yaml.svg' width='300'>|
+|**[Kanagawa](kanagawa.yaml)**:|<img src='previews/kanagawa.yaml.svg' width='300'>|
 |**[Konsole Linux](konsole_linux.yaml)**:|<img src='previews/konsole_linux.yaml.svg' width='300'>|
 |**[Laser](laser.yaml)**:|<img src='previews/laser.yaml.svg' width='300'>|
 |**[Light-pinkish](light-pinkish.yaml)**:|<img src='previews/light-pinkish.yaml.svg' width='300'>|
@@ -89,6 +90,8 @@
 |**[Plastic](plastic.yaml)**:|<img src='previews/plastic.yaml.svg' width='300'>|
 |**[Poimandres](poimandres.yaml)**:|<img src='previews/poimandres.yaml.svg' width='300'>|
 |**[Poimandres Alt](poimandres_alt.yaml)**:|<img src='previews/poimandres_alt.yaml.svg' width='300'>|
+|**[Popos Dark](popos_dark.yaml)**:|<img src='previews/popos_dark.yaml.svg' width='300'>|
+|**[Popos Light](popos_light.yaml)**:|<img src='previews/popos_light.yaml.svg' width='300'>|
 |**[Remedy Dark](remedy_dark.yaml)**:|<img src='previews/remedy_dark.yaml.svg' width='300'>|
 |**[Seashells](seashells.yaml)**:|<img src='previews/seashells.yaml.svg' width='300'>|
 |**[Shades Of Purple](shades_of_purple.yaml)**:|<img src='previews/shades_of_purple.yaml.svg' width='300'>|
