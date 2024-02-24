@@ -1,6 +1,7 @@
 |Theme name | Preview|
 | --- | --- |
 |**[Afterglow](afterglow.yaml)**:|<img src='previews/afterglow.yaml.svg' width='300'>|
+|**[Ambience](ambience.yaml)**:|<img src='previews/ambience.yaml.svg' width='300'>|
 |**[Apple Dark](apple_dark.yaml)**:|<img src='previews/apple_dark.yaml.svg' width='300'>|
 |**[Apple Light](apple_light.yaml)**:|<img src='previews/apple_light.yaml.svg' width='300'>|
 |**[Arc Dark](arc_dark.yaml)**:|<img src='previews/arc_dark.yaml.svg' width='300'>|
@@ -56,6 +57,7 @@
 |**[Iceberg](iceberg.yaml)**:|<img src='previews/iceberg.yaml.svg' width='300'>|
 |**[Iterm](iterm.yaml)**:|<img src='previews/iterm.yaml.svg' width='300'>|
 |**[Jellybeans](jellybeans.yaml)**:|<img src='previews/jellybeans.yaml.svg' width='300'>|
+|**[Kanagawa](kanagawa.yaml)**:|<img src='previews/kanagawa.yaml.svg' width='300'>|
 |**[Konsole Linux](konsole_linux.yaml)**:|<img src='previews/konsole_linux.yaml.svg' width='300'>|
 |**[Laser](laser.yaml)**:|<img src='previews/laser.yaml.svg' width='300'>|
 |**[Light-pinkish](light-pinkish.yaml)**:|<img src='previews/light-pinkish.yaml.svg' width='300'>|
