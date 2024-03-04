@@ -6,13 +6,13 @@ executable
 file
 </text><path stroke="#ffffff" d="M0 40h300" class="Dynamic" style="stroke-width:.2"/><text x="15" y="55" fill="#ffffff" class="Dynamic" font-family="monospace" font-size=".6em">bash ~/colors.sh</text><text x="15" y="70" fill="#ffffff" class="Dynamic" font-family="monospace" font-size=".6em">
 normal:
-</text><text x="55" y="70" fill="#1b1b1b" class="Dynamic" font-family="monospace" font-size=".6em">
+</text><text x="55" y="70" fill="#333333" class="Dynamic" font-family="monospace" font-size=".6em">
 black
 </text><text x="85" y="70" fill="#dd4814" class="Dynamic" font-family="monospace" font-size=".6em">
 red
-</text><text x="105" y="70" fill="#aea79f" class="Dynamic" font-family="monospace" font-size=".6em">
+</text><text x="105" y="70" fill="#ffffff" class="Dynamic" font-family="monospace" font-size=".6em">
 green
-</text><text x="135" y="70" fill="#77216f" class="Dynamic" font-family="monospace" font-size=".6em">
+</text><text x="135" y="70" fill="#dd4814" class="Dynamic" font-family="monospace" font-size=".6em">
 yellow
 </text><text x="170" y="70" fill="#77216f" class="Dynamic" font-family="monospace" font-size=".6em">
 blue
@@ -26,7 +26,7 @@ white
 bright:
 </text><text x="55" y="85" fill="#333333" class="Dynamic" font-family="monospace" font-size=".6em">
 black
-</text><text x="85" y="85" fill="#333333" class="Dynamic" font-family="monospace" font-size=".6em">
+</text><text x="85" y="85" fill="#dd4814" class="Dynamic" font-family="monospace" font-size=".6em">
 red
 </text><text x="105" y="85" fill="#f1f1f1" class="Dynamic" font-family="monospace" font-size=".6em">
 green
@@ -42,10 +42,10 @@ cyan
 white
 </text><path stroke="#ffffff" d="M0 95h300" class="Dynamic" style="stroke-width:.2"/><text x="15" y="110" fill="#dd4814" class="Dynamic" font-family="monospace" font-size=".6em">
 ~/project
-</text><text x="65" y="110" fill="#aea79f" class="Dynamic" font-family="monospace" font-size=".6em">
+</text><text x="65" y="110" fill="#ffffff" class="Dynamic" font-family="monospace" font-size=".6em">
 git(
-    </text><text x="85" y="110" fill="#77216f" class="Dynamic" font-family="monospace" font-size=".6em">
+    </text><text x="85" y="110" fill="#dd4814" class="Dynamic" font-family="monospace" font-size=".6em">
       main
-    </text><text x="113" y="110" fill="#aea79f" class="Dynamic" font-family="monospace" font-size=".6em">
+    </text><text x="113" y="110" fill="#ffffff" class="Dynamic" font-family="monospace" font-size=".6em">
       )
 </text><path stroke="#dd4814" d="M15 120v10" class="Dynamic" style="stroke-width:2"/></svg>
