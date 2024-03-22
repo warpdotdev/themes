@@ -56,6 +56,7 @@
 |**[Iceberg](iceberg.yaml)**:|<img src='previews/iceberg.yaml.svg' width='300'>|
 |**[Iterm](iterm.yaml)**:|<img src='previews/iterm.yaml.svg' width='300'>|
 |**[Jellybeans](jellybeans.yaml)**:|<img src='previews/jellybeans.yaml.svg' width='300'>|
+|**[Kanagawa](kanagawa.yaml)**:|<img src='previews/kanagawa.yaml.svg' width='300'>|
 |**[Konsole Linux](konsole_linux.yaml)**:|<img src='previews/konsole_linux.yaml.svg' width='300'>|
 |**[Laser](laser.yaml)**:|<img src='previews/laser.yaml.svg' width='300'>|
 |**[Light-pinkish](light-pinkish.yaml)**:|<img src='previews/light-pinkish.yaml.svg' width='300'>|
@@ -104,6 +105,7 @@
 |**[Spaceduck](spaceduck.yaml)**:|<img src='previews/spaceduck.yaml.svg' width='300'>|
 |**[Synthwave 84](synthwave_84.yaml)**:|<img src='previews/synthwave_84.yaml.svg' width='300'>|
 |**[Taerminal](taerminal.yaml)**:|<img src='previews/taerminal.yaml.svg' width='300'>|
+|**[Taiga](taiga.yml)**:|<img src='previews/taiga.yml.svg' width='300'>|
 |**[Tango Dark](tango_dark.yaml)**:|<img src='previews/tango_dark.yaml.svg' width='300'>|
 |**[Tender](tender.yaml)**:|<img src='previews/tender.yaml.svg' width='300'>|
 |**[Terminal App](terminal_app.yaml)**:|<img src='previews/terminal_app.yaml.svg' width='300'>|
