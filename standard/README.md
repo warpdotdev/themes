@@ -106,6 +106,7 @@
 |**[Synthwave 84](synthwave_84.yaml)**:|<img src='previews/synthwave_84.yaml.svg' width='300'>|
 |**[Taerminal](taerminal.yaml)**:|<img src='previews/taerminal.yaml.svg' width='300'>|
 |**[Taiga](taiga.yml)**:|<img src='previews/taiga.yml.svg' width='300'>|
+|**[Taiga Light](taiga_light.yaml)**:|<img src='previews/taiga_light.yaml.svg' width='300'>|
 |**[Tango Dark](tango_dark.yaml)**:|<img src='previews/tango_dark.yaml.svg' width='300'>|
 |**[Tender](tender.yaml)**:|<img src='previews/tender.yaml.svg' width='300'>|
 |**[Terminal App](terminal_app.yaml)**:|<img src='previews/terminal_app.yaml.svg' width='300'>|
