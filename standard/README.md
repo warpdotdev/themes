@@ -21,6 +21,7 @@
 |**[Classic Vivid](classic_vivid.yaml)**:|<img src='previews/classic_vivid.yaml.svg' width='300'>|
 |**[Cobalt 2](cobalt_2.yaml)**:|<img src='previews/cobalt_2.yaml.svg' width='300'>|
 |**[Cobalt Next](cobalt_next.yaml)**:|<img src='previews/cobalt_next.yaml.svg' width='300'>|
+|**[Cyber City](cyber_city.yaml)**:|<img src='previews/cyber_city.yaml.svg' width='300'>|
 |**[Cyberpunk-2077](cyberpunk-2077.yaml)**:|<img src='previews/cyberpunk-2077.yaml.svg' width='300'>|
 |**[Cyberpunk-neon](cyberpunk-neon.yaml)**:|<img src='previews/cyberpunk-neon.yaml.svg' width='300'>|
 |**[Cyberpunk-night City](cyberpunk-night_city.yaml)**:|<img src='previews/cyberpunk-night_city.yaml.svg' width='300'>|
@@ -56,6 +57,7 @@
 |**[Iceberg](iceberg.yaml)**:|<img src='previews/iceberg.yaml.svg' width='300'>|
 |**[Iterm](iterm.yaml)**:|<img src='previews/iterm.yaml.svg' width='300'>|
 |**[Jellybeans](jellybeans.yaml)**:|<img src='previews/jellybeans.yaml.svg' width='300'>|
+|**[Kanagawa](kanagawa.yaml)**:|<img src='previews/kanagawa.yaml.svg' width='300'>|
 |**[Konsole Linux](konsole_linux.yaml)**:|<img src='previews/konsole_linux.yaml.svg' width='300'>|
 |**[Laser](laser.yaml)**:|<img src='previews/laser.yaml.svg' width='300'>|
 |**[Light-pinkish](light-pinkish.yaml)**:|<img src='previews/light-pinkish.yaml.svg' width='300'>|
