@@ -1,6 +1,8 @@
 |Theme name | Preview|
 | --- | --- |
 |**[Afterglow](afterglow.yaml)**:|<img src='previews/afterglow.yaml.svg' width='300'>|
+|**[Aira Hope](aira_hope.yaml)**:|<img src='previews/aira_hope.yaml.svg' width='300'>|
+|**[Aira Peace](aira_peace.yaml)**:|<img src='previews/aira_peace.yaml.svg' width='300'>|
 |**[Apple Dark](apple_dark.yaml)**:|<img src='previews/apple_dark.yaml.svg' width='300'>|
 |**[Apple Light](apple_light.yaml)**:|<img src='previews/apple_light.yaml.svg' width='300'>|
 |**[Arc Dark](arc_dark.yaml)**:|<img src='previews/arc_dark.yaml.svg' width='300'>|
