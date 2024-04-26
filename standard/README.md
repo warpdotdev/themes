@@ -56,6 +56,7 @@
 |**[Iceberg](iceberg.yaml)**:|<img src='previews/iceberg.yaml.svg' width='300'>|
 |**[Iterm](iterm.yaml)**:|<img src='previews/iterm.yaml.svg' width='300'>|
 |**[Jellybeans](jellybeans.yaml)**:|<img src='previews/jellybeans.yaml.svg' width='300'>|
+|**[Kanagawa](kanagawa.yaml)**:|<img src='previews/kanagawa.yaml.svg' width='300'>|
 |**[Konsole Linux](konsole_linux.yaml)**:|<img src='previews/konsole_linux.yaml.svg' width='300'>|
 |**[Laser](laser.yaml)**:|<img src='previews/laser.yaml.svg' width='300'>|
 |**[Light-pinkish](light-pinkish.yaml)**:|<img src='previews/light-pinkish.yaml.svg' width='300'>|
@@ -109,6 +110,7 @@
 |**[Terminal App](terminal_app.yaml)**:|<img src='previews/terminal_app.yaml.svg' width='300'>|
 |**[Thelovelace](thelovelace.yaml)**:|<img src='previews/thelovelace.yaml.svg' width='300'>|
 |**[Tokyo Night](tokyo_night.yaml)**:|<img src='previews/tokyo_night.yaml.svg' width='300'>|
+|**[Tokyo Night Day](tokyo_night_day.yaml)**:|<img src='previews/tokyo_night_day.yaml.svg' width='300'>|
 |**[Tokyo Night Storm](tokyo_night_storm.yaml)**:|<img src='previews/tokyo_night_storm.yaml.svg' width='300'>|
 |**[Tomorrow Night](tomorrow_night.yaml)**:|<img src='previews/tomorrow_night.yaml.svg' width='300'>|
 |**[Tomorrow Night Bright](tomorrow_night_bright.yaml)**:|<img src='previews/tomorrow_night_bright.yaml.svg' width='300'>|
