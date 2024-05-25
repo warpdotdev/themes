@@ -56,6 +56,7 @@
 |**[Iceberg](iceberg.yaml)**:|<img src='previews/iceberg.yaml.svg' width='300'>|
 |**[Iterm](iterm.yaml)**:|<img src='previews/iterm.yaml.svg' width='300'>|
 |**[Jellybeans](jellybeans.yaml)**:|<img src='previews/jellybeans.yaml.svg' width='300'>|
+|**[Kanagawa](kanagawa.yaml)**:|<img src='previews/kanagawa.yaml.svg' width='300'>|
 |**[Konsole Linux](konsole_linux.yaml)**:|<img src='previews/konsole_linux.yaml.svg' width='300'>|
 |**[Laser](laser.yaml)**:|<img src='previews/laser.yaml.svg' width='300'>|
 |**[Light-pinkish](light-pinkish.yaml)**:|<img src='previews/light-pinkish.yaml.svg' width='300'>|
@@ -120,6 +121,7 @@
 |**[Vscode Default Dark Material](vscode_default_dark_material.yml)**:|<img src='previews/vscode_default_dark_material.yml.svg' width='300'>|
 |**[Vuesion](vuesion.yaml)**:|<img src='previews/vuesion.yaml.svg' width='300'>|
 |**[Wombat](wombat.yaml)**:|<img src='previews/wombat.yaml.svg' width='300'>|
+|**[Xcode Dark Theme](xcode_dark_theme.yaml)**:|<img src='previews/xcode_dark_theme.yaml.svg' width='300'>|
 |**[Xterm](xterm.yaml)**:|<img src='previews/xterm.yaml.svg' width='300'>|
 |**[Zenbones Dark](zenbones_dark.yaml)**:|<img src='previews/zenbones_dark.yaml.svg' width='300'>|
 |**[Zenbones Light](zenbones_light.yaml)**:|<img src='previews/zenbones_light.yaml.svg' width='300'>|
