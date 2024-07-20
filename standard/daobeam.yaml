@@ -1,4 +1,6 @@
-accent: "#EDEBDE"
+accent:
+  left: "#2aa198"
+  right: "#268bd2"
 background: "#E0DBC7"
 details: lighter
 foreground: "#171717"
