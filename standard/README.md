@@ -112,6 +112,7 @@
 |**[Terminal App](terminal_app.yaml)**:|<img src='previews/terminal_app.yaml.svg' width='300'>|
 |**[Thelovelace](thelovelace.yaml)**:|<img src='previews/thelovelace.yaml.svg' width='300'>|
 |**[Tokyo Night](tokyo_night.yaml)**:|<img src='previews/tokyo_night.yaml.svg' width='300'>|
+|**[Tokyo Night Day](tokyo_night_day.yaml)**:|<img src='previews/tokyo_night_day.yaml.svg' width='300'>|
 |**[Tokyo Night Storm](tokyo_night_storm.yaml)**:|<img src='previews/tokyo_night_storm.yaml.svg' width='300'>|
 |**[Tomorrow Night](tomorrow_night.yaml)**:|<img src='previews/tomorrow_night.yaml.svg' width='300'>|
 |**[Tomorrow Night Bright](tomorrow_night_bright.yaml)**:|<img src='previews/tomorrow_night_bright.yaml.svg' width='300'>|
