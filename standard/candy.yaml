@@ -1,0 +1,29 @@
+name: Candy # By @chandlertee
+accent: 
+  left: "#ffb8de"
+  right: "#ff99c8"
+cursor: "#ffffff"
+background: 
+  top: "#2e1f2e"
+  bottom: "#1f0f1f" 
+details: darker
+foreground: "#ffe8f5"
+terminal_colors:
+  bright:
+    black: "#5a3b5a"
+    blue: "#99d6ff"
+    cyan: "#8ff7f7"
+    green: "#a6ffc3"
+    magenta: "#e6afff"
+    red: "#ff7fae"
+    white: "#ffffff"
+    yellow: "#ffeb99"
+  normal:
+    black: "#442f44"
+    blue: "#7ebcff"
+    cyan: "#6fe0e0"
+    green: "#8ce99a"
+    magenta: "#d491f5"
+    red: "#ff5a81"
+    white: "#ffe8f5"
+    yellow: "#ffd966"

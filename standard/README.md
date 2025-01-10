@@ -15,6 +15,7 @@
 |**[Blue Monday](blue_monday.yaml)**:|<img src='previews/blue_monday.yaml.svg' width='300'>|
 |**[Breeze](breeze.yaml)**:|<img src='previews/breeze.yaml.svg' width='300'>|
 |**[Campbell](campbell.yaml)**:|<img src='previews/campbell.yaml.svg' width='300'>|
+|**[Candy](candy.yaml)**:|<img src='previews/candy.yaml.svg' width='300'>|
 |**[Catppuccin](catppuccin.yaml)**:|<img src='previews/catppuccin.yaml.svg' width='300'>|
 |**[Challenger Deep](challenger_deep.yaml)**:|<img src='previews/challenger_deep.yaml.svg' width='300'>|
 |**[Cherry](cherry.yaml)**:|<img src='previews/cherry.yaml.svg' width='300'>|
