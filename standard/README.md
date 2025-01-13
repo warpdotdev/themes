@@ -40,6 +40,7 @@
 |**[Faithful Argonaut](faithful_argonaut.yaml)**:|<img src='previews/faithful_argonaut.yaml.svg' width='300'>|
 |**[Falcon](falcon.yaml)**:|<img src='previews/falcon.yaml.svg' width='300'>|
 |**[Flat Remix](flat_remix.yaml)**:|<img src='previews/flat_remix.yaml.svg' width='300'>|
+|**[Fleet Dark](fleet_dark.yml)**:|<img src='previews/fleet_dark.yml.svg' width='300'>|
 |**[Github Dark](github_dark.yaml)**:|<img src='previews/github_dark.yaml.svg' width='300'>|
 |**[Github Dark Dimmed](github_dark_dimmed.yaml)**:|<img src='previews/github_dark_dimmed.yaml.svg' width='300'>|
 |**[Github Light](github_light.yaml)**:|<img src='previews/github_light.yaml.svg' width='300'>|
