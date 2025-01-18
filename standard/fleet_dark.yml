@@ -1,0 +1,25 @@
+name: Fleet Dark
+accent: '#0273eb'
+cursor: '#d1d1d1'
+background: '#181818'
+foreground: '#d1d1d1'
+details: darker
+terminal_colors:
+  bright:
+    black: '#595959'
+    red: '#c7001b'
+    green: '#009e6f'
+    yellow: '#e09119'
+    blue: '#0067e6'
+    magenta: '#eb4dde'
+    cyan: '#00bad6'
+    white: '#181818'
+  normal:
+    black: '#d1d1d1'
+    red: '#c73649'
+    green: '#82d2ce'
+    yellow: '#fad075'
+    blue: '#1d6bcc'
+    magenta: '#eb83e2'
+    cyan: '#2ccce6'
+    white: '#292929'
