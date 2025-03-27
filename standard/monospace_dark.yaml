@@ -1,0 +1,26 @@
+## Source: https://github.com/keksiqc/monospace-theme/blob/main/themes/monospace-dark.json
+## Recommended to set "Enforce minimum contrast" to "Always"
+
+accent: "#A87FFB"
+background: "#10151D"
+details: darker
+foreground: "#A4AFBD"
+terminal_colors:
+  bright:
+    black: "#8B98A9"
+    blue: "#A2B6FF"
+    cyan: "#71C2EE"
+    green: "#66CE98"
+    magenta: "#C8AAFF"
+    red: "#FC8F8E"
+    white: "#FAFBFE"
+    yellow: "#FFC26E"
+  normal:
+    black: "#738295"
+    blue: "#708FFF"
+    cyan: "#25A6E9"
+    green: "#17B877"
+    magenta: "#A87FFB"
+    red: "#F76769"
+    white: "#A4AFBD"
+    yellow: "#FFA23E"

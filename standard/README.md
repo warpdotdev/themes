@@ -72,6 +72,8 @@
 |**[Monokai Pro Octagon](monokai_pro_octagon.yml)**:|<img src='previews/monokai_pro_octagon.yml.svg' width='300'>|
 |**[Monokai Pro Ristretto](monokai_pro_ristretto.yml)**:|<img src='previews/monokai_pro_ristretto.yml.svg' width='300'>|
 |**[Monokai Pro Spectrum](monokai_pro_spectrum.yml)**:|<img src='previews/monokai_pro_spectrum.yml.svg' width='300'>|
+|**[Monospace Dark](monospace_dark.yaml)**:|<img src='previews/monospace_dark.yaml.svg' width='300'>|
+|**[Monospace Light](monospace_light.yaml)**:|<img src='previews/monospace_light.yaml.svg' width='300'>|
 |**[Night Owl](night_owl.yaml)**:|<img src='previews/night_owl.yaml.svg' width='300'>|
 |**[Nightfly](nightfly.yaml)**:|<img src='previews/nightfly.yaml.svg' width='300'>|
 |**[Nord](nord.yaml)**:|<img src='previews/nord.yaml.svg' width='300'>|
