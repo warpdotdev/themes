@@ -1,0 +1,24 @@
+    background: "#0c011f"
+    accent: "#00fffb"
+    foreground: "#ffffff"
+    details: darker
+    terminal_colors:
+      normal:
+        black: "#616161"
+        red: "#f44747"
+        green: "#33ff76"
+        yellow: "#f0db4f"
+        blue: "#00fffb"
+        magenta: "#fe30fe"
+        cyan: "#5503c4"
+        white: "#f1f1f1"
+      bright:
+        black: "#797979"
+        red: "#ffc4bd"
+        green: "#d6fcb9"
+        yellow: "#fefdd5"
+        blue: "#00fffb"
+        magenta: "#fe30fe"
+        cyan: "#e5e6fe"
+        white: "#feffff"
+    name: "SofiDev"

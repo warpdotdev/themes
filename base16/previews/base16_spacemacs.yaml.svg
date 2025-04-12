@@ -26,7 +26,7 @@ white
 bright:
 </text><text x="55" y="85" fill="#585858" class="Dynamic" font-family="monospace" font-size=".6em">
 black
-</text><text x="85" y="85" fill="orange" class="Dynamic" font-family="monospace" font-size=".6em">
+</text><text x="85" y="85" fill="#ffa500" class="Dynamic" font-family="monospace" font-size=".6em">
 red
 </text><text x="105" y="85" fill="#282828" class="Dynamic" font-family="monospace" font-size=".6em">
 green

@@ -28,7 +28,7 @@ bright:
 black
 </text><text x="85" y="85" fill="#d28e5d" class="Dynamic" font-family="monospace" font-size=".6em">
 red
-</text><text x="105" y="85" fill="#334" class="Dynamic" font-family="monospace" font-size=".6em">
+</text><text x="105" y="85" fill="#333344" class="Dynamic" font-family="monospace" font-size=".6em">
 green
 </text><text x="135" y="85" fill="#474160" class="Dynamic" font-family="monospace" font-size=".6em">
 yellow
