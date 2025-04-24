@@ -44,6 +44,7 @@
 |**[Github Dark Dimmed](github_dark_dimmed.yaml)**:|<img src='previews/github_dark_dimmed.yaml.svg' width='300'>|
 |**[Github Light](github_light.yaml)**:|<img src='previews/github_light.yaml.svg' width='300'>|
 |**[Gotham](gotham.yaml)**:|<img src='previews/gotham.yaml.svg' width='300'>|
+|**[Grank](grank.yaml)**:|<img src='previews/grank.yaml.svg' width='300'>|
 |**[Green Geeko](green_geeko.yaml)**:|<img src='previews/green_geeko.yaml.svg' width='300'>|
 |**[Gruvbox Dark](gruvbox_dark.yaml)**:|<img src='previews/gruvbox_dark.yaml.svg' width='300'>|
 |**[Gruvbox Light](gruvbox_light.yaml)**:|<img src='previews/gruvbox_light.yaml.svg' width='300'>|
