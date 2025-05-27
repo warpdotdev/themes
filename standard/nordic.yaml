@@ -6,11 +6,6 @@ cursor: "#d8dee9" # Snow Storm (soft white cursor)
 background: "#2e3440" # Polar Night base (main background)
 details: darker # Nordic is generally low-contrast, dark
 foreground: "#d8dee9" # Snow Storm (main text)
-
-background_image:
-  path: nordic.jpg
-  opacity: 4
-
 terminal_colors:
   bright:
     black: "#4c566a" # Light Polar Night (comments/shadows)
