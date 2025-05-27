@@ -1,25 +1,23 @@
 name: "SofiDev"
 accent:
-  left: "#00fffb"
-  right: "#fe30fe"
-cursor: "#00fffb"
+  left: '#00fffb'
+  right: '#fe30fe'
+cursor: '#00fffb'
 background:
-  top: "#1b0d37"
-  bottom: "#0c0c0c"
+  top: '#1b0d37'
+  bottom: '#0c0c0c'
 details: darker
 highlight:
-  left: "#00fffb"
-  right: "#fe30fe"
-
-  opacity: 60
+  left: '#00fffb'
+  right: '#fe30fe'
 foreground: "#ffffff"
 terminal_colors:
   normal:
     black: "#616161"
     red: "#f44747"
-    green: "#33ff76"
+    green: "#43ff80"
     yellow: "#f0db4f"
-    blue: "#00fffb"
+    blue: "#5503c5"
     magenta: "#fe30fe"
     cyan: "#5503c4"
     white: "#f1f1f1"
