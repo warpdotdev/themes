@@ -1,0 +1,32 @@
+name: Nordic
+accent:
+  left: "#81a1c1" # Frost blue (primary accent)
+  right: "#88c0d0" # Frost cyan (secondary accent)
+cursor: "#d8dee9" # Snow Storm (soft white cursor)
+background: "#2e3440" # Polar Night base (main background)
+details: darker # Nordic is generally low-contrast, dark
+foreground: "#d8dee9" # Snow Storm (main text)
+
+background_image:
+  path: nordic.jpg
+  opacity: 4
+
+terminal_colors:
+  bright:
+    black: "#4c566a" # Light Polar Night (comments/shadows)
+    blue: "#81a1c1" # Frost blue
+    cyan: "#8fbcbb" # Frost cyan-green
+    green: "#a3be8c" # Aurora green
+    magenta: "#b48ead" # Aurora purple
+    red: "#bf616a" # Aurora red
+    white: "#eceff4" # Snow Storm brightest
+    yellow: "#ebcb8b" # Aurora yellow
+  normal:
+    black: "#3b4252" # Polar Night 2
+    blue: "#5e81ac" # Frost darker blue
+    cyan: "#88c0d0" # Frost cyan
+    green: "#a3be8c" # Aurora green
+    magenta: "#b48ead" # Aurora purple
+    red: "#bf616a" # Aurora red
+    white: "#d8dee9" # Snow Storm light
+    yellow: "#ebcb8b" # Aurora yellow
