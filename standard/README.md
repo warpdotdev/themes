@@ -124,5 +124,7 @@
 |**[Vuesion](vuesion.yaml)**:|<img src='previews/vuesion.yaml.svg' width='300'>|
 |**[Wombat](wombat.yaml)**:|<img src='previews/wombat.yaml.svg' width='300'>|
 |**[Xterm](xterm.yaml)**:|<img src='previews/xterm.yaml.svg' width='300'>|
+|**[Zed-one-dark](zed-one-dark.yaml)**:|<img src='previews/zed-one-dark.yaml.svg' width='300'>|
+|**[Zed-one-light](zed-one-light.yaml)**:|<img src='previews/zed-one-light.yaml.svg' width='300'>|
 |**[Zenbones Dark](zenbones_dark.yaml)**:|<img src='previews/zenbones_dark.yaml.svg' width='300'>|
 |**[Zenbones Light](zenbones_light.yaml)**:|<img src='previews/zenbones_light.yaml.svg' width='300'>|
