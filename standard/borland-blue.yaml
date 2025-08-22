@@ -1,0 +1,25 @@
+name: Borland Blue # Theme name
+accent: '#FFD700' # Gold as accent color (matches keywords and highlights)
+cursor: '#00FF00' # Green cursor color (as in original Emacs theme)
+background: '#191970' # MidnightBlue background
+foreground: '#FFD700' # Gold as the main foreground color
+details: darker # Theme is dark
+terminal_colors:
+  normal:
+    black:   '#000000' # Black for base dark tone
+    red:     '#FF0000' # Red for warnings and errors
+    green:   '#00FF00' # Green for preprocessor and built-in highlights
+    yellow:  '#FFD700' # Gold for main keyword highlighting
+    blue:    '#0000CD' # Medium Blue for structural elements
+    magenta: '#FF00FF' # Magenta for variables and special text
+    cyan:    '#00FFFF' # Cyan for strings and constants
+    white:   '#FFFFFF' # White for general contrast text
+  bright:
+    black:   '#2F4F4F' # DarkSlateGray for subtle contrast
+    red:     '#FF6347' # Tomato for brighter error states
+    green:   '#32CD32' # LimeGreen for bright highlights
+    yellow:  '#FFFF00' # Bright Yellow for emphasized keywords
+    blue:    '#4169E1' # RoyalBlue for structural bright accents
+    magenta: '#EE82EE' # Violet for alternative magenta accents
+    cyan:    '#7FFFD4' # Aquamarine for bright cyan tones
+    white:   '#F8F8FF' # GhostWhite for bright text
