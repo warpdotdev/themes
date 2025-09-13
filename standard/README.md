@@ -28,6 +28,7 @@
 |**[Daobeam](daobeam.yaml)**:|<img src='previews/daobeam.yaml.svg' width='300'>|
 |**[Darcula](darcula.yaml)**:|<img src='previews/darcula.yaml.svg' width='300'>|
 |**[Dark-pinkish](dark-pinkish.yaml)**:|<img src='previews/dark-pinkish.yaml.svg' width='300'>|
+|**[Dark Castle](dark_castle.yml)**:|<img src='previews/dark_castle.yml.svg' width='300'>|
 |**[Dark Pastels](dark_pastels.yaml)**:|<img src='previews/dark_pastels.yaml.svg' width='300'>|
 |**[Deep Ocean](deep_ocean.yaml)**:|<img src='previews/deep_ocean.yaml.svg' width='300'>|
 |**[Default Dark](default_dark.yaml)**:|<img src='previews/default_dark.yaml.svg' width='300'>|
