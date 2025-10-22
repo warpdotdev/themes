@@ -1,0 +1,33 @@
+# Soft Tactile Warp Cream - Sun-Kissed Cappuccino
+# A premium neumorphic light theme with sun-tanned coffee cream tones
+# Evokes Mediterranean warmth for all-day comfort
+# Authors: Jelena (https://github.com/jelenastricak) & Bob (https://github.com/bobvasic) @ CyberLink Security
+# License: MIT
+
+name: Soft Tactile Warp Cream
+accent: '#BF9969'
+accent_hover: '#77634F'
+cursor: '#BF9969'
+background: '#F2E8D9'
+foreground: '#5A4A3A'
+details: lighter
+
+terminal_colors:
+  normal:
+    black: '#77634F'
+    red: '#D4856A'
+    green: '#9D8C5D'
+    yellow: '#D09B5E'
+    blue: '#A88F75'
+    magenta: '#C08873'
+    cyan: '#B59972'
+    white: '#EBE0CD'
+  bright:
+    black: '#8B7460'
+    red: '#E59978'
+    green: '#B1A074'
+    yellow: '#E2B073'
+    blue: '#BDA38A'
+    magenta: '#D39C87'
+    cyan: '#CAB087'
+    white: '#FAF4EA'
