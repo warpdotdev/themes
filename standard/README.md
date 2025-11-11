@@ -74,6 +74,7 @@
 |**[Monokai Pro Spectrum](monokai_pro_spectrum.yml)**:|<img src='previews/monokai_pro_spectrum.yml.svg' width='300'>|
 |**[Night Owl](night_owl.yaml)**:|<img src='previews/night_owl.yaml.svg' width='300'>|
 |**[Nightfly](nightfly.yaml)**:|<img src='previews/nightfly.yaml.svg' width='300'>|
+|**[Nord Light](nord_light.yaml)**:|<img src='previews/nord_light.yaml.svg' width='300'>|
 |**[Nord](nord.yaml)**:|<img src='previews/nord.yaml.svg' width='300'>|
 |**[Oceanic Next](oceanic_next.yaml)**:|<img src='previews/oceanic_next.yaml.svg' width='300'>|
 |**[Omni](omni.yaml)**:|<img src='previews/omni.yaml.svg' width='300'>|
