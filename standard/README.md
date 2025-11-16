@@ -93,6 +93,7 @@
 |**[Popos Dark](popos_dark.yaml)**:|<img src='previews/popos_dark.yaml.svg' width='300'>|
 |**[Popos Light](popos_light.yaml)**:|<img src='previews/popos_light.yaml.svg' width='300'>|
 |**[Remedy Dark](remedy_dark.yaml)**:|<img src='previews/remedy_dark.yaml.svg' width='300'>|
+|**[Retro Terminal](retro_terminal.yaml)**:|<img src='previews/retro_terminal.yaml.svg' width='300'>|
 |**[Seashells](seashells.yaml)**:|<img src='previews/seashells.yaml.svg' width='300'>|
 |**[Shades Of Purple](shades_of_purple.yaml)**:|<img src='previews/shades_of_purple.yaml.svg' width='300'>|
 |**[Shades Of Purple Super Dark](shades_of_purple_super_dark.yaml)**:|<img src='previews/shades_of_purple_super_dark.yaml.svg' width='300'>|
