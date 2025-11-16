@@ -1,0 +1,26 @@
+# Base16 Arduino Light - inspired by the Arduino IDE color palette
+# Note: This is an unofficial theme. Arduino is a trademark of Arduino SA.
+# This theme is not affiliated with or endorsed by Arduino.
+accent: "#00979D"
+background: "#F0FEFF"
+details: lighter
+foreground: "#006064"
+terminal_colors:
+  bright:
+    black: "#37474F"
+    blue: "#E0F7FA"
+    cyan: "#00838F"
+    green: "#B2DFDB"
+    magenta: "#B2EBF2"
+    red: "#00BCD4"
+    white: "#004D52"
+    yellow: "#80DEEA"
+  normal:
+    black: "#F0FEFF"
+    blue: "#0097A7"
+    cyan: "#00BFA5"
+    green: "#00897B"
+    magenta: "#00ACC1"
+    red: "#D32F2F"
+    white: "#006064"
+    yellow: "#00838F"

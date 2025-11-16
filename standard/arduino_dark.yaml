@@ -1,0 +1,26 @@
+# Arduino Dark Theme - inspired by the Arduino IDE color palette
+# Note: This is an unofficial theme. Arduino is a trademark of Arduino SA.
+# This theme is not affiliated with or endorsed by Arduino.
+accent: "#00D3CF" # Bright Arduino cyan
+background: "#0D1B1E" # Dark teal-black background
+details: darker
+foreground: "#B2EBF2" # Light cyan for text
+terminal_colors:
+  bright:
+    black: "#4A5F61" # Teal-tinted dark gray
+    blue: "#00BCD4" # Bright teal-cyan
+    cyan: "#00E5FF" # Bright Arduino cyan
+    green: "#00E5CC" # Bright teal-green
+    magenta: "#26C6DA" # Bright teal
+    red: "#FF5252" # Bright red (Arduino error color)
+    white: "#E0F7FA" # Cyan-tinted white
+    yellow: "#26C6DA" # Bright cyan
+  normal:
+    black: "#263238" # Dark blue-gray
+    blue: "#00ACC1" # Teal-cyan blue
+    cyan: "#00979D" # Arduino teal
+    green: "#00897B" # Dark teal-green
+    magenta: "#0097A7" # Standard teal
+    red: "#E57373" # Soft red for errors
+    white: "#B2DFDB" # Teal-tinted light gray
+    yellow: "#00838F" # Dark cyan

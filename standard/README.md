@@ -4,6 +4,8 @@
 |**[Apple Dark](apple_dark.yaml)**:|<img src='previews/apple_dark.yaml.svg' width='300'>|
 |**[Apple Light](apple_light.yaml)**:|<img src='previews/apple_light.yaml.svg' width='300'>|
 |**[Arc Dark](arc_dark.yaml)**:|<img src='previews/arc_dark.yaml.svg' width='300'>|
+|**[Arduino Dark](arduino_dark.yaml)**:|<img src='previews/arduino_dark.yaml.svg' width='300'>|
+|**[Arduino Light](arduino_light.yaml)**:|<img src='previews/arduino_light.yaml.svg' width='300'>|
 |**[Argonaut](argonaut.yaml)**:|<img src='previews/argonaut.yaml.svg' width='300'>|
 |**[Avirage](avirage.yaml)**:|<img src='previews/avirage.yaml.svg' width='300'>|
 |**[Ayu Dark](ayu_dark.yaml)**:|<img src='previews/ayu_dark.yaml.svg' width='300'>|
