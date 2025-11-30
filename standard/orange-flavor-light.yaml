@@ -1,0 +1,25 @@
+name: Orange Flavor Light
+accent: '#f47c20'
+cursor: '#f47c20'
+background: '#f0e8eb'
+foreground: '#051014'
+details: lighter
+terminal_colors:
+  normal:
+    black: '#051014'
+    red: '#7c3626'
+    green: '#2a7f7f'
+    yellow: '#f47c20'
+    blue: '#2a7f7f'
+    magenta: '#7c3626'
+    cyan: '#2a7f7f'
+    white: '#f8f4f9'
+  bright:
+    black: '#7c3626'
+    red: '#f47c20'
+    green: '#2a7f7f'
+    yellow: '#f8f4f9'
+    blue: '#7c3626'
+    magenta: '#f47c20'
+    cyan: '#2a7f7f'
+    white: '#f8f4f9'
