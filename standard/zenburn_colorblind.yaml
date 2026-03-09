@@ -1,0 +1,25 @@
+name: Zenburn Colorblind
+accent: '#8cd0d3'
+cursor: '#8faf9f'
+background: '#3f3f3f'
+foreground: '#dcdccc'
+details: darker
+terminal_colors:
+  normal:
+    black: '#3f3f3f'
+    red: '#e65c5c'
+    green: '#5cb85c'
+    yellow: '#f0ad4e'
+    blue: '#5d9bd5'
+    magenta: '#b85cb8'
+    cyan: '#5cb8b8'
+    white: '#dcdccc'
+  bright:
+    black: '#709080'
+    red: '#ff7070'
+    green: '#70d970'
+    yellow: '#ffc870'
+    blue: '#70b3ff'
+    magenta: '#d970d9'
+    cyan: '#70e0e0'
+    white: '#ffffff'
