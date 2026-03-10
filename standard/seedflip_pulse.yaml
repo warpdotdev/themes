@@ -1,0 +1,26 @@
+# SeedFlip — Pulse
+# Sound you can see
+# https://seedflip.co
+accent: "#1DB954"
+background: "#121212"
+foreground: "#FFFFFF"
+details: darker
+terminal_colors:
+  normal:
+    black: "#0d0d0d"
+    red: "#e34f4f"
+    green: "#4fe380"
+    yellow: "#e3cb4f"
+    blue: "#4f8de3"
+    magenta: "#e34fe3"
+    cyan: "#4fe3e3"
+    white: "#ffffff"
+  bright:
+    black: "#383838"
+    red: "#ee9191"
+    green: "#91eeb0"
+    yellow: "#eede91"
+    blue: "#91b8ee"
+    magenta: "#ee91ee"
+    cyan: "#91eeee"
+    white: "#FFFFFF"

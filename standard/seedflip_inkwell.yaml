@@ -1,0 +1,26 @@
+# SeedFlip — Inkwell
+# Serif elegance meets dark mode
+# https://seedflip.co
+accent: "#C8B8A0"
+background: "#0A0A0A"
+foreground: "#E8E4DF"
+details: darker
+terminal_colors:
+  normal:
+    black: "#050505"
+    red: "#cc6666"
+    green: "#66cc88"
+    yellow: "#ccbb66"
+    blue: "#6690cc"
+    magenta: "#cc66cc"
+    cyan: "#66cccc"
+    white: "#f3f1ee"
+  bright:
+    black: "#303030"
+    red: "#df9f9f"
+    green: "#9fdfb5"
+    yellow: "#dfd49f"
+    blue: "#9fbadf"
+    magenta: "#df9fdf"
+    cyan: "#9fdfdf"
+    white: "#FFFFFF"

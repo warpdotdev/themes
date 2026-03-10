@@ -1,0 +1,26 @@
+# SeedFlip — Nightfall
+# Precision after dark.
+# https://seedflip.co
+accent: "#818CF8"
+background: "#0A0A0F"
+foreground: "#E4E4E7"
+details: darker
+terminal_colors:
+  normal:
+    black: "#060609"
+    red: "#f04242"
+    green: "#42f07c"
+    yellow: "#f0d342"
+    blue: "#428bf0"
+    magenta: "#f042f0"
+    cyan: "#42f0f0"
+    white: "#f2f2f3"
+  bright:
+    black: "#29293d"
+    red: "#f58989"
+    green: "#89f5ad"
+    yellow: "#f5e389"
+    blue: "#89b6f5"
+    magenta: "#f589f5"
+    cyan: "#89f5f5"
+    white: "#FFFFFF"
