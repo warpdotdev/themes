@@ -1,0 +1,51 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 300 145"><rect width="300" height="145" fill="#0D1B1E" class="Dynamic" rx="5"/><text x="15" y="15" fill="#B2EBF2" class="Dynamic" font-family="monospace" font-size=".6em">ls</text><text x="15" y="30" fill="#00ACC1" class="Dynamic" font-family="monospace" font-size=".6em">
+dir
+</text><text x="65" y="30" fill="#E57373" class="Dynamic" font-family="monospace" font-size=".6em">
+executable
+</text><text x="175" y="30" fill="#B2EBF2" class="Dynamic" font-family="monospace" font-size=".6em">
+file
+</text><path stroke="#B2EBF2" d="M0 40h300" class="Dynamic" style="stroke-width:.2"/><text x="15" y="55" fill="#B2EBF2" class="Dynamic" font-family="monospace" font-size=".6em">bash ~/colors.sh</text><text x="15" y="70" fill="#B2EBF2" class="Dynamic" font-family="monospace" font-size=".6em">
+normal:
+</text><text x="55" y="70" fill="#263238" class="Dynamic" font-family="monospace" font-size=".6em">
+black
+</text><text x="85" y="70" fill="#E57373" class="Dynamic" font-family="monospace" font-size=".6em">
+red
+</text><text x="105" y="70" fill="#00897B" class="Dynamic" font-family="monospace" font-size=".6em">
+green
+</text><text x="135" y="70" fill="#00838F" class="Dynamic" font-family="monospace" font-size=".6em">
+yellow
+</text><text x="170" y="70" fill="#00ACC1" class="Dynamic" font-family="monospace" font-size=".6em">
+blue
+</text><text x="195" y="70" fill="#0097A7" class="Dynamic" font-family="monospace" font-size=".6em">
+magenta
+</text><text x="235" y="70" fill="#00979D" class="Dynamic" font-family="monospace" font-size=".6em">
+cyan
+</text><text x="260" y="70" fill="#B2DFDB" class="Dynamic" font-family="monospace" font-size=".6em">
+white
+</text><text x="15" y="85" fill="#B2EBF2" class="Dynamic" font-family="monospace" font-size=".6em">
+bright:
+</text><text x="55" y="85" fill="#4A5F61" class="Dynamic" font-family="monospace" font-size=".6em">
+black
+</text><text x="85" y="85" fill="#FF5252" class="Dynamic" font-family="monospace" font-size=".6em">
+red
+</text><text x="105" y="85" fill="#00E5CC" class="Dynamic" font-family="monospace" font-size=".6em">
+green
+</text><text x="135" y="85" fill="#26C6DA" class="Dynamic" font-family="monospace" font-size=".6em">
+yellow
+</text><text x="170" y="85" fill="#00BCD4" class="Dynamic" font-family="monospace" font-size=".6em">
+blue
+</text><text x="195" y="85" fill="#26C6DA" class="Dynamic" font-family="monospace" font-size=".6em">
+magenta
+</text><text x="235" y="85" fill="#00E5FF" class="Dynamic" font-family="monospace" font-size=".6em">
+cyan
+</text><text x="260" y="85" fill="#E0F7FA" class="Dynamic" font-family="monospace" font-size=".6em">
+white
+</text><path stroke="#B2EBF2" d="M0 95h300" class="Dynamic" style="stroke-width:.2"/><text x="15" y="110" fill="#0097A7" class="Dynamic" font-family="monospace" font-size=".6em">
+~/project
+</text><text x="65" y="110" fill="#00897B" class="Dynamic" font-family="monospace" font-size=".6em">
+git(
+    </text><text x="85" y="110" fill="#00838F" class="Dynamic" font-family="monospace" font-size=".6em">
+      main
+    </text><text x="113" y="110" fill="#00897B" class="Dynamic" font-family="monospace" font-size=".6em">
+      )
+</text><path stroke="#00D3CF" d="M15 120v10" class="Dynamic" style="stroke-width:2"/></svg>
