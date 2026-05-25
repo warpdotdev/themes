@@ -1,0 +1,24 @@
+name: Sequoia Moonlight-Dark
+accent: '#ffbb88'
+background: '#0f1014'
+foreground: '#868690'
+details: darker
+terminal_colors:
+  normal:
+    black: '#131317'
+    red: '#f58ee0'
+    green: '#8eb6f5'
+    yellow: '#9898a6'
+    blue: '#c58fff'
+    magenta: '#fdfdfe'
+    cyan: '#ffbb88'
+    white: '#868690'
+  bright:
+    black: '#575861'
+    red: '#f58ee0'
+    green: '#8eb6f5'
+    yellow: '#9898a6'
+    blue: '#c58fff'
+    magenta: '#fdfdfe'
+    cyan: '#ffbb88'
+    white: '#868690'

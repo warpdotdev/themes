@@ -1,0 +1,24 @@
+name: Sequoia Monochrome-Light
+accent: '#454752'
+background: '#edeef2'
+foreground: '#282930'
+details: lighter
+terminal_colors:
+  normal:
+    black: '#d4d5dc'
+    red: '#525666'
+    green: '#2e3038'
+    yellow: '#50535e'
+    blue: '#5f6370'
+    magenta: '#25262d'
+    cyan: '#454752'
+    white: '#282930'
+  bright:
+    black: '#42434e'
+    red: '#525666'
+    green: '#2e3038'
+    yellow: '#50535e'
+    blue: '#5f6370'
+    magenta: '#25262d'
+    cyan: '#454752'
+    white: '#282930'

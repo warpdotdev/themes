@@ -96,6 +96,15 @@
 |**[Remedy Dark](remedy_dark.yaml)**:|<img src='previews/remedy_dark.yaml.svg' width='300'>|
 |**[Seashells](seashells.yaml)**:|<img src='previews/seashells.yaml.svg' width='300'>|
 |**[Shades Of Purple](shades_of_purple.yaml)**:|<img src='previews/shades_of_purple.yaml.svg' width='300'>|
+|**[Sequoia Monochrome Dark](sequoia_monochrome_dark.yaml)**:|<img src='previews/sequoia_monochrome_dark.yaml.svg' width='300'>|
+|**[Sequoia Monochrome Light](sequoia_monochrome_light.yaml)**:|<img src='previews/sequoia_monochrome_light.yaml.svg' width='300'>|
+|**[Sequoia Moonlight Dark](sequoia_moonlight_dark.yaml)**:|<img src='previews/sequoia_moonlight_dark.yaml.svg' width='300'>|
+|**[Sequoia Moonlight Light](sequoia_moonlight_light.yaml)**:|<img src='previews/sequoia_moonlight_light.yaml.svg' width='300'>|
+|**[Sequoia Retro Dark](sequoia_retro_dark.yaml)**:|<img src='previews/sequoia_retro_dark.yaml.svg' width='300'>|
+|**[Sequoia Retro Light](sequoia_retro_light.yaml)**:|<img src='previews/sequoia_retro_light.yaml.svg' width='300'>|
+|**[Serendipity Midnight](serendipity_midnight.yaml)**:|<img src='previews/serendipity_midnight.yaml.svg' width='300'>|
+|**[Serendipity Morning](serendipity_morning.yaml)**:|<img src='previews/serendipity_morning.yaml.svg' width='300'>|
+|**[Serendipity Sunset](serendipity_sunset.yaml)**:|<img src='previews/serendipity_sunset.yaml.svg' width='300'>|
 |**[Shades Of Purple Super Dark](shades_of_purple_super_dark.yaml)**:|<img src='previews/shades_of_purple_super_dark.yaml.svg' width='300'>|
 |**[Simply Dark](simply_dark.yaml)**:|<img src='previews/simply_dark.yaml.svg' width='300'>|
 |**[Snazzy](snazzy.yaml)**:|<img src='previews/snazzy.yaml.svg' width='300'>|

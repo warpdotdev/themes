@@ -1,0 +1,24 @@
+name: Sequoia Retro-Light
+accent: '#8a6539'
+background: '#edeef2'
+foreground: '#282930'
+details: lighter
+terminal_colors:
+  normal:
+    black: '#d4d5dc'
+    red: '#5f7982'
+    green: '#4a704e'
+    yellow: '#bf5238'
+    blue: '#456a82'
+    magenta: '#c99730'
+    cyan: '#8a6539'
+    white: '#282930'
+  bright:
+    black: '#42434e'
+    red: '#c99730'
+    green: '#4a704e'
+    yellow: '#bf5238'
+    blue: '#456a82'
+    magenta: '#5f7982'
+    cyan: '#8a6539'
+    white: '#282930'
