@@ -1,0 +1,26 @@
+background: "#05333F"
+accent: "#0DA6B0"
+foreground: "#A8E2E8"
+background_image:
+  path: lumon.jpg
+  opacity: 100
+details: darker
+terminal_colors:
+  normal:
+    black: "#02546F"
+    red: "#005D6D"
+    green: "#6FA2AC"
+    yellow: "#6AC0CB"
+    blue: "#6AC0CB"
+    magenta: "#6FA2AC"
+    cyan: "#6FA2AC"
+    white: "#6FA2AC"
+  bright:
+    black: "#02546F"
+    red: "#6FA2AC"
+    green: "#6AC0CB"
+    yellow: "#6AC0CB"
+    blue: "#6FA2AC"
+    magenta: "#6FA2AC"
+    cyan: "#6FA2AC"
+    white: "#6FA2AC"
