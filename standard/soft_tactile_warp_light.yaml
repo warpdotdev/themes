@@ -1,0 +1,32 @@
+# Soft Tactile Warp Light - Vanilla Latte
+# A premium neumorphic light theme with warm vanilla-terracotta tones
+# Professional elegance meets comfortable brightness
+# Authors: Jelena (https://github.com/jelenastricak) & Bob (https://github.com/bobvasic) @ CyberLink Security
+# License: MIT
+
+name: Soft Tactile Warp Light
+accent: '#a68a7d'
+cursor: '#8e7365'
+background: '#f5f0e8'
+foreground: '#4a3f38'
+details: lighter
+
+terminal_colors:
+  normal:
+    black: '#3d342e'
+    red: '#b88f7f'
+    green: '#9d8a75'
+    yellow: '#c4a882'
+    blue: '#a68a7d'
+    magenta: '#b5968a'
+    cyan: '#9a8778'
+    white: '#f5f0e8'
+  bright:
+    black: '#5a4d45'
+    red: '#cfa898'
+    green: '#b5a290'
+    yellow: '#d9be9d'
+    blue: '#bfa393'
+    magenta: '#ccb0a3'
+    cyan: '#b29f90'
+    white: '#fffcf7'

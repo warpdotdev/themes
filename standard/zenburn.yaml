@@ -1,0 +1,25 @@
+name: Zenburn
+accent: '#8cd0d3'
+cursor: '#8faf9f'
+background: '#3f3f3f'
+foreground: '#dcdccc'
+details: darker
+terminal_colors:
+  normal:
+    black: '#3f3f3f'
+    red: '#cc9393'
+    green: '#7f9f7f'
+    yellow: '#e3ceab'
+    blue: '#6c9cbc'
+    magenta: '#dc8cc3'
+    cyan: '#8cd0d3'
+    white: '#dcdccc'
+  bright:
+    black: '#709080'
+    red: '#dca3a3'
+    green: '#9fafaf'
+    yellow: '#f0dfaf'
+    blue: '#94bff3'
+    magenta: '#ec93d3'
+    cyan: '#93e0e3'
+    white: '#ffffff'

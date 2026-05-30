@@ -1,0 +1,25 @@
+name: Zenburn Colorblind High Contrast
+accent: '#46a9ad'
+cursor: '#47cc7c'
+background: '#2d2d2d'
+foreground: '#eaeaea'
+details: darker
+terminal_colors:
+  normal:
+    black: '#2d2d2d'
+    red: '#f25555'
+    green: '#3eb63e'
+    yellow: '#f4a733'
+    blue: '#4d93cc'
+    magenta: '#c846c8'
+    cyan: '#46b3b3'
+    white: '#eaeaea'
+  bright:
+    black: '#6a6a6a'
+    red: '#ff6f6f'
+    green: '#5cd95c'
+    yellow: '#ffbb55'
+    blue: '#70aae6'
+    magenta: '#eb70eb'
+    cyan: '#70e6e6'
+    white: '#ffffff'
