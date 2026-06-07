@@ -32,6 +32,7 @@
 |**[Deep Ocean](deep_ocean.yaml)**:|<img src='previews/deep_ocean.yaml.svg' width='300'>|
 |**[Default Dark](default_dark.yaml)**:|<img src='previews/default_dark.yaml.svg' width='300'>|
 |**[Dracula](dracula.yaml)**:|<img src='previews/dracula.yaml.svg' width='300'>|
+|**[Dusk](dusk.yaml)**:|<img src='previews/dusk.yaml.svg' width='300'>|
 |**[Edgerunners-david](edgerunners-david.yaml)**:|<img src='previews/edgerunners-david.yaml.svg' width='300'>|
 |**[Edgerunners-lucy And David Jump](edgerunners-lucy_and_david_jump.yaml)**:|<img src='previews/edgerunners-lucy_and_david_jump.yaml.svg' width='300'>|
 |**[Everforest Hard](everforest_hard.yaml)**:|<img src='previews/everforest_hard.yaml.svg' width='300'>|
