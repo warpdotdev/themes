@@ -60,6 +60,7 @@
 |**[Kanagawa](kanagawa.yaml)**:|<img src='previews/kanagawa.yaml.svg' width='300'>|
 |**[Konsole Linux](konsole_linux.yaml)**:|<img src='previews/konsole_linux.yaml.svg' width='300'>|
 |**[Laser](laser.yaml)**:|<img src='previews/laser.yaml.svg' width='300'>|
+|**[Lcars](lcars.yaml)**:|<img src='previews/lcars.yaml.svg' width='300'>|
 |**[Light-pinkish](light-pinkish.yaml)**:|<img src='previews/light-pinkish.yaml.svg' width='300'>|
 |**[Low Contrast](low_contrast.yaml)**:|<img src='previews/low_contrast.yaml.svg' width='300'>|
 |**[Lucario](lucario.yaml)**:|<img src='previews/lucario.yaml.svg' width='300'>|
@@ -127,3 +128,6 @@
 |**[Xterm](xterm.yaml)**:|<img src='previews/xterm.yaml.svg' width='300'>|
 |**[Zenbones Dark](zenbones_dark.yaml)**:|<img src='previews/zenbones_dark.yaml.svg' width='300'>|
 |**[Zenbones Light](zenbones_light.yaml)**:|<img src='previews/zenbones_light.yaml.svg' width='300'>|
+|**[Zenburn Colorblind High Contrast](zenburn_colorblind_high_contrast.yaml)**:|<img src='previews/zenburn_colorblind_high_contrast.yaml.svg' width='300'>|
+|**[Zenburn Colorblind](zenburn_colorblind.yaml)**:|<img src='previews/zenburn_colorblind.yaml.svg' width='300'>|
+|**[Zenburn](zenburn.yaml)**:|<img src='previews/zenburn.yaml.svg' width='300'>|

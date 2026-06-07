@@ -1,0 +1,32 @@
+# Soft Tactile Warp Dark - Midnight Espresso
+# A premium neumorphic dark theme with warm coffee-chocolate tones
+# Designed for extended coding sessions and reduced eye strain
+# Authors: Jelena (https://github.com/jelenastricak) & Bob (https://github.com/bobvasic) @ CyberLink Security
+# License: MIT
+
+name: Soft Tactile Warp Dark
+accent: '#9b8b7e'
+cursor: '#b5a798'
+background: '#2b2520'
+foreground: '#e5d5c5'
+details: darker
+
+terminal_colors:
+  normal:
+    black: '#1a1512'
+    red: '#c89f91'
+    green: '#b5a48e'
+    yellow: '#d4b896'
+    blue: '#9b8b7e'
+    magenta: '#b39a8d'
+    cyan: '#a8988a'
+    white: '#e5d5c5'
+  bright:
+    black: '#3d352e'
+    red: '#d9b5a8'
+    green: '#cbbaa3'
+    yellow: '#e6caa8'
+    blue: '#b5a798'
+    magenta: '#c9b5a5'
+    cyan: '#bfab9d'
+    white: '#f5e8db'
