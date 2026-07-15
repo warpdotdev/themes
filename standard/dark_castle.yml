@@ -1,0 +1,24 @@
+name: Dark Castle # Name for the theme
+accent: '#FF8040' # Accent color for UI elements
+background: '#000000' # Terminal background color
+details: darker # Whether the theme is lighter or darker
+foreground: '#FFD580' # The foreground color
+terminal_colors: # Ansi escape colors
+  bright:
+    black: '#292929'
+    blue: '#4164FF'
+    cyan: '#4DBCED'
+    green: '#BAE67E'
+    magenta: '#9354FF'
+    red: '#EF6B73'
+    white: '#FFFFFF'
+    yellow: '#FFD580'
+  normal:
+    black: '#1A1A1A'
+    blue: '#2D449B'
+    cyan: '#007B88'
+    green: '#08D220'
+    magenta: '#AA1B86'
+    red: '#FF000F'
+    white: '#9C9C9C'
+    yellow: '#DFC200'
