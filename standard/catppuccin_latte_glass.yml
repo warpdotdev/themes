@@ -1,0 +1,39 @@
+# Catppuccin Latte Glass
+# A light theme based on the Catppuccin Latte palette (https://github.com/catppuccin/catppuccin, MIT),
+# with a lavender-to-pink accent gradient and an optional soft pastel "glow" background
+# image generated from the Latte accent colors (lavender, mauve, pink, sky).
+#
+# To enable the background image (original, generated for this theme, CC0):
+# 1. Download it:
+#    curl -sSL https://github.com/rhlsthrm/themes/releases/download/latte-glass-assets/latte_glow.jpg -o ~/.warp/themes/catppuccin_latte_glass_bg.jpg
+# 2. Uncomment the background_image section below.
+name: Catppuccin Latte Glass
+background: '#eff1f5'
+accent:
+  left: '#7287fd'
+  right: '#ea76cb'
+foreground: '#4c4f69'
+cursor: '#8839ef'
+details: lighter
+# background_image:
+#   path: catppuccin_latte_glass_bg.jpg
+#   opacity: 30
+terminal_colors:
+  normal:
+    black: '#5c5f77'
+    red: '#d20f39'
+    green: '#40a02b'
+    yellow: '#df8e1d'
+    blue: '#1e66f5'
+    magenta: '#ea76cb'
+    cyan: '#179299'
+    white: '#acb0be'
+  bright:
+    black: '#6c6f85'
+    red: '#d20f39'
+    green: '#40a02b'
+    yellow: '#df8e1d'
+    blue: '#1e66f5'
+    magenta: '#ea76cb'
+    cyan: '#179299'
+    white: '#bcc0cc'
