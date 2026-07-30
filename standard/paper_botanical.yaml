@@ -1,0 +1,25 @@
+name: Paper Botanical
+accent: '#2B5A38'
+cursor: '#2B5A38'
+background: '#FCFBF9'
+foreground: '#1A1A1A'
+details: lighter
+terminal_colors:
+  normal:
+    black: '#1A1A1A'
+    red: '#A33A3A'
+    green: '#2B5A38'
+    yellow: '#A85A20'
+    blue: '#4A7A8A'
+    magenta: '#4A3A6A'
+    cyan: '#3A7A6A'
+    white: '#C1BEB5'
+  bright:
+    black: '#8C8A80'
+    red: '#C36A6A'
+    green: '#6B9A78'
+    yellow: '#C88A50'
+    blue: '#7A9AAA'
+    magenta: '#8A7A9A'
+    cyan: '#6ABAAA'
+    white: '#EBEBE6'
