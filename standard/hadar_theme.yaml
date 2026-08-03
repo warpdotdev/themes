@@ -1,0 +1,24 @@
+name: Hadar Theme
+accent: '#00B09C'
+background: '#00030F'
+foreground: '#8695b7'
+details: 'darker'
+terminal_colors:
+  normal:
+    black: '#00000C'
+    red: '#F92672'
+    green: '#A6E22E'
+    yellow: '#E6DB74'
+    blue: '#66D9EF'
+    magenta: '#AE81FF'
+    cyan: '#00FFFF'
+    white: '#fcfcfa'
+  bright:
+    black: '#2f3b54'
+    red: '#F92672'
+    green: '#A6E22E'
+    yellow: '#E6DB74'
+    blue: '#66D9EF'
+    magenta: '#AE81FF'
+    cyan: '#00FFFF'
+    white: '#fcfcfa'
