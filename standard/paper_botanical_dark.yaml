@@ -1,0 +1,25 @@
+name: Paper Botanical Dark
+accent: '#93C49E'
+cursor: '#93C49E'
+background: '#1B1A18'
+foreground: '#EDE9E1'
+details: darker
+terminal_colors:
+  normal:
+    black: '#33302B'
+    red: '#E6A0A0'
+    green: '#93C49E'
+    yellow: '#E4B27A'
+    blue: '#93BACD'
+    magenta: '#B9AAD6'
+    cyan: '#84C7B8'
+    white: '#CFC7B9'
+  bright:
+    black: '#BDB4A6'
+    red: '#F0B0B0'
+    green: '#AEDCB6'
+    yellow: '#F5CE96'
+    blue: '#AFD5E5'
+    magenta: '#D2C4EC'
+    cyan: '#A3E0D2'
+    white: '#F7F4ED'
