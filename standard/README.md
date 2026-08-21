@@ -77,6 +77,7 @@
 |**[Monokai Pro Spectrum](monokai_pro_spectrum.yml)**:|<img src='previews/monokai_pro_spectrum.yml.svg' width='300'>|
 |**[Night Owl](night_owl.yaml)**:|<img src='previews/night_owl.yaml.svg' width='300'>|
 |**[Nightfly](nightfly.yaml)**:|<img src='previews/nightfly.yaml.svg' width='300'>|
+|**[Nord Light](nord_light.yaml)**:|<img src='previews/nord_light.yaml.svg' width='300'>|
 |**[Nord](nord.yaml)**:|<img src='previews/nord.yaml.svg' width='300'>|
 |**[Oceanic Next](oceanic_next.yaml)**:|<img src='previews/oceanic_next.yaml.svg' width='300'>|
 |**[Omni](omni.yaml)**:|<img src='previews/omni.yaml.svg' width='300'>|
@@ -131,6 +132,9 @@
 |**[Xterm](xterm.yaml)**:|<img src='previews/xterm.yaml.svg' width='300'>|
 |**[Zenbones Dark](zenbones_dark.yaml)**:|<img src='previews/zenbones_dark.yaml.svg' width='300'>|
 |**[Zenbones Light](zenbones_light.yaml)**:|<img src='previews/zenbones_light.yaml.svg' width='300'>|
+<<<<<<< nord-light
+=======
 |**[Zenburn Colorblind High Contrast](zenburn_colorblind_high_contrast.yaml)**:|<img src='previews/zenburn_colorblind_high_contrast.yaml.svg' width='300'>|
 |**[Zenburn Colorblind](zenburn_colorblind.yaml)**:|<img src='previews/zenburn_colorblind.yaml.svg' width='300'>|
 |**[Zenburn](zenburn.yaml)**:|<img src='previews/zenburn.yaml.svg' width='300'>|
+>>>>>>> main
