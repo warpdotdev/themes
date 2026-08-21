@@ -110,6 +110,7 @@
 |**[Solarized Dark](solarized_dark.yaml)**:|<img src='previews/solarized_dark.yaml.svg' width='300'>|
 |**[Solarized Light](solarized_light.yaml)**:|<img src='previews/solarized_light.yaml.svg' width='300'>|
 |**[Spaceduck](spaceduck.yaml)**:|<img src='previews/spaceduck.yaml.svg' width='300'>|
+|**[Sweet Dracula](sweet_dracula.yaml)**:|<img src='previews/sweet_dracula.yaml.svg' width='300'>|
 |**[Synthwave 84](synthwave_84.yaml)**:|<img src='previews/synthwave_84.yaml.svg' width='300'>|
 |**[Taerminal](taerminal.yaml)**:|<img src='previews/taerminal.yaml.svg' width='300'>|
 |**[Tango Dark](tango_dark.yaml)**:|<img src='previews/tango_dark.yaml.svg' width='300'>|
