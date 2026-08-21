@@ -36,9 +36,9 @@ yellow
 blue
 </text><text x="195" y="85" fill="#e0e0e0" class="Dynamic" font-family="monospace" font-size=".6em">
 magenta
-</text><text x="235" y="85" fill="#c63" class="Dynamic" font-family="monospace" font-size=".6em">
+</text><text x="235" y="85" fill="#cc6633" class="Dynamic" font-family="monospace" font-size=".6em">
 cyan
-</text><text x="260" y="85" fill="#fff" class="Dynamic" font-family="monospace" font-size=".6em">
+</text><text x="260" y="85" fill="#ffffff" class="Dynamic" font-family="monospace" font-size=".6em">
 white
 </text><path stroke="#d0d0d0" d="M0 95h300" class="Dynamic" style="stroke-width:.2"/><text x="15" y="110" fill="#ad00a1" class="Dynamic" font-family="monospace" font-size=".6em">
 ~/project

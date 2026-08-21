@@ -1,6 +1,6 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 300 145"><rect width="300" height="145" fill="#2e3436" class="Dynamic" rx="5"/><text x="15" y="15" fill="#d3d7cf" class="Dynamic" font-family="monospace" font-size=".6em">ls</text><text x="15" y="30" fill="#3465a4" class="Dynamic" font-family="monospace" font-size=".6em">
 dir
-</text><text x="65" y="30" fill="#c00" class="Dynamic" font-family="monospace" font-size=".6em">
+</text><text x="65" y="30" fill="#cc0000" class="Dynamic" font-family="monospace" font-size=".6em">
 executable
 </text><text x="175" y="30" fill="#d3d7cf" class="Dynamic" font-family="monospace" font-size=".6em">
 file
@@ -8,7 +8,7 @@ file
 normal:
 </text><text x="55" y="70" fill="#2e3436" class="Dynamic" font-family="monospace" font-size=".6em">
 black
-</text><text x="85" y="70" fill="#c00" class="Dynamic" font-family="monospace" font-size=".6em">
+</text><text x="85" y="70" fill="#cc0000" class="Dynamic" font-family="monospace" font-size=".6em">
 red
 </text><text x="105" y="70" fill="#4e9a06" class="Dynamic" font-family="monospace" font-size=".6em">
 green
