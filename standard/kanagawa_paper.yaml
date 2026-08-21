@@ -1,0 +1,25 @@
+name: Kanagawa Paper
+accent: '#8ba4b0'  # Using color4 as accent
+background: '#1F1F28'  # Using original background
+foreground: '#DCD7BA'  # Using original foreground
+cursor: '#c8c093'  # Using original cursor color
+details: darker  # This is a dark theme
+terminal_colors:
+  normal:
+    black: '#0d0c0c'    # color0
+    blue: '#8ba4b0'     # color4
+    cyan: '#8ea4a2'     # color6
+    green: '#8a9a7b'    # color2
+    magenta: '#a292a3'  # color5
+    red: '#c4746e'      # color1
+    white: '#C8C093'    # color7
+    yellow: '#c4b28a'   # color3
+  bright:
+    black: '#a6a69c'    # color8
+    blue: '#7FB4CA'     # color12
+    cyan: '#7AA89F'     # color14
+    green: '#87a987'    # color10
+    magenta: '#938AA9'  # color13
+    red: '#E46876'      # color9
+    white: '#c5c9c5'    # color15
+    yellow: '#E6C384'   # color11
