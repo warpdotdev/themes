@@ -99,6 +99,10 @@
 |**[Popos Light](popos_light.yaml)**:|<img src='previews/popos_light.yaml.svg' width='300'>|
 |**[Remedy Dark](remedy_dark.yaml)**:|<img src='previews/remedy_dark.yaml.svg' width='300'>|
 |**[Seashells](seashells.yaml)**:|<img src='previews/seashells.yaml.svg' width='300'>|
+|**[Selenized Black](selenized_black.yaml)**:|<img src='previews/selenized_black.yaml.svg' width='300'>|
+|**[Selenized Dark](selenized_dark.yaml)**:|<img src='previews/selenized_dark.yaml.svg' width='300'>|
+|**[Selenized Light](selenized_light.yaml)**:|<img src='previews/selenized_light.yaml.svg' width='300'>|
+|**[Selenized White](selenized_white.yaml)**:|<img src='previews/selenized_white.yaml.svg' width='300'>|
 |**[Shades Of Purple](shades_of_purple.yaml)**:|<img src='previews/shades_of_purple.yaml.svg' width='300'>|
 |**[Shades Of Purple Super Dark](shades_of_purple_super_dark.yaml)**:|<img src='previews/shades_of_purple_super_dark.yaml.svg' width='300'>|
 |**[Simply Dark](simply_dark.yaml)**:|<img src='previews/simply_dark.yaml.svg' width='300'>|
