@@ -10,6 +10,13 @@
 |**[Ayu Light](ayu_light.yaml)**:|<img src='previews/ayu_light.yaml.svg' width='300'>|
 |**[Ayu Mirage](ayu_mirage.yaml)**:|<img src='previews/ayu_mirage.yaml.svg' width='300'>|
 |**[Azuki](azuki.yaml)**:|<img src='previews/azuki.yaml.svg' width='300'>|
+|**[Base4tone-classic-d-dark](base4tone-classic-d-dark.yaml)**:|<img src='previews/base4tone-classic-d-dark.yaml.svg' width='300'>|
+|**[Base4tone-classic-i-dark](base4tone-classic-i-dark.yaml)**:|<img src='previews/base4tone-classic-i-dark.yaml.svg' width='300'>|
+|**[Base4tone-classic-p-dark](base4tone-classic-p-dark.yaml)**:|<img src='previews/base4tone-classic-p-dark.yaml.svg' width='300'>|
+|**[Base4tone-classic-s-dark](base4tone-classic-s-dark.yaml)**:|<img src='previews/base4tone-classic-s-dark.yaml.svg' width='300'>|
+|**[Base4tone-classic-w-dark](base4tone-classic-w-dark.yaml)**:|<img src='previews/base4tone-classic-w-dark.yaml.svg' width='300'>|
+|**[Base4tone-modern-n-dark](base4tone-modern-n-dark.yaml)**:|<img src='previews/base4tone-modern-n-dark.yaml.svg' width='300'>|
+|**[Base4tone-modern-w-dark](base4tone-modern-w-dark.yaml)**:|<img src='previews/base4tone-modern-w-dark.yaml.svg' width='300'>|
 |**[Bilibili Dark](bilibili_dark.yaml)**:|<img src='previews/bilibili_dark.yaml.svg' width='300'>|
 |**[Blood Moon](blood_moon.yaml)**:|<img src='previews/blood_moon.yaml.svg' width='300'>|
 |**[Blue Monday](blue_monday.yaml)**:|<img src='previews/blue_monday.yaml.svg' width='300'>|
