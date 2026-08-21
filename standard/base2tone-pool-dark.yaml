@@ -1,0 +1,24 @@
+name: Base2Tone Pool Dark
+accent: '#cf504a'
+background: '#2a2433'
+foreground: '#9a90a7'
+details: darker
+terminal_colors:
+  normal:
+    black: '#2a2433'
+    red: '#aa75f5'
+    green: '#f87972'
+    yellow: '#ffb6b3'
+    blue: '#b886fd'
+    magenta: '#f87972'
+    cyan: '#c7a0fe'
+    white: '#9a90a7'
+  bright:
+    black: '#635775'
+    red: '#fc8983'
+    green: '#372f42'
+    yellow: '#574b68'
+    blue: '#706383'
+    magenta: '#e4d2fe'
+    cyan: '#f36f68'
+    white: '#f3ebff'

@@ -1,0 +1,24 @@
+name: Base2Tone Lake Dark
+accent: '#84740b'
+background: '#192d34'
+foreground: '#7ba8b7'
+details: darker
+terminal_colors:
+  normal:
+    black: '#192d34'
+    red: '#3e91ac'
+    green: '#cbbb4d'
+    yellow: '#ffeb66'
+    blue: '#499fbc'
+    magenta: '#cbbb4d'
+    cyan: '#62b1cb'
+    white: '#7ba8b7'
+  bright:
+    black: '#3d6876'
+    red: '#d6c65c'
+    green: '#223c44'
+    yellow: '#335966'
+    blue: '#467686'
+    magenta: '#a5d8e9'
+    cyan: '#c4b031'
+    white: '#e1f7ff'

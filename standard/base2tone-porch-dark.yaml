@@ -1,0 +1,24 @@
+name: Base2Tone Porch Dark
+accent: '#c46731'
+background: '#221e24'
+foreground: '#9f95a3'
+details: darker
+terminal_colors:
+  normal:
+    black: '#221e24'
+    red: '#9466a3'
+    green: '#f39b68'
+    yellow: '#ffc29e'
+    blue: '#a77cb6'
+    magenta: '#f39b68'
+    cyan: '#ba95c6'
+    white: '#9f95a3'
+  bright:
+    black: '#645a68'
+    red: '#f8aa7c'
+    green: '#302a32'
+    yellow: '#574e5a'
+    blue: '#716774'
+    magenta: '#dfcbe6'
+    cyan: '#ec8d55'
+    white: '#f2e3f7'

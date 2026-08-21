@@ -1,0 +1,24 @@
+name: Base2Tone Meadow Dark
+accent: '#4d8217'
+background: '#192834'
+foreground: '#7b9eb7'
+details: darker
+terminal_colors:
+  normal:
+    black: '#192834'
+    red: '#277fbe'
+    green: '#80bf40'
+    yellow: '#a6f655'
+    blue: '#4299d7'
+    magenta: '#80bf40'
+    cyan: '#47adf5'
+    white: '#7b9eb7'
+  bright:
+    black: '#3d5e76'
+    red: '#8cdd3c'
+    green: '#223644'
+    yellow: '#335166'
+    blue: '#466b86'
+    magenta: '#afddfe'
+    cyan: '#73b234'
+    white: '#d1ecff'

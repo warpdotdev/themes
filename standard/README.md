@@ -10,6 +10,26 @@
 |**[Ayu Light](ayu_light.yaml)**:|<img src='previews/ayu_light.yaml.svg' width='300'>|
 |**[Ayu Mirage](ayu_mirage.yaml)**:|<img src='previews/ayu_mirage.yaml.svg' width='300'>|
 |**[Azuki](azuki.yaml)**:|<img src='previews/azuki.yaml.svg' width='300'>|
+|**[Base2tone-cave-dark](base2tone-cave-dark.yaml)**:|<img src='previews/base2tone-cave-dark.yaml.svg' width='300'>|
+|**[Base2tone-desert-dark](base2tone-desert-dark.yaml)**:|<img src='previews/base2tone-desert-dark.yaml.svg' width='300'>|
+|**[Base2tone-drawbridge-dark](base2tone-drawbridge-dark.yaml)**:|<img src='previews/base2tone-drawbridge-dark.yaml.svg' width='300'>|
+|**[Base2tone-earth-dark](base2tone-earth-dark.yaml)**:|<img src='previews/base2tone-earth-dark.yaml.svg' width='300'>|
+|**[Base2tone-evening-dark](base2tone-evening-dark.yaml)**:|<img src='previews/base2tone-evening-dark.yaml.svg' width='300'>|
+|**[Base2tone-field-dark](base2tone-field-dark.yaml)**:|<img src='previews/base2tone-field-dark.yaml.svg' width='300'>|
+|**[Base2tone-forest-dark](base2tone-forest-dark.yaml)**:|<img src='previews/base2tone-forest-dark.yaml.svg' width='300'>|
+|**[Base2tone-garden-dark](base2tone-garden-dark.yaml)**:|<img src='previews/base2tone-garden-dark.yaml.svg' width='300'>|
+|**[Base2tone-heath-dark](base2tone-heath-dark.yaml)**:|<img src='previews/base2tone-heath-dark.yaml.svg' width='300'>|
+|**[Base2tone-lake-dark](base2tone-lake-dark.yaml)**:|<img src='previews/base2tone-lake-dark.yaml.svg' width='300'>|
+|**[Base2tone-lavender-dark](base2tone-lavender-dark.yaml)**:|<img src='previews/base2tone-lavender-dark.yaml.svg' width='300'>|
+|**[Base2tone-mall-dark](base2tone-mall-dark.yaml)**:|<img src='previews/base2tone-mall-dark.yaml.svg' width='300'>|
+|**[Base2tone-meadow-dark](base2tone-meadow-dark.yaml)**:|<img src='previews/base2tone-meadow-dark.yaml.svg' width='300'>|
+|**[Base2tone-morning-dark](base2tone-morning-dark.yaml)**:|<img src='previews/base2tone-morning-dark.yaml.svg' width='300'>|
+|**[Base2tone-motel-dark](base2tone-motel-dark.yaml)**:|<img src='previews/base2tone-motel-dark.yaml.svg' width='300'>|
+|**[Base2tone-pool-dark](base2tone-pool-dark.yaml)**:|<img src='previews/base2tone-pool-dark.yaml.svg' width='300'>|
+|**[Base2tone-porch-dark](base2tone-porch-dark.yaml)**:|<img src='previews/base2tone-porch-dark.yaml.svg' width='300'>|
+|**[Base2tone-sea-dark](base2tone-sea-dark.yaml)**:|<img src='previews/base2tone-sea-dark.yaml.svg' width='300'>|
+|**[Base2tone-space-dark](base2tone-space-dark.yaml)**:|<img src='previews/base2tone-space-dark.yaml.svg' width='300'>|
+|**[Base2tone-suburb-dark](base2tone-suburb-dark.yaml)**:|<img src='previews/base2tone-suburb-dark.yaml.svg' width='300'>|
 |**[Bilibili Dark](bilibili_dark.yaml)**:|<img src='previews/bilibili_dark.yaml.svg' width='300'>|
 |**[Blood Moon](blood_moon.yaml)**:|<img src='previews/blood_moon.yaml.svg' width='300'>|
 |**[Blue Monday](blue_monday.yaml)**:|<img src='previews/blue_monday.yaml.svg' width='300'>|

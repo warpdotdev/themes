@@ -1,0 +1,24 @@
+name: Base2Tone Desert Dark
+accent: '#bc672f'
+background: '#292724'
+foreground: '#ada594'
+details: darker
+terminal_colors:
+  normal:
+    black: '#292724'
+    red: '#816f4b'
+    green: '#ec9255'
+    yellow: '#ffb380'
+    blue: '#957e50'
+    magenta: '#ec9255'
+    cyan: '#ac8e53'
+    white: '#ada594'
+  bright:
+    black: '#7e7767'
+    red: '#f29d63'
+    green: '#3d3a34'
+    yellow: '#615c51'
+    blue: '#908774'
+    magenta: '#ddcba6'
+    cyan: '#e58748'
+    white: '#f2ead9'

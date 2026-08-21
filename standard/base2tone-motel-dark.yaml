@@ -1,0 +1,24 @@
+name: Base2Tone Motel Dark
+accent: '#e24f32'
+background: '#242323'
+foreground: '#a5979a'
+details: darker
+terminal_colors:
+  normal:
+    black: '#242323'
+    red: '#956f76'
+    green: '#f8917c'
+    yellow: '#ffc8bd'
+    blue: '#a7868b'
+    magenta: '#f8917c'
+    cyan: '#b89da2'
+    white: '#a5979a'
+  bright:
+    black: '#766b6c'
+    red: '#ffa28f'
+    green: '#373434'
+    yellow: '#5a5354'
+    blue: '#86797b'
+    magenta: '#dec9cc'
+    cyan: '#f77c64'
+    white: '#f0dbdf'
