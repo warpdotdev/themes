@@ -92,6 +92,8 @@
 |**[Pencil Light](pencil_light.yaml)**:|<img src='previews/pencil_light.yaml.svg' width='300'>|
 |**[Penumbra Dark](penumbra_dark.yaml)**:|<img src='previews/penumbra_dark.yaml.svg' width='300'>|
 |**[Penumbra Light](penumbra_light.yaml)**:|<img src='previews/penumbra_light.yaml.svg' width='300'>|
+|**[Pierre Dark](pierre_dark.yaml)**:|<img src='previews/pierre_dark.yaml.svg' width='300'>|
+|**[Pierre Light](pierre_light.yaml)**:|<img src='previews/pierre_light.yaml.svg' width='300'>|
 |**[Plastic](plastic.yaml)**:|<img src='previews/plastic.yaml.svg' width='300'>|
 |**[Poimandres](poimandres.yaml)**:|<img src='previews/poimandres.yaml.svg' width='300'>|
 |**[Poimandres Alt](poimandres_alt.yaml)**:|<img src='previews/poimandres_alt.yaml.svg' width='300'>|
@@ -107,6 +109,9 @@
 |**[Snazzy Green](snazzy_green.yaml)**:|<img src='previews/snazzy_green.yaml.svg' width='300'>|
 |**[Snazzy Red](snazzy_red.yaml)**:|<img src='previews/snazzy_red.yaml.svg' width='300'>|
 |**[Soft One Dark](soft_one_dark.yaml)**:|<img src='previews/soft_one_dark.yaml.svg' width='300'>|
+|**[Soft Tactile Warp Cream](soft_tactile_warp_cream.yaml)**:|<img src='previews/soft_tactile_warp_cream.yaml.svg' width='300'>|
+|**[Soft Tactile Warp Dark](soft_tactile_warp_dark.yaml)**:|<img src='previews/soft_tactile_warp_dark.yaml.svg' width='300'>|
+|**[Soft Tactile Warp Light](soft_tactile_warp_light.yaml)**:|<img src='previews/soft_tactile_warp_light.yaml.svg' width='300'>|
 |**[Solarized Dark](solarized_dark.yaml)**:|<img src='previews/solarized_dark.yaml.svg' width='300'>|
 |**[Solarized Light](solarized_light.yaml)**:|<img src='previews/solarized_light.yaml.svg' width='300'>|
 |**[Spaceduck](spaceduck.yaml)**:|<img src='previews/spaceduck.yaml.svg' width='300'>|
