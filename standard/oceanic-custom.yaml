@@ -1,0 +1,24 @@
+name: Oceanic Custom
+accent: '#5CCFE6'
+background: '#263238'
+foreground: '#D5DBE5'
+details: darker
+terminal_colors:
+  normal:
+    black: '#01060E'
+    red: '#F28779'
+    green: '#BAE67E'
+    yellow: '#FFD580'
+    blue: '#5CCFE6'
+    magenta: '#D4BFFF'
+    cyan: '#95E6CB'
+    white: '#C7C7C7'
+  bright:
+    black: '#686868'
+    red: '#F28779'
+    green: '#BAE67E'
+    yellow: '#FFD580'
+    blue: '#73D0FF'
+    magenta: '#D4BFFF'
+    cyan: '#95E6CB'
+    white: '#FFFFFF'
