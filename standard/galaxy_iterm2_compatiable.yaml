@@ -1,0 +1,25 @@
+name: Galaxy
+accent: "#5698f6"
+background: "#273747"
+foreground: "#ffffff"
+details: darker
+terminal_colors:
+  normal:
+    black: "#000000"
+    red: "#f9555f"
+    green: "#20b089"
+    yellow: "#fef063"
+    blue: "#5698f6"
+    magenta: "#934d93"
+    cyan: "#1f9ee7"
+    white: "#bbbbbb"
+  bright:
+    black: "#555555"
+    red: "#fa817d"
+    green: "#34bb1e"
+    yellow: "#ffff54"
+    blue: "#589df6"
+    magenta: "#e75699"
+    cyan: "#3979bc"
+    white: "#ffffff"
+cursor: "#bbbbbb"
