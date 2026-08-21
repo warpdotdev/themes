@@ -1,0 +1,27 @@
+# Dusk — warm OLED theme. Deep charcoal background, varied saturated colors.
+# Designed for extended use on OLED/mini-LED displays.
+name: Dusk
+accent: '#E0A554'
+cursor: '#E0A554'
+background: '#1D2021'
+foreground: '#D4BE98'
+details: darker
+terminal_colors:
+  normal:
+    black:   '#3C3836'
+    red:     '#D67E76'
+    green:   '#91C278'
+    yellow:  '#D9AD62'
+    blue:    '#829CD1'
+    magenta: '#D182B4'
+    cyan:    '#71BDAE'
+    white:   '#D4BE98'
+  bright:
+    black:   '#504945'
+    red:     '#ED6D64'
+    green:   '#9ADB6E'
+    yellow:  '#F0BC54'
+    blue:    '#81A9EB'
+    magenta: '#EB7FC7'
+    cyan:    '#6FD6BE'
+    white:   '#E2CCA9'
