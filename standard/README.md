@@ -1,6 +1,7 @@
 |Theme name | Preview|
 | --- | --- |
 |**[Afterglow](afterglow.yaml)**:|<img src='previews/afterglow.yaml.svg' width='300'>|
+|**[Ambience](ambience.yaml)**:|<img src='previews/ambience.yaml.svg' width='300'>|
 |**[Apple Dark](apple_dark.yaml)**:|<img src='previews/apple_dark.yaml.svg' width='300'>|
 |**[Apple Light](apple_light.yaml)**:|<img src='previews/apple_light.yaml.svg' width='300'>|
 |**[Arc Dark](arc_dark.yaml)**:|<img src='previews/arc_dark.yaml.svg' width='300'>|
