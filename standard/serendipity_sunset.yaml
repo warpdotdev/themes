@@ -1,0 +1,24 @@
+name: Serendipity Sunset
+accent: '#d6b4b4'
+background: '#202231'
+foreground: '#dee0ef'
+details: darker
+terminal_colors:
+  normal:
+    black: '#363847'
+    red: '#d1918f'
+    green: '#709bbd'
+    yellow: '#a392dc'
+    blue: '#a0b6e8'
+    magenta: '#aac9d4'
+    cyan: '#d6b4b4'
+    white: '#dee0ef'
+  bright:
+    black: '#6b6d7c'
+    red: '#d1918f'
+    green: '#709bbd'
+    yellow: '#a392dc'
+    blue: '#a0b6e8'
+    magenta: '#aac9d4'
+    cyan: '#d6b4b4'
+    white: '#dee0ef'
