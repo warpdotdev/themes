@@ -1,0 +1,25 @@
+name: 'Hearth Light'
+accent: '#f05a29'
+cursor: '#f05a29'
+background: '#ffffff'
+foreground: '#2d2d33'
+details: lighter
+terminal_colors:
+  bright:
+    black: '#747479'
+    blue: '#48484e'
+    cyan: '#2d2d33'
+    green: '#6f4420'
+    magenta: '#9f2e00'
+    red: '#c0362a'
+    white: '#16161a'
+    yellow: '#d94e22'
+  normal:
+    black: '#2d2d33'
+    blue: '#5d5d63'
+    cyan: '#48484e'
+    green: '#89552a'
+    magenta: '#b23c00'
+    red: '#9f2e00'
+    white: '#5d5d63'
+    yellow: '#b23c00'
