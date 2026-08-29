@@ -1,0 +1,26 @@
+# SeedFlip — Glacier
+# Ice blue precision tools
+# https://seedflip.co
+accent: "#0EA5E9"
+background: "#F8FAFC"
+foreground: "#0F172A"
+details: lighter
+terminal_colors:
+  normal:
+    black: "#c2d4e5"
+    red: "#bd0f0f"
+    green: "#0fbd49"
+    yellow: "#bda00f"
+    blue: "#0f58bd"
+    magenta: "#bd0fbd"
+    cyan: "#0fbdbd"
+    white: "#080d17"
+  bright:
+    black: "#8dadce"
+    red: "#ee2b2b"
+    green: "#2bee6c"
+    yellow: "#eecd2b"
+    blue: "#2b7cee"
+    magenta: "#ee2bee"
+    cyan: "#2beeee"
+    white: "#0F172A"

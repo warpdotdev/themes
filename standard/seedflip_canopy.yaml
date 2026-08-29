@@ -1,0 +1,26 @@
+# SeedFlip — Canopy
+# Energy from the roots.
+# https://seedflip.co
+accent: "#3ECF8E"
+background: "#0F1714"
+foreground: "#EDEDED"
+details: darker
+terminal_colors:
+  normal:
+    black: "#0b110f"
+    red: "#d65c5c"
+    green: "#5cd685"
+    yellow: "#d6c25c"
+    blue: "#5c8fd6"
+    magenta: "#d65cd6"
+    cyan: "#5cd6d6"
+    white: "#fafafa"
+  bright:
+    black: "#2d453c"
+    red: "#e69999"
+    green: "#99e6b2"
+    yellow: "#e6d999"
+    blue: "#99b9e6"
+    magenta: "#e699e6"
+    cyan: "#99e6e6"
+    white: "#FFFFFF"

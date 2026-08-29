@@ -1,0 +1,26 @@
+# SeedFlip — Ember
+# Warmth that moves
+# https://seedflip.co
+accent: "#FF6B3D"
+background: "#0A0A0A"
+foreground: "#EDEDED"
+details: darker
+terminal_colors:
+  normal:
+    black: "#050505"
+    red: "#f04242"
+    green: "#42f07c"
+    yellow: "#f0d342"
+    blue: "#428bf0"
+    magenta: "#f042f0"
+    cyan: "#42f0f0"
+    white: "#fafafa"
+  bright:
+    black: "#303030"
+    red: "#f58989"
+    green: "#89f5ad"
+    yellow: "#f5e389"
+    blue: "#89b6f5"
+    magenta: "#f589f5"
+    cyan: "#89f5f5"
+    white: "#FFFFFF"

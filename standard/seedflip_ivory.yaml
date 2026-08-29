@@ -1,0 +1,26 @@
+# SeedFlip — Ivory
+# Confidence in the details.
+# https://seedflip.co
+accent: "#635BFF"
+background: "#FFFFFF"
+foreground: "#0A2540"
+details: lighter
+terminal_colors:
+  normal:
+    black: "#d9d9d9"
+    red: "#bd0f0f"
+    green: "#0fbd49"
+    yellow: "#bda00f"
+    blue: "#0f58bd"
+    magenta: "#bd0fbd"
+    cyan: "#0fbdbd"
+    white: "#07182a"
+  bright:
+    black: "#b3b3b3"
+    red: "#ee2b2b"
+    green: "#2bee6c"
+    yellow: "#eecd2b"
+    blue: "#2b7cee"
+    magenta: "#ee2bee"
+    cyan: "#2beeee"
+    white: "#0A2540"

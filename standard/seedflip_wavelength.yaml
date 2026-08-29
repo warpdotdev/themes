@@ -1,0 +1,26 @@
+# SeedFlip — Wavelength
+# Deep space developer energy
+# https://seedflip.co
+accent: "#238636"
+background: "#0D1117"
+foreground: "#E6EDF3"
+details: darker
+terminal_colors:
+  normal:
+    black: "#090c10"
+    red: "#d55d5d"
+    green: "#5dd585"
+    yellow: "#d5c15d"
+    blue: "#5d8fd5"
+    magenta: "#d55dd5"
+    cyan: "#5dd5d5"
+    white: "#f7f9fb"
+  bright:
+    black: "#293548"
+    red: "#e59a9a"
+    green: "#9ae5b3"
+    yellow: "#e5d89a"
+    blue: "#9ab9e5"
+    magenta: "#e59ae5"
+    cyan: "#9ae5e5"
+    white: "#FFFFFF"
