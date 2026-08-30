@@ -1,0 +1,28 @@
+# Golden Hour
+accent:
+  left: "#ffff00"
+  right: "#ffd700"
+background:
+  top: "#3d2f1a"
+  bottom: "#0a0a0a"
+details: darker
+foreground: "#fffacd"
+terminal_colors:
+  normal:
+    black: "#3d2f1a"
+    blue: "#1e90ff"
+    cyan: "#ffd700"
+    green: "#adff2f"
+    magenta: "#ff69b4"
+    red: "#ff6347"
+    white: "#fffacd"
+    yellow: "#ffff00"
+  bright:
+    black: "#5d4f3a"
+    blue: "#4da6ff"
+    cyan: "#ffed4e"
+    green: "#c7ff58"
+    magenta: "#ff8fa3"
+    red: "#ff7f7f"
+    white: "#ffffff"
+    yellow: "#ffff66"

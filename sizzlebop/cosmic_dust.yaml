@@ -1,0 +1,28 @@
+# Cosmic Dust
+accent:
+  left: "#0080ff"
+  right: "#8a2be2"
+background:
+  top: "#1a1a3d"
+  bottom: "#0a0a0a"
+details: darker
+foreground: "#f0f8ff"
+terminal_colors:
+  normal:
+    black: "#1a1a3d"
+    blue: "#0080ff"
+    cyan: "#00bfff"
+    green: "#00ff80"
+    magenta: "#8a2be2"
+    red: "#ff4757"
+    white: "#f0f8ff"
+    yellow: "#ffb300"
+  bright:
+    black: "#3a3a5d"
+    blue: "#4da6ff"
+    cyan: "#66d9ff"
+    green: "#66ff99"
+    magenta: "#ba55d3"
+    red: "#ff6b6b"
+    white: "#ffffff"
+    yellow: "#ffd966"

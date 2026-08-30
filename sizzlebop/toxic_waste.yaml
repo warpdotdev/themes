@@ -1,0 +1,28 @@
+# Toxic Waste
+accent:
+  left: "#39ff14"
+  right: "#ffff00"
+background:
+  top: "#1a2e1a"
+  bottom: "#0a0a0a"
+details: darker
+foreground: "#f0fff0"
+terminal_colors:
+  normal:
+    black: "#1a2e1a"
+    blue: "#00bfff"
+    cyan: "#00ffaa"
+    green: "#39ff14"
+    magenta: "#ff00ff"
+    red: "#ff5555"
+    white: "#f0fff0"
+    yellow: "#ffff00"
+  bright:
+    black: "#3a4e3a"
+    blue: "#66d9ff"
+    cyan: "#66ffcc"
+    green: "#66ff44"
+    magenta: "#ff66ff"
+    red: "#ff7777"
+    white: "#ffffff"
+    yellow: "#ffff66"

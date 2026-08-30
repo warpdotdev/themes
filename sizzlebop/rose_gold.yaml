@@ -1,0 +1,28 @@
+# Rose Gold
+accent:
+  left: "#ff69b4"
+  right: "#ffd700"
+background:
+  top: "#3d1a2e"
+  bottom: "#0a0a0a"
+details: darker
+foreground: "#fff0f5"
+terminal_colors:
+  normal:
+    black: "#3d1a2e"
+    blue: "#4169e1"
+    cyan: "#ff69b4"
+    green: "#00ff7f"
+    magenta: "#ff1493"
+    red: "#ff6b6b"
+    white: "#fff0f5"
+    yellow: "#ffd700"
+  bright:
+    black: "#5d3a4e"
+    blue: "#6495ed"
+    cyan: "#ff8fa3"
+    green: "#66ff99"
+    magenta: "#ff69b4"
+    red: "#ff7f7f"
+    white: "#ffffff"
+    yellow: "#ffed4e"

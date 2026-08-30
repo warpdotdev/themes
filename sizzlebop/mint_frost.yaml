@@ -1,0 +1,28 @@
+# Mint Frost
+accent:
+  left: "#00ff7f"
+  right: "#40e0d0"
+background:
+  top: "#1a3d3a"
+  bottom: "#0a0a0a"
+details: darker
+foreground: "#f0ffff"
+terminal_colors:
+  normal:
+    black: "#1a3d3a"
+    blue: "#00bfff"
+    cyan: "#40e0d0"
+    green: "#00ff7f"
+    magenta: "#ff00ff"
+    red: "#ff5555"
+    white: "#f0ffff"
+    yellow: "#ffff44"
+  bright:
+    black: "#3a5d5a"
+    blue: "#66d9ff"
+    cyan: "#7fffd4"
+    green: "#66ff99"
+    magenta: "#ff66ff"
+    red: "#ff7777"
+    white: "#ffffff"
+    yellow: "#ffff77"

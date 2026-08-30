@@ -1,0 +1,28 @@
+# Emerald City
+accent:
+  left: "#00ff00"
+  right: "#00ffff"
+background:
+  top: "#1a3d1a"
+  bottom: "#0a0a0a"
+details: darker
+foreground: "#f0fff0"
+terminal_colors:
+  normal:
+    black: "#1a3d1a"
+    blue: "#0080ff"
+    cyan: "#00ffff"
+    green: "#00ff00"
+    magenta: "#cc00cc"
+    red: "#ff4444"
+    white: "#f0fff0"
+    yellow: "#cccc00"
+  bright:
+    black: "#3a5d3a"
+    blue: "#4da6ff"
+    cyan: "#66ffff"
+    green: "#66ff66"
+    magenta: "#ff66ff"
+    red: "#ff7777"
+    white: "#ffffff"
+    yellow: "#ffff66"

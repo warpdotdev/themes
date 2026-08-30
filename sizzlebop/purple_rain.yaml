@@ -1,0 +1,28 @@
+# Purple Rain
+accent:
+  left: "#8a2be2"
+  right: "#ff00ff"
+background:
+  top: "#2d1b3d"
+  bottom: "#0a0a0a"
+details: darker
+foreground: "#f8f8ff"
+terminal_colors:
+  normal:
+    black: "#2d1b3d"
+    blue: "#6a5acd"
+    cyan: "#da70d6"
+    green: "#98fb98"
+    magenta: "#8a2be2"
+    red: "#ff6b6b"
+    white: "#f8f8ff"
+    yellow: "#daa520"
+  bright:
+    black: "#4d3b5d"
+    blue: "#9370db"
+    cyan: "#ee82ee"
+    green: "#c1ffc1"
+    magenta: "#ba55d3"
+    red: "#ff7f7f"
+    white: "#ffffff"
+    yellow: "#ffff66"

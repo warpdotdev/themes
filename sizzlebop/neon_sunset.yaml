@@ -1,0 +1,28 @@
+# Neon Sunset
+accent:
+  left: "#ff0080"
+  right: "#ff4500"
+background:
+  top: "#2d1b3d"
+  bottom: "#0a0a0a"
+details: darker
+foreground: "#fff5ee"
+terminal_colors:
+  normal:
+    black: "#2d1b3d"
+    blue: "#00bfff"
+    cyan: "#ff6347"
+    green: "#00ff7f"
+    magenta: "#ff0080"
+    red: "#ff4500"
+    white: "#fff5ee"
+    yellow: "#ffd700"
+  bright:
+    black: "#4d3b5d"
+    blue: "#87ceeb"
+    cyan: "#ff7f7f"
+    green: "#98fb98"
+    magenta: "#ff69b4"
+    red: "#ff6b6b"
+    white: "#ffffff"
+    yellow: "#ffff99"

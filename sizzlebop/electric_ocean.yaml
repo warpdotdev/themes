@@ -1,0 +1,28 @@
+# Electric Ocean
+accent:
+  left: "#00ffff"
+  right: "#0080ff"
+background:
+  top: "#1e3a5f"
+  bottom: "#0a0a0a"
+details: darker
+foreground: "#e6f3ff"
+terminal_colors:
+  normal:
+    black: "#1e3a5f"
+    blue: "#0080ff"
+    cyan: "#00ffff"
+    green: "#00ff80"
+    magenta: "#8a2be2"
+    red: "#ff4757"
+    white: "#e6f3ff"
+    yellow: "#ffd700"
+  bright:
+    black: "#3e5a7f"
+    blue: "#4da6ff"
+    cyan: "#66ffff"
+    green: "#66ff99"
+    magenta: "#ba55d3"
+    red: "#ff6b6b"
+    white: "#ffffff"
+    yellow: "#ffff66"

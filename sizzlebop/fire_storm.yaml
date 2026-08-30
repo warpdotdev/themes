@@ -1,0 +1,28 @@
+# Fire Storm
+accent:
+  left: "#ff0000"
+  right: "#ff4500"
+background:
+  top: "#3d1a1a"
+  bottom: "#0a0a0a"
+details: darker
+foreground: "#fff5ee"
+terminal_colors:
+  normal:
+    black: "#3d1a1a"
+    blue: "#4169e1"
+    cyan: "#ff6347"
+    green: "#32cd32"
+    magenta: "#ff1493"
+    red: "#ff0000"
+    white: "#fff5ee"
+    yellow: "#ffd700"
+  bright:
+    black: "#5d3a3a"
+    blue: "#6495ed"
+    cyan: "#ff7f7f"
+    green: "#90ee90"
+    magenta: "#ff69b4"
+    red: "#ff4444"
+    white: "#ffffff"
+    yellow: "#ffff66"
