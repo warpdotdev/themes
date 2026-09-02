@@ -1,0 +1,25 @@
+name: Retro Terminal
+accent: '#00ff00'
+cursor: '#00ff41'
+background: '#000000'
+foreground: '#00ff00'
+details: darker
+terminal_colors:
+  bright:
+    black: '#003300'
+    blue: '#00ffcc'
+    cyan: '#00ffff'
+    green: '#00ff41'
+    magenta: '#00ff88'
+    red: '#00ff00'
+    white: '#ccffcc'
+    yellow: '#88ff00'
+  normal:
+    black: '#002200'
+    blue: '#00cc88'
+    cyan: '#00ccaa'
+    green: '#00ff00'
+    magenta: '#00dd66'
+    red: '#00dd00'
+    white: '#88ff88'
+    yellow: '#66dd00'
