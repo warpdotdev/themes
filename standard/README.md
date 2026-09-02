@@ -16,6 +16,7 @@
 |**[Breeze](breeze.yaml)**:|<img src='previews/breeze.yaml.svg' width='300'>|
 |**[Campbell](campbell.yaml)**:|<img src='previews/campbell.yaml.svg' width='300'>|
 |**[Catppuccin](catppuccin.yaml)**:|<img src='previews/catppuccin.yaml.svg' width='300'>|
+|**[Catppuccin Latte Glass](catppuccin_latte_glass.yml)**:|<img src='previews/catppuccin_latte_glass.yml.svg' width='300'>|
 |**[Challenger Deep](challenger_deep.yaml)**:|<img src='previews/challenger_deep.yaml.svg' width='300'>|
 |**[Cherry](cherry.yaml)**:|<img src='previews/cherry.yaml.svg' width='300'>|
 |**[Classic Vivid](classic_vivid.yaml)**:|<img src='previews/classic_vivid.yaml.svg' width='300'>|
