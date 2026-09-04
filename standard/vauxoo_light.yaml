@@ -1,0 +1,25 @@
+# Vauxoo Light — Vauxoo brand palette (https://www.vauxoo.com/assets)
+name: 'Vauxoo Light'
+accent: '#AC0340'
+background: '#FFFFFF'
+foreground: '#282C2F'
+details: lighter
+terminal_colors:
+  normal:
+    black: '#282C2F'
+    red: '#AC0340'
+    green: '#2E7D46'
+    yellow: '#B77800'
+    blue: '#2E6E9E'
+    magenta: '#67498E'
+    cyan: '#3D7A99'
+    white: '#D6DAE0'
+  bright:
+    black: '#6E7379'
+    red: '#E11E4D'
+    green: '#3AA55D'
+    yellow: '#E4A900'
+    blue: '#5498CC'
+    magenta: '#9B7BC8'
+    cyan: '#82BCCE'
+    white: '#282C2F'
