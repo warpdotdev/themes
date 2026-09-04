@@ -1,0 +1,25 @@
+# Vauxoo Dark — Vauxoo brand palette (https://www.vauxoo.com/assets)
+name: 'Vauxoo Dark'
+accent: '#AC0340'
+background: '#282C2F'
+foreground: '#D6DAE0'
+details: darker
+terminal_colors:
+  normal:
+    black: '#282C2F'
+    red: '#E11E4D'
+    green: '#3AA55D'
+    yellow: '#E4A900'
+    blue: '#5498CC'
+    magenta: '#9B7BC8'
+    cyan: '#82BCCE'
+    white: '#D6DAE0'
+  bright:
+    black: '#6E7379'
+    red: '#F0537A'
+    green: '#5BC57F'
+    yellow: '#E9BE44'
+    blue: '#82BCCE'
+    magenta: '#B79BDB'
+    cyan: '#A5D3E0'
+    white: '#FFFFFF'

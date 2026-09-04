@@ -1,0 +1,25 @@
+# Vauxoo Vakyro — Vauxoo brand palette (https://www.vauxoo.com/assets)
+name: 'Vauxoo Vakyro'
+accent: '#7A5FA0'
+background: '#201D24'
+foreground: '#E8E3EE'
+details: darker
+terminal_colors:
+  normal:
+    black: '#1C1B19'
+    red: '#E15A7C'
+    green: '#3AA55D'
+    yellow: '#E9BE44'
+    blue: '#9B7BC8'
+    magenta: '#F3C5D9'
+    cyan: '#82BCCE'
+    white: '#E8E3EE'
+  bright:
+    black: '#7C7385'
+    red: '#F0537A'
+    green: '#5BC57F'
+    yellow: '#F2D06B'
+    blue: '#B79BDB'
+    magenta: '#F8D9E6'
+    cyan: '#A5D3E0'
+    white: '#FFFFFF'
