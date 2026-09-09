@@ -1,0 +1,25 @@
+name: 'Hearth Dark'
+accent: '#f05a29'
+cursor: '#f05a29'
+background: '#0a0a0b'
+foreground: '#d7d7db'
+details: darker
+terminal_colors:
+  bright:
+    black: '#626269'
+    blue: '#c4c4c9'
+    cyan: '#d7d7db'
+    green: '#e8cdb6'
+    magenta: '#f9926a'
+    red: '#f87c49'
+    white: '#fafafb'
+    yellow: '#f87c49'
+  normal:
+    black: '#0a0a0b'
+    blue: '#a0a0a6'
+    cyan: '#b6b6bb'
+    green: '#dfbda0'
+    magenta: '#f87c49'
+    red: '#f66335'
+    white: '#d7d7db'
+    yellow: '#f05a29'
