@@ -59,6 +59,7 @@
 |**[Iterm](iterm.yaml)**:|<img src='previews/iterm.yaml.svg' width='300'>|
 |**[Jellybeans](jellybeans.yaml)**:|<img src='previews/jellybeans.yaml.svg' width='300'>|
 |**[Kanagawa](kanagawa.yaml)**:|<img src='previews/kanagawa.yaml.svg' width='300'>|
+|**[Kiro-dark](kiro-dark.yaml)**:|<img src='previews/kiro-dark.yaml.svg' width='300'>|
 |**[Konsole Linux](konsole_linux.yaml)**:|<img src='previews/konsole_linux.yaml.svg' width='300'>|
 |**[Laser](laser.yaml)**:|<img src='previews/laser.yaml.svg' width='300'>|
 |**[Lcars](lcars.yaml)**:|<img src='previews/lcars.yaml.svg' width='300'>|
