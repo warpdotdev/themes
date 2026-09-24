@@ -1,0 +1,24 @@
+name: Nord Light
+accent: "#88c0d0" # nord8
+background: "#e5e9f0" # nord5
+details: darker
+foreground: "#2e3440" # nord0
+terminal_colors:
+  normal:
+    black: "#3b4252" # nord1
+    blue: "#5e81ac" # nord10
+    cyan: "#88c0d0" # nord8
+    green: "#a3be8c" # nord14
+    magenta: "#b48ead" # nord15
+    red: "#bf616a" # nord11
+    white: "#e5e9f0" # nord5
+    yellow: "#ebcb8b" # nord13
+  bright:
+    black: "#4c566a" # nord3
+    blue: "#81a1c1" # nord9
+    cyan: "#8fbcbb" # nord7
+    green: "#a3be8c" # nord14
+    magenta: "#b48ead" # nord15
+    red: "#bf616a" # nord11
+    white: "#eceff4" # nord6
+    yellow: "#ebcb8b" # nord13
