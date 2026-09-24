@@ -1,0 +1,26 @@
+name: Arctic Transport
+accent: '#ff6b35'  # Warm orange from vehicle lighting
+cursor: '#ff8c42'  # Bright orange cursor
+background: '#1a2332'  # Deep blue evening sky
+foreground: '#e8e8e8'  # Light gray like snow
+details: darker
+
+terminal_colors:
+  bright:
+    black: '#34495e'    # Lighter dark gray
+    blue: '#5dade2'     # Bright sky blue
+    cyan: '#48c9b0'     # Bright cyan
+    green: '#58d68d'    # Bright green
+    magenta: '#bb8fce'  # Bright purple
+    red: '#ec7063'      # Bright red
+    white: '#ffffff'    # Pure white
+    yellow: '#f7dc6f'   # Bright yellow
+  normal:
+    black: '#2c3e50'    # Dark blue-gray
+    blue: '#3498db'     # Sky blue
+    cyan: '#1abc9c'     # Teal
+    green: '#27ae60'    # Forest green
+    magenta: '#9b59b6'  # Purple
+    red: '#e74c3c'      # Red
+    white: '#ecf0f1'    # Off-white
+    yellow: '#f39c12'   # Orange-yellow
