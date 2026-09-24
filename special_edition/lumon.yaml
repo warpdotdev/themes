@@ -2,7 +2,7 @@ background: "#05333F"
 accent: "#0DA6B0"
 foreground: "#A8E2E8"
 background_image:
-  path: lumon.jpg
+  path: special_edition/lumon.jpg
   opacity: 100
 details: darker
 terminal_colors:
