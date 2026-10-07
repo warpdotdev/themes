@@ -1,0 +1,26 @@
+name: orng
+# Cloudflare-inspired dark theme, ported from the orng VS Code theme
+# https://github.com/kafwe/orng
+accent: '#EC5B2B'
+background: '#161A22'
+foreground: '#EEEEEE'
+details: darker
+terminal_colors:
+  normal:
+    black: '#161A22'
+    red: '#E06C75'
+    green: '#7FD88F'
+    yellow: '#E5C07B'
+    blue: '#56B6C2'
+    magenta: '#EE7948'
+    cyan: '#56B6C2'
+    white: '#EEEEEE'
+  bright:
+    black: '#606060'
+    red: '#F28B93'
+    green: '#A3E8B0'
+    yellow: '#F0D49A'
+    blue: '#7CCCD5'
+    magenta: '#F5A07A'
+    cyan: '#7CCCD5'
+    white: '#FFFFFF'
