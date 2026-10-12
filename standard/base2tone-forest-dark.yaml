@@ -1,0 +1,24 @@
+name: Base2Tone Forest Dark
+accent: '#a2b34d'
+background: '#2a2d2a'
+foreground: '#a1b5a1'
+details: darker
+terminal_colors:
+  normal:
+    black: '#2a2d2a'
+    red: '#5c705c'
+    green: '#bfd454'
+    yellow: '#e5fb79'
+    blue: '#687d68'
+    magenta: '#bfd454'
+    cyan: '#8fae8f'
+    white: '#a1b5a1'
+  bright:
+    black: '#535f53'
+    red: '#cbe25a'
+    green: '#353b35'
+    yellow: '#485148'
+    blue: '#5e6e5e'
+    magenta: '#c8e4c8'
+    cyan: '#b1c44f'
+    white: '#f0fff0'

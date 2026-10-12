@@ -1,0 +1,24 @@
+name: Base2Tone Field Dark
+accent: '#00943e'
+background: '#18201e'
+foreground: '#8ea4a0'
+details: darker
+terminal_colors:
+  normal:
+    black: '#18201e'
+    red: '#0fbda0'
+    green: '#3be381'
+    yellow: '#85ffb8'
+    blue: '#25d0b4'
+    magenta: '#3be381'
+    cyan: '#40ddc3'
+    white: '#8ea4a0'
+  bright:
+    black: '#5a6d6a'
+    red: '#55ec94'
+    green: '#242e2c'
+    yellow: '#42524f'
+    blue: '#667a77'
+    magenta: '#88f2e0'
+    cyan: '#25d46e'
+    white: '#a8fff1'

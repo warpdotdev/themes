@@ -1,0 +1,24 @@
+name: Base2Tone Sea Dark
+accent: '#067953'
+background: '#1d262f'
+foreground: '#a1aab5'
+details: darker
+terminal_colors:
+  normal:
+    black: '#1d262f'
+    red: '#34659d'
+    green: '#0fc78a'
+    yellow: '#47ebb4'
+    blue: '#57718e'
+    magenta: '#0fc78a'
+    cyan: '#6e9bcf'
+    white: '#a1aab5'
+  bright:
+    black: '#4a5f78'
+    red: '#14e19d'
+    green: '#27323f'
+    yellow: '#405368'
+    blue: '#738191'
+    magenta: '#afd4fe'
+    cyan: '#0db57d'
+    white: '#ebf4ff'

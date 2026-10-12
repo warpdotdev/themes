@@ -1,0 +1,24 @@
+name: Base2Tone Morning Dark
+accent: '#896724'
+background: '#232834'
+foreground: '#8d95a5'
+details: darker
+terminal_colors:
+  normal:
+    black: '#232834'
+    red: '#1659df'
+    green: '#b29762'
+    yellow: '#e5ddcd'
+    blue: '#3d75e6'
+    magenta: '#b29762'
+    cyan: '#728fcb'
+    white: '#8d95a5'
+  bright:
+    black: '#656e81'
+    red: '#c6b28b'
+    green: '#31363f'
+    yellow: '#4f5664'
+    blue: '#707a8f'
+    magenta: '#b7c9eb'
+    cyan: '#9a7c42'
+    white: '#dee6f7'

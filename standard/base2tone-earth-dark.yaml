@@ -1,0 +1,24 @@
+name: Base2Tone Earth Dark
+accent: '#9c8349'
+background: '#322d29'
+foreground: '#b5a9a1'
+details: darker
+terminal_colors:
+  normal:
+    black: '#322d29'
+    red: '#816d5f'
+    green: '#d9b154'
+    yellow: '#fcc440'
+    blue: '#88786d'
+    magenta: '#d9b154'
+    cyan: '#967e6e'
+    white: '#b5a9a1'
+  bright:
+    black: '#6a5f58'
+    red: '#e6b84d'
+    green: '#3f3a37'
+    yellow: '#5b534d'
+    blue: '#796b63'
+    magenta: '#dfb99f'
+    cyan: '#cda956'
+    white: '#fff3eb'

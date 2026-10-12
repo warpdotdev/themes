@@ -1,0 +1,24 @@
+name: Base2Tone Space Dark
+accent: '#b25424'
+background: '#24242e'
+foreground: '#a1a1b5'
+details: darker
+terminal_colors:
+  normal:
+    black: '#24242e'
+    red: '#7676f4'
+    green: '#ec7336'
+    yellow: '#fe8c52'
+    blue: '#767693'
+    magenta: '#ec7336'
+    cyan: '#8a8aad'
+    white: '#a1a1b5'
+  bright:
+    black: '#5b5b76'
+    red: '#f37b3f'
+    green: '#333342'
+    yellow: '#515167'
+    blue: '#737391'
+    magenta: '#cecee3'
+    cyan: '#e66e33'
+    white: '#ebebff'

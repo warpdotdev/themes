@@ -1,0 +1,24 @@
+name: Base2Tone Garden Dark
+accent: '#bd5d0f'
+background: '#1e1f1e'
+foreground: '#969c96'
+details: darker
+terminal_colors:
+  normal:
+    black: '#1e1f1e'
+    red: '#3fac39'
+    green: '#db9257'
+    yellow: '#e0cab8'
+    blue: '#4cb946'
+    magenta: '#db9257'
+    cyan: '#6bcc66'
+    white: '#969c96'
+  bright:
+    black: '#5d605c'
+    red: '#dba070'
+    green: '#2b2c2a'
+    yellow: '#505350'
+    blue: '#696d69'
+    magenta: '#b7e3b5'
+    cyan: '#dd843c'
+    white: '#dcf0db'

@@ -1,0 +1,24 @@
+name: Base2Tone Heath Dark
+accent: '#995900'
+background: '#222022'
+foreground: '#9e999f'
+details: darker
+terminal_colors:
+  normal:
+    black: '#222022'
+    red: '#8f6c93'
+    green: '#cc8c33'
+    yellow: '#ffd599'
+    blue: '#9a819c'
+    magenta: '#cc8c33'
+    cyan: '#cb79d2'
+    white: '#9e999f'
+  bright:
+    black: '#635f63'
+    red: '#d9b98c'
+    green: '#2f2d2f'
+    yellow: '#575158'
+    blue: '#6f6b70'
+    magenta: '#eaa8f0'
+    cyan: '#c38022'
+    white: '#fdebff'

@@ -1,0 +1,24 @@
+name: Base2Tone Drawbridge Dark
+accent: '#289dbd'
+background: '#1b1f32'
+foreground: '#9094a7'
+details: darker
+terminal_colors:
+  normal:
+    black: '#1b1f32'
+    red: '#627af4'
+    green: '#67c9e4'
+    yellow: '#99e9ff'
+    blue: '#7289fd'
+    magenta: '#67c9e4'
+    cyan: '#8b9efd'
+    white: '#9094a7'
+  bright:
+    black: '#51587b'
+    red: '#75d5f0'
+    green: '#252a41'
+    yellow: '#444b6f'
+    blue: '#5e6587'
+    magenta: '#c3cdfe'
+    cyan: '#5cbcd6'
+    white: '#e1e6ff'

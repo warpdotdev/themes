@@ -1,0 +1,24 @@
+name: Base2Tone Lavender Dark
+accent: '#b042ff'
+background: '#201d2a'
+foreground: '#9992b0'
+details: darker
+terminal_colors:
+  normal:
+    black: '#201d2a'
+    red: '#9375f5'
+    green: '#d294ff'
+    yellow: '#ecd1ff'
+    blue: '#a286fd'
+    magenta: '#d294ff'
+    cyan: '#b5a0fe'
+    white: '#9992b0'
+  bright:
+    black: '#625a7c'
+    red: '#dba8ff'
+    green: '#2c2839'
+    yellow: '#4b455f'
+    blue: '#6e658b'
+    magenta: '#dcd2fe'
+    cyan: '#ca80ff'
+    white: '#efebff'
