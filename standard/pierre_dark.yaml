@@ -1,0 +1,30 @@
+# Pierre Dark theme
+# Source: https://github.com/pierrecomputer/theme
+# Accent color for UI elements
+accent: "#009fff"
+# Terminal background color
+background: "#070707"
+# Whether the theme is lighter or darker.
+details: darker
+# The foreground color.
+foreground: "#fbfbfb"
+# Ansi escape colors.
+terminal_colors:
+  bright:
+    black: "#141415"
+    red: "#ff2e3f"
+    green: "#0dbe4e"
+    yellow: "#ffca00"
+    blue: "#009fff"
+    magenta: "#c635e4"
+    cyan: "#08c0ef"
+    white: "#c6c6c8"
+  normal:
+    black: "#141415"
+    red: "#ff2e3f"
+    green: "#0dbe4e"
+    yellow: "#ffca00"
+    blue: "#009fff"
+    magenta: "#c635e4"
+    cyan: "#08c0ef"
+    white: "#c6c6c8"
