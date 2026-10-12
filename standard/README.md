@@ -1,5 +1,6 @@
 |Theme name | Preview|
 | --- | --- |
+|**[C64](C64.yaml)**:|<img src='previews/C64.yaml.svg' width='300'>|
 |**[Afterglow](afterglow.yaml)**:|<img src='previews/afterglow.yaml.svg' width='300'>|
 |**[Apple Dark](apple_dark.yaml)**:|<img src='previews/apple_dark.yaml.svg' width='300'>|
 |**[Apple Light](apple_light.yaml)**:|<img src='previews/apple_light.yaml.svg' width='300'>|
