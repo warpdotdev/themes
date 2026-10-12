@@ -38,7 +38,7 @@ blue
 magenta
 </text><text x="235" y="85" fill="#b15f4a" class="Dynamic" font-family="monospace" font-size=".6em">
 cyan
-</text><text x="260" y="85" fill="#eee" class="Dynamic" font-family="monospace" font-size=".6em">
+</text><text x="260" y="85" fill="#eeeeee" class="Dynamic" font-family="monospace" font-size=".6em">
 white
 </text><path stroke="#d0d0d0" d="M0 95h300" class="Dynamic" style="stroke-width:.2"/><text x="15" y="110" fill="#ba8cfc" class="Dynamic" font-family="monospace" font-size=".6em">
 ~/project

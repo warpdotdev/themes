@@ -24,17 +24,17 @@ cyan
 white
 </text><text x="15" y="85" fill="#f1eff8" class="Dynamic" font-family="monospace" font-size=".6em">
 bright:
-</text><text x="55" y="85" fill="#669" class="Dynamic" font-family="monospace" font-size=".6em">
+</text><text x="55" y="85" fill="#666699" class="Dynamic" font-family="monospace" font-size=".6em">
 black
 </text><text x="85" y="85" fill="#efe4a1" class="Dynamic" font-family="monospace" font-size=".6em">
 red
-</text><text x="105" y="85" fill="#639" class="Dynamic" font-family="monospace" font-size=".6em">
+</text><text x="105" y="85" fill="#663399" class="Dynamic" font-family="monospace" font-size=".6em">
 green
 </text><text x="135" y="85" fill="#383a62" class="Dynamic" font-family="monospace" font-size=".6em">
 yellow
 </text><text x="170" y="85" fill="#a0a0c5" class="Dynamic" font-family="monospace" font-size=".6em">
 blue
-</text><text x="195" y="85" fill="#ccf" class="Dynamic" font-family="monospace" font-size=".6em">
+</text><text x="195" y="85" fill="#ccccff" class="Dynamic" font-family="monospace" font-size=".6em">
 magenta
 </text><text x="235" y="85" fill="#ff79c6" class="Dynamic" font-family="monospace" font-size=".6em">
 cyan

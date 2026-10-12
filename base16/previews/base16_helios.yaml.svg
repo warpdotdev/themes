@@ -34,7 +34,7 @@ green
 yellow
 </text><text x="170" y="85" fill="#cdcdcd" class="Dynamic" font-family="monospace" font-size=".6em">
 blue
-</text><text x="195" y="85" fill="#ddd" class="Dynamic" font-family="monospace" font-size=".6em">
+</text><text x="195" y="85" fill="#dddddd" class="Dynamic" font-family="monospace" font-size=".6em">
 magenta
 </text><text x="235" y="85" fill="#c85e0d" class="Dynamic" font-family="monospace" font-size=".6em">
 cyan
