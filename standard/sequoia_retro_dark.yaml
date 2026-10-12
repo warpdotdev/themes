@@ -1,0 +1,24 @@
+name: Sequoia Retro-Dark
+accent: '#a27e57'
+background: '#0f1014'
+foreground: '#868690'
+details: darker
+terminal_colors:
+  normal:
+    black: '#131317'
+    red: '#829fa7'
+    green: '#648f68'
+    yellow: '#da674b'
+    blue: '#5c87a4'
+    magenta: '#e8b246'
+    cyan: '#a27e57'
+    white: '#868690'
+  bright:
+    black: '#575861'
+    red: '#e8b246'
+    green: '#648f68'
+    yellow: '#da674b'
+    blue: '#5c87a4'
+    magenta: '#829fa7'
+    cyan: '#a27e57'
+    white: '#868690'
