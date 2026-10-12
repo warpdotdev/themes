@@ -1,0 +1,27 @@
+name: Grank
+accent: '#4EC9B0'  # Teal accent from screenshot
+cursor: '#C586C0'  # Purple cursor
+background: '#1E1E1E'  # Dark background from screenshot
+foreground: '#D4D4D4'  # Light gray foreground text
+details: darker  # Dark theme
+
+terminal_colors:
+  normal:
+    black: '#000000'   # Dark background
+    red: '#F44747'     # Error red
+    green: '#4EC9B0'   # Teal (useState, useEffect)
+    yellow: '#CE9178'  # Gold/orange (string literals)
+    blue: '#569CD6'    # Blue (keywords)
+    magenta: '#C586C0' # Purple (import, from, interface)
+    cyan: '#9CDCFE'    # Light blue (variable names)
+    white: '#D4D4D4'   # Light gray (basic text)
+  
+  bright:
+    black: '#2D2D2D'   # Slightly lighter background
+    red: '#FF6B6B'     # Brighter red
+    green: '#6FCFB0'   # Brighter teal
+    yellow: '#DCDCAA'  # Brighter gold (function names)
+    blue: '#6FB9FF'    # Brighter blue
+    magenta: '#D7BAFF' # Brighter purple
+    cyan: '#B5DCFE'    # Brighter cyan
+    white: '#FFFFFF'   # Pure white
