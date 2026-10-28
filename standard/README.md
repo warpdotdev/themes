@@ -1,6 +1,8 @@
 |Theme name | Preview|
 | --- | --- |
 |**[Afterglow](afterglow.yaml)**:|<img src='previews/afterglow.yaml.svg' width='300'>|
+|**[Alxpro Dark](alxpro_dark.yaml)**:|<img src='previews/alxpro_dark.yaml.svg' width='300'>|
+|**[Alxpro Light](alxpro_light.yaml)**:|<img src='previews/alxpro_light.yaml.svg' width='300'>|
 |**[Apple Dark](apple_dark.yaml)**:|<img src='previews/apple_dark.yaml.svg' width='300'>|
 |**[Apple Light](apple_light.yaml)**:|<img src='previews/apple_light.yaml.svg' width='300'>|
 |**[Arc Dark](arc_dark.yaml)**:|<img src='previews/arc_dark.yaml.svg' width='300'>|
@@ -105,6 +107,9 @@
 |**[Snazzy Green](snazzy_green.yaml)**:|<img src='previews/snazzy_green.yaml.svg' width='300'>|
 |**[Snazzy Red](snazzy_red.yaml)**:|<img src='previews/snazzy_red.yaml.svg' width='300'>|
 |**[Soft One Dark](soft_one_dark.yaml)**:|<img src='previews/soft_one_dark.yaml.svg' width='300'>|
+|**[Soft Tactile Warp Cream](soft_tactile_warp_cream.yaml)**:|<img src='previews/soft_tactile_warp_cream.yaml.svg' width='300'>|
+|**[Soft Tactile Warp Dark](soft_tactile_warp_dark.yaml)**:|<img src='previews/soft_tactile_warp_dark.yaml.svg' width='300'>|
+|**[Soft Tactile Warp Light](soft_tactile_warp_light.yaml)**:|<img src='previews/soft_tactile_warp_light.yaml.svg' width='300'>|
 |**[Solarized Dark](solarized_dark.yaml)**:|<img src='previews/solarized_dark.yaml.svg' width='300'>|
 |**[Solarized Light](solarized_light.yaml)**:|<img src='previews/solarized_light.yaml.svg' width='300'>|
 |**[Spaceduck](spaceduck.yaml)**:|<img src='previews/spaceduck.yaml.svg' width='300'>|
@@ -129,6 +134,6 @@
 |**[Xterm](xterm.yaml)**:|<img src='previews/xterm.yaml.svg' width='300'>|
 |**[Zenbones Dark](zenbones_dark.yaml)**:|<img src='previews/zenbones_dark.yaml.svg' width='300'>|
 |**[Zenbones Light](zenbones_light.yaml)**:|<img src='previews/zenbones_light.yaml.svg' width='300'>|
-|**[Zenburn Colorblind High Contrast](zenburn_colorblind_high_contrast.yaml)**:|<img src='previews/zenburn_colorblind_high_contrast.yaml.svg' width='300'>|
-|**[Zenburn Colorblind](zenburn_colorblind.yaml)**:|<img src='previews/zenburn_colorblind.yaml.svg' width='300'>|
 |**[Zenburn](zenburn.yaml)**:|<img src='previews/zenburn.yaml.svg' width='300'>|
+|**[Zenburn Colorblind](zenburn_colorblind.yaml)**:|<img src='previews/zenburn_colorblind.yaml.svg' width='300'>|
+|**[Zenburn Colorblind High Contrast](zenburn_colorblind_high_contrast.yaml)**:|<img src='previews/zenburn_colorblind_high_contrast.yaml.svg' width='300'>|
