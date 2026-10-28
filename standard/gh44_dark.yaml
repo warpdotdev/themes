@@ -1,0 +1,25 @@
+name: gh44 Dark
+accent: '#E49B80'
+cursor: '#E49B80'
+background: '#1E1F22'
+foreground: '#DFE1E5'
+details: darker
+terminal_colors:
+  normal:
+    black: '#3A3C41'
+    red: '#EB6F6F'
+    green: '#B8C5AC'
+    yellow: '#DDBE8E'
+    blue: '#9FB7CC'
+    magenta: '#BBA8D9'
+    cyan: '#9CC4C0'
+    white: '#DFE1E5'
+  bright:
+    black: '#6F737A'
+    red: '#F09393'
+    green: '#CAD4C1'
+    yellow: '#E6CEAA'
+    blue: '#B7C9D9'
+    magenta: '#CCBEE3'
+    cyan: '#B5D3D0'
+    white: '#F2F3F5'

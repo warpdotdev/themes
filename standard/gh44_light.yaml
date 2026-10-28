@@ -1,0 +1,25 @@
+name: gh44 Light
+accent: '#A9502F'
+cursor: '#A9502F'
+background: '#FAF7F3'
+foreground: '#2B2D30'
+details: lighter
+terminal_colors:
+  normal:
+    black: '#2B2D30'
+    red: '#C23B32'
+    green: '#5E7350'
+    yellow: '#8C6A2E'
+    blue: '#3F6A8C'
+    magenta: '#6F58A0'
+    cyan: '#3D7A75'
+    white: '#D2C4B6'
+  bright:
+    black: '#6E6A66'
+    red: '#9F3029'
+    green: '#4D5E42'
+    yellow: '#735726'
+    blue: '#345773'
+    magenta: '#5B4883'
+    cyan: '#326460'
+    white: '#FFFFFF'
