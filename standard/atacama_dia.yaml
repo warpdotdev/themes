@@ -1,0 +1,26 @@
+# Atacama Theme · Atacama Día · MIT · commente.me
+name: Atacama Día
+accent: '#005278'
+cursor: '#005278'
+background: '#F4F6F7'
+foreground: '#1A1A1A'
+details: lighter
+terminal_colors:
+  normal:
+    black: '#1A1A1A'
+    red: '#B3123F'
+    green: '#3F7A1F'
+    yellow: '#8A5A00'
+    blue: '#005278'
+    magenta: '#9B2C6B'
+    cyan: '#1F7A5C'
+    white: '#DDE4E8'
+  bright:
+    black: '#5C6D75'
+    red: '#D11F52'
+    green: '#4E9427'
+    yellow: '#B37A00'
+    blue: '#1F6F96'
+    magenta: '#B8407F'
+    cyan: '#279472'
+    white: '#FFFFFF'

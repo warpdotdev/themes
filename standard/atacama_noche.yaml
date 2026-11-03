@@ -1,0 +1,26 @@
+# Atacama Theme · Atacama Noche · MIT · commente.me
+name: Atacama Noche
+accent: '#FFBD38'
+cursor: '#FFBD38'
+background: '#0B1820'
+foreground: '#DDE4E8'
+details: darker
+terminal_colors:
+  normal:
+    black: '#0B1820'
+    red: '#FF5C86'
+    green: '#95BF47'
+    yellow: '#FFBD38'
+    blue: '#7FBBD8'
+    magenta: '#F7A1B8'
+    cyan: '#8ED6CF'
+    white: '#DDE4E8'
+  bright:
+    black: '#5E7380'
+    red: '#FF86A6'
+    green: '#B3D67A'
+    yellow: '#FFCA5F'
+    blue: '#A9D4EA'
+    magenta: '#FAC0CF'
+    cyan: '#B5E3C9'
+    white: '#FFFFFF'
