@@ -5,6 +5,9 @@
 |**[Apple Light](apple_light.yaml)**:|<img src='previews/apple_light.yaml.svg' width='300'>|
 |**[Arc Dark](arc_dark.yaml)**:|<img src='previews/arc_dark.yaml.svg' width='300'>|
 |**[Argonaut](argonaut.yaml)**:|<img src='previews/argonaut.yaml.svg' width='300'>|
+|**[Atacama Azul](atacama_azul.yaml)**:|<img src='previews/atacama_azul.yaml.svg' width='300'>|
+|**[Atacama Dia](atacama_dia.yaml)**:|<img src='previews/atacama_dia.yaml.svg' width='300'>|
+|**[Atacama Noche](atacama_noche.yaml)**:|<img src='previews/atacama_noche.yaml.svg' width='300'>|
 |**[Avirage](avirage.yaml)**:|<img src='previews/avirage.yaml.svg' width='300'>|
 |**[Ayu Dark](ayu_dark.yaml)**:|<img src='previews/ayu_dark.yaml.svg' width='300'>|
 |**[Ayu Light](ayu_light.yaml)**:|<img src='previews/ayu_light.yaml.svg' width='300'>|
