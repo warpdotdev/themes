@@ -136,6 +136,8 @@
 |**[Zacess High Contrast Dark](zacess_high_contrast_dark.yaml)**:|<img src='previews/zacess_high_contrast_dark.yaml.svg' width='300'>|
 |**[Zacess High Contrast Light](zacess_high_contrast_light.yaml)**:|<img src='previews/zacess_high_contrast_light.yaml.svg' width='300'>|
 |**[Zacess Light](zacess_light.yaml)**:|<img src='previews/zacess_light.yaml.svg' width='300'>|
+|**[Zacess Warm Dark](zacess_warm_dark.yaml)**:|<img src='previews/zacess_warm_dark.yaml.svg' width='300'>|
+|**[Zacess Warm Light](zacess_warm_light.yaml)**:|<img src='previews/zacess_warm_light.yaml.svg' width='300'>|
 |**[Zacess Yellow On Black](zacess_yellow_on_black.yaml)**:|<img src='previews/zacess_yellow_on_black.yaml.svg' width='300'>|
 |**[Zenburn Colorblind High Contrast](zenburn_colorblind_high_contrast.yaml)**:|<img src='previews/zenburn_colorblind_high_contrast.yaml.svg' width='300'>|
 |**[Zenburn Colorblind](zenburn_colorblind.yaml)**:|<img src='previews/zenburn_colorblind.yaml.svg' width='300'>|
