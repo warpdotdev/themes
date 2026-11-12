@@ -1,0 +1,25 @@
+# Zacess Yellow on Black, from Zacess Themes (MIT): https://github.com/zacesshq/themes
+name: Zacess Yellow on Black
+accent: '#ffeb3b'
+background: '#000000'
+foreground: '#ffeb3b'
+details: darker
+terminal_colors:
+  normal:
+    black: '#a3a3a3'
+    red: '#ffa79b'
+    green: '#01dc3f'
+    yellow: '#edb618'
+    blue: '#90c1ff'
+    magenta: '#fd9cf8'
+    cyan: '#1fd3d3'
+    white: '#d9d9d9'
+  bright:
+    black: '#c8c8c8'
+    red: '#ffd5ce'
+    green: '#3cff5d'
+    yellow: '#ffda8a'
+    blue: '#c9e0ff'
+    magenta: '#ffd0fa'
+    cyan: '#00f7f5'
+    white: '#ffffff'

@@ -1,0 +1,25 @@
+# Zacess Deep Contrast Light, from Zacess Themes (MIT): https://github.com/zacesshq/themes
+name: Zacess Deep Contrast Light
+accent: '#0f4a85'
+background: '#ffffff'
+foreground: '#000000'
+details: lighter
+terminal_colors:
+  normal:
+    black: '#000000'
+    red: '#ca0000'
+    green: '#00892e'
+    yellow: '#ad6500'
+    blue: '#0040ff'
+    magenta: '#cd01cd'
+    cyan: '#016e78'
+    white: '#595959'
+  bright:
+    black: '#404040'
+    red: '#d14100'
+    green: '#00884f'
+    yellow: '#907300'
+    blue: '#0d00ff'
+    magenta: '#db009a'
+    cyan: '#0178c1'
+    white: '#000000'

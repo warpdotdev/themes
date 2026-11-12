@@ -1,0 +1,25 @@
+# Zacess High Contrast Dark, from Zacess Themes (MIT): https://github.com/zacesshq/themes
+name: Zacess High Contrast Dark
+accent: '#f5c400'
+background: '#000000'
+foreground: '#ffffff'
+details: darker
+terminal_colors:
+  normal:
+    black: '#b3b3b3'
+    red: '#ff9e94'
+    green: '#26f444'
+    yellow: '#f5c400'
+    blue: '#8fd0ff'
+    magenta: '#f2a6ff'
+    cyan: '#00f4e0'
+    white: '#e0e0e0'
+  bright:
+    black: '#cccccc'
+    red: '#ffc4bd'
+    green: '#95ff98'
+    yellow: '#ffe08a'
+    blue: '#c8e6ff'
+    magenta: '#ffcdf7'
+    cyan: '#56fff3'
+    white: '#ffffff'

@@ -1,0 +1,25 @@
+# Zacess Warm Light, from Zacess Themes (MIT): https://github.com/zacesshq/themes
+name: Zacess Warm Light
+accent: '#6d3b02'
+background: '#f4ead5'
+foreground: '#342410'
+details: lighter
+terminal_colors:
+  normal:
+    black: '#342410'
+    red: '#8c1a16'
+    green: '#275200'
+    yellow: '#6a4603'
+    blue: '#014b79'
+    magenta: '#742c60'
+    cyan: '#05514d'
+    white: '#574e44'
+  bright:
+    black: '#60574c'
+    red: '#a4332b'
+    green: '#386616'
+    yellow: '#845701'
+    blue: '#115f93'
+    magenta: '#8a4074'
+    cyan: '#066662'
+    white: '#342410'

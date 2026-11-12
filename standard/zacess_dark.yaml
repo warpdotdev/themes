@@ -1,0 +1,25 @@
+# Zacess Dark, from Zacess Themes (MIT): https://github.com/zacesshq/themes
+name: Zacess Dark
+accent: '#8cbcff'
+background: '#121212'
+foreground: '#f5f5f5'
+details: darker
+terminal_colors:
+  normal:
+    black: '#a3a3a3'
+    red: '#ffa79b'
+    green: '#1bdb41'
+    yellow: '#f0b40b'
+    blue: '#90c1ff'
+    magenta: '#f7a0f1'
+    cyan: '#37d2cf'
+    white: '#e6e6e6'
+  bright:
+    black: '#c8c8c8'
+    red: '#ffd5ce'
+    green: '#34ff57'
+    yellow: '#ffda8a'
+    blue: '#c9e0ff'
+    magenta: '#ffd0fa'
+    cyan: '#23f6f8'
+    white: '#ffffff'

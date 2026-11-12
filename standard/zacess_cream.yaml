@@ -1,0 +1,25 @@
+# Zacess Cream, from Zacess Themes (MIT): https://github.com/zacesshq/themes
+name: Zacess Cream
+accent: '#004498'
+background: '#fdf6e3'
+foreground: '#000000'
+details: lighter
+terminal_colors:
+  normal:
+    black: '#000000'
+    red: '#c1000a'
+    green: '#016f1b'
+    yellow: '#815601'
+    blue: '#015ac2'
+    magenta: '#a901a6'
+    cyan: '#016969'
+    white: '#434343'
+  bright:
+    black: '#484848'
+    red: '#df0010'
+    green: '#008120'
+    yellow: '#966501'
+    blue: '#0069e3'
+    magenta: '#c500bf'
+    cyan: '#027b7b'
+    white: '#000000'
