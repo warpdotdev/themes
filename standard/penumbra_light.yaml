@@ -1,23 +1,25 @@
-accent: '#F2E6D4' # Accent color for UI elements
-background: '#fff7ed' # Terminal background color
-details: lighter # Whether the theme is lighter or darker.
-foreground: '#8F8F8F' # The foreground color.
-terminal_colors: # Ansi escape colors.
-  bright:
-    black: '#bebebe'
-    blue: '#7e87d6'
-    cyan: '#00A0BE'
-    green: '#46A473'
-    magenta: '#BD72A8'
-    red: '#CB7459'
-    white: '#24272b'
-    yellow: '#A38F2D'
+name: Penumbra Light
+accent: '#0080bb'
+cursor: '#2c2e31'
+background: '#efe8dd'
+foreground: '#8b8b8b'
+details: lighter
+terminal_colors:
   normal:
-    black: '#fffdfb'
-    blue: '#7E87D6'
-    cyan: '#00A0BE'
-    green: '#46A473'
-    magenta: '#BD72A8'
-    red: '#CB7459'
-    white: '#3e4044'
-    yellow: '#A38F2D'
+    black: '#dfd9d0'
+    red: '#bb5c78'
+    green: '#759221'
+    yellow: '#b57632'
+    blue: '#0080bb'
+    magenta: '#8470af'
+    cyan: '#008c7d'
+    white: '#2c2e31'
+  bright:
+    black: '#b4b1ad'
+    red: '#bb5c78'
+    green: '#759221'
+    yellow: '#b57632'
+    blue: '#0080bb'
+    magenta: '#8470af'
+    cyan: '#008c7d'
+    white: '#202225'
