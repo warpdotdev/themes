@@ -1,0 +1,25 @@
+name: Penumbra Dark++
+accent: '#009be2'
+cursor: '#eee8dd'
+background: '#101317'
+foreground: '#a9a9a9'
+details: darker
+terminal_colors:
+  normal:
+    black: '#07080b'
+    red: '#e27092'
+    green: '#8eb02a'
+    yellow: '#da8f3e'
+    blue: '#009be2'
+    magenta: '#a088d3'
+    cyan: '#00aa98'
+    white: '#eee8dd'
+  bright:
+    black: '#575b62'
+    red: '#e27092'
+    green: '#8eb02a'
+    yellow: '#da8f3e'
+    blue: '#009be2'
+    magenta: '#a088d3'
+    cyan: '#00aa98'
+    white: '#fff6e9'

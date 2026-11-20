@@ -89,7 +89,13 @@
 |**[Pencil Dark](pencil_dark.yaml)**:|<img src='previews/pencil_dark.yaml.svg' width='300'>|
 |**[Pencil Light](pencil_light.yaml)**:|<img src='previews/pencil_light.yaml.svg' width='300'>|
 |**[Penumbra Dark](penumbra_dark.yaml)**:|<img src='previews/penumbra_dark.yaml.svg' width='300'>|
+|**[Penumbra Dark Plus](penumbra_dark_plus.yaml)**:|<img src='previews/penumbra_dark_plus.yaml.svg' width='300'>|
+|**[Penumbra Dark Plus Plus](penumbra_dark_plus_plus.yaml)**:|<img src='previews/penumbra_dark_plus_plus.yaml.svg' width='300'>|
+|**[Penumbra Dark Plus Plus Semantic 6](penumbra_dark_plus_plus_semantic_6.yaml)**:|<img src='previews/penumbra_dark_plus_plus_semantic_6.yaml.svg' width='300'>|
+|**[Penumbra Dark Plus Semantic 6](penumbra_dark_plus_semantic_6.yaml)**:|<img src='previews/penumbra_dark_plus_semantic_6.yaml.svg' width='300'>|
+|**[Penumbra Dark Semantic 6](penumbra_dark_semantic_6.yaml)**:|<img src='previews/penumbra_dark_semantic_6.yaml.svg' width='300'>|
 |**[Penumbra Light](penumbra_light.yaml)**:|<img src='previews/penumbra_light.yaml.svg' width='300'>|
+|**[Penumbra Light Semantic 6](penumbra_light_semantic_6.yaml)**:|<img src='previews/penumbra_light_semantic_6.yaml.svg' width='300'>|
 |**[Plastic](plastic.yaml)**:|<img src='previews/plastic.yaml.svg' width='300'>|
 |**[Poimandres](poimandres.yaml)**:|<img src='previews/poimandres.yaml.svg' width='300'>|
 |**[Poimandres Alt](poimandres_alt.yaml)**:|<img src='previews/poimandres_alt.yaml.svg' width='300'>|
