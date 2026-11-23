@@ -1,0 +1,26 @@
+# Gotham Noir - Vengeance: rain-soaked obsidian chrome with crimson accent
+name: "Gotham Noir - Vengeance"
+accent: "#e5535c"
+cursor: "#e5535c"
+background: "#151417"
+foreground: "#ddd8d5"
+details: darker
+terminal_colors:
+  normal:
+    black: "#151417"
+    red: "#ef6c74"
+    green: "#6ec798"
+    yellow: "#e8be54"
+    blue: "#7baee6"
+    magenta: "#be9ae6"
+    cyan: "#6fc2ca"
+    white: "#ddd8d5"
+  bright:
+    black: "#918994"
+    red: "#f68e94"
+    green: "#87d7ad"
+    yellow: "#f2ce74"
+    blue: "#9ac2ee"
+    magenta: "#cfb2ee"
+    cyan: "#8ad2d9"
+    white: "#f0ecea"
